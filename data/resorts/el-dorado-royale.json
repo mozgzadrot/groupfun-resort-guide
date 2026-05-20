@@ -1,0 +1,167 @@
+{
+  "id": "el-dorado-royale",
+  "region": "riviera-maya",
+  "rank": 6,
+  "name": "El Dorado Royale",
+  "tagline": "Best value luxury — established, versatile, scenic grounds",
+  "location": "Playa del Carmen area, Km 45 (Riviera Maya)",
+  "type": "Adults-only · Lifestyle-Friendly · All-Inclusive",
+  "tags": [
+    "value",
+    "luxury",
+    "romance",
+    "beach"
+  ],
+  "price_range": "$300–$500",
+  "price_sort": 400,
+  "rooms": "Large property — multiple categories",
+  "best_for": "Value-seeking luxury couples, variety of activities",
+  "ratings": {
+    "overall": "8.4",
+    "google": "4.5 / 5.0",
+    "tripadvisor": "4 / 5 (#99/306)",
+    "booking": "8.2 / 10 (94)",
+    "expedia": "9.2 / 10 (99)"
+  },
+  "category_ratings": {
+    "Romance": "8.5",
+    "Beach": "8.6",
+    "Service": "8.6",
+    "Dining": "8.0",
+    "Value": "8.6"
+  },
+  "sentiment": {
+    "positive": 100,
+    "neutral": 0,
+    "negative": 0,
+    "polarity": 0.45,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-774-0040 / (305) 774-0040",
+    "phone_mx": "+52 998 528 0558",
+    "email": "bookwithus@lomashospitality.com",
+    "website": "royalerivieramaya.com",
+    "address": "Carretera Cancún–Tulum, Km 45, Riviera Maya"
+  },
+  "description": "The best value luxury resort in the region — delivering premium amenities at mid-tier pricing. Expedia guests rated it 9.2/10 with 77% giving a perfect 10/10. Known for lush tropical grounds, excellent staff, and the widest variety of activities. Note: some recent 2024–2025 reviews flag declining standards versus previous visits.",
+  "highlights": [
+    "Best value luxury in the region ($300–$500/night)",
+    "Expedia 9.2/10 — 77% of guests rated it a perfect 10/10",
+    "U.S. News Travel 8.7/10 (668 reviews)",
+    "Beautiful lush tropical grounds and multiple pool areas",
+    "Widest variety of activities and dining options",
+    "Excellent staff consistently praised across review platforms",
+    "Access to El Dorado Casitas Royale facilities via shared amenities"
+  ],
+  "considerations": [
+    "Large, spread-out property — poor internal signage reported",
+    "Beach quality inconsistent — rocky sections, sandbag management issues",
+    "Dining waits can be long during peak periods",
+    "Some 2024–2025 reviews note declining standards vs. previous visits",
+    "Room water pressure and maintenance issues cited in recent reviews"
+  ],
+  "reviews": [
+    {
+      "name": "Scott B",
+      "initials": "SB",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "The grounds are well-maintained and the room was clean, but extremely dark, dingy, and dated. The furniture looks like it came from a garage sale — rooms clearly haven't been updated since the 1990s. Chips in the tub and visible rust throughout. This resort skews very old and sleepy. If you want to swim in the ocean, avoid this place entirely — it's rocky and full of seaweed. Food was decent but very inconsistent across restaurants. Not worth the premium price tag.",
+      "sentiment": "neg",
+      "response": {
+        "by": "El Dorado Royale Management",
+        "text": "Thank you for your candid feedback. We sincerely regret that the room condition and ocean access did not meet your expectations. Your observations have been shared with our facilities and renovation teams. We hope to have the opportunity to provide you with a better experience in the future."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1055652459-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "cwarrow",
+      "initials": "CW",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Our second visit because we loved it so much last year we had to come back. So much to love: the staff, the food, the lush impeccably-maintained grounds. One frustration: they've done away with the app for dinner reservations, and now you can only reserve through YOUR designated concierge booth — you can't go to any booth. Also, La Isla was converted from a wonderful buffet to a menu-only restaurant, which we miss. Server Rami at Cocotal was consistently fantastic. Still a great resort we'll return to.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1055715824-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "wxjoe",
+      "initials": "WJ",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We returned to El Dorado Royale for our 6th time to celebrate our 8th anniversary. We actually got married here at El Dorado and keep coming back because of the people who make our experience so special. The resort consistently delivers that exceptional experience that keeps drawing us back year after year. Already looking forward to our next visit — this place truly holds our hearts.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1055344637-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "CherryKay",
+      "initials": "CK",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "One of the most beautiful resorts I have ever stayed at — and this was our fifth visit. The swim-up rooms are my absolute favorite; nothing better than stepping straight out into the pool first thing in the morning. The staff is truly exceptional: butlers go above and beyond and you feel completely taken care of from the moment you arrive. The food is better than any other resort we've experienced in Mexico. We just booked our trip for May and cannot wait to be back!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1055751030-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Ira M",
+      "initials": "IM",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Beautiful resort with super friendly, helpful staff! Concierges Reina and Claudia were awesome. We avoided the main party pool and enjoyed the quieter beach — unfortunately not swimmable due to sargasso grass and concrete barriers, but still beautiful. Restaurants were easy to get into and bars were plentiful. Only suggestion: add some coffee, dessert, and snack stations for when you don't feel like sitting in a full restaurant. Entertainment was fun — shoutout to the Happy Band!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1055214105-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Kimberley G",
+      "initials": "KG",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Amazing honeymoon experience! Our personal concierge Reina Claudia was absolutely incredible — she made sure every single detail of our honeymoon was perfect in every possible way. We couldn't have asked for more. This resort is pure magic.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1054815344-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "PamJeff2013",
+      "initials": "PJ",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "El Dorado Royale is an amazing gourmet all-inclusive resort. One of the primary reasons we keep returning is the staff — butlers, concierges, waitstaff, shuttle drivers, bartenders, groundskeepers, and housekeeping all go above and beyond. This trip we had the pleasure of butler Angeles Vera whose service was nothing short of excellent — attentive, professional, and genuinely caring from the moment we arrived to the moment we departed. Highly recommend to anyone looking for a true gourmet experience.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1054690245-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Jeff and Betsy B",
+      "initials": "JB",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Trip number 22 at El Dorado Royale! The food was fantastic and everyone just loved on us — Imelda, Luis, Gaby, and Adriana. Edgar at Fuentes is always teaching us something new about Mexican cuisine. We always meet new people and make great new friends every single visit. Twenty-two trips later and this resort still never gets old.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150812-d574249-r1054680339-El_Dorado_Royale-Playa_del_Carmen_Yucatan_Peninsula.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #3d2a0a 0%, #6b4810 50%, #a07020 100%)",
+  "detail_gradient": "linear-gradient(135deg, #3d2a0a, #6b4810, #a07020)"
+}

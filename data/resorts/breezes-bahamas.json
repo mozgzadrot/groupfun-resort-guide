@@ -1,0 +1,194 @@
+{
+  "id": "breezes-bahamas",
+  "region": "nassau-bahamas",
+  "rank": 2,
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/69/72/e9/breezes-bahamas-is-located.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/78/57/7c/breezes-bahamas-aerial.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/69/72/e9/breezes-bahamas-is-located.jpg",
+      "label": "Resort Location",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/ed/14/2c/breezes-resort-spa-bahamas.jpg",
+      "label": "Resort Overview",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/69/76/52/patio-room-pool-view.jpg",
+      "label": "Pool View Room",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/78/57/7c/breezes-bahamas-aerial.jpg",
+      "label": "Aerial View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/ce/d2/15/caption.jpg",
+      "label": "Resort Grounds",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/15/73/d5/caption.jpg",
+      "label": "Pool & Beach",
+      "user": false
+    }
+  ],
+  "name": "Breezes Bahamas Resort & Spa",
+  "tagline": "Cable Beach’s liveliest adults-only all-inclusive — trapeze school, pool parties, pure freedom",
+  "location": "Cable Beach, Nassau, New Providence Island",
+  "type": "Adults-Only · All-Inclusive · Party Resort",
+  "tags": [
+    "party",
+    "beach",
+    "value"
+  ],
+  "price_range": "$200–$400",
+  "price_sort": 300,
+  "rooms": "391 rooms across two beachfront towers",
+  "best_for": "Party-minded couples, value seekers, open-minded crowd",
+  "ratings": {
+    "overall": "8.5",
+    "google": "3.9 / 5.0",
+    "tripadvisor": "4 / 5 (Travelers Choice 2025)",
+    "booking": "8.5 / 10",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "6.5",
+    "Beach": "9.0",
+    "Service": "7.5",
+    "Dining": "7.2",
+    "Value": "8.8"
+  },
+  "sentiment": {
+    "positive": 68,
+    "neutral": 20,
+    "negative": 12,
+    "polarity": 0.45,
+    "label": "Positive"
+  },
+  "description": "Nassau’s most spirited adults-only resort — Breezes throws the best pool parties on Cable Beach and draws a consistently open-minded, fun-loving crowd. The Superclubs heritage of the brand means staff have seen it all and create an atmosphere of total freedom without judgment. An age minimum of 25 applies March through July, ensuring the peak-season crowd stays mature. The trapeze school, rock climbing wall, and four-bar setup keep energy high from morning to midnight. Lifestyle couples have long favoured Breezes for its natural social dynamics — the open-plan pool and beachfront create easy mingling without pressure. At $200–$400 per night all-inclusive, it’s the best value adults-only option in Nassau and a TripAdvisor Travelers’ Choice winner for 2025.",
+  "highlights": [
+    "Best pool parties and beach energy in Nassau",
+    "Trapeze school, rock climbing wall + watersports included",
+    "4 bars + 5 restaurants + nightly entertainment on the beach",
+    "TripAdvisor Travelers Choice Award 2025",
+    "Age minimum 25 (March–July) — mature crowd guaranteed in peak season",
+    "Most affordable adults-only all-inclusive in Nassau",
+    "Natural social atmosphere — popular with open-minded couples"
+  ],
+  "considerations": [
+    "Rooms show their age — decor dated compared to Sandals or RIU",
+    "No private beach — shared Cable Beach (though excellent)",
+    "Can get loud late into the night",
+    "Singles and couples mix — not exclusively couples-only"
+  ],
+  "contact": {
+    "website": "breezes.com",
+    "phone_us": "+1 (242) 327-5356",
+    "address": "Cable Beach, Nassau, Bahamas"
+  },
+  "reviews": [
+    {
+      "name": "Joanne H",
+      "initials": "JH",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "I attended Breezes Bahamas on a day pass as a return guest and my experience was as good as prior occasions. The resort is very well set out and spotlessly clean. There was a buffet lunch offering a wide assortment of excellent food. I think the best part of the resort is the staff and service — it is excellent in all aspects. I will be back for sure.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1055854629-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Jenn A",
+      "initials": "JA",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We have attended this resort three times and have booked again for December 2026 — we love the staff, the food, the beach, the pool, EVERYTHING!!!! Michelle has helped me so many times, she is professional, organized and just an amazing person. Can't wait to go back again and again!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1055603095-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Angela M",
+      "initials": "AM",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "My favourite stay so far in any resort. The staff are incredibly friendly — we always got a good morning as we walked by. Our ocean view room was outstanding: we walked out the door and were practically on the sand. Housekeeping was top notch, bedding changed daily. The food was totally amazing with lots to choose from. The beach is arguably the nicest stretch of Cable Beach. We felt 100% safe throughout. Would we return? 100 percent — already looking into booking next year.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1054623514-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "kris79ma",
+      "initials": "KM",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "We went to Breezes with an open mind and read all reviews ahead of time. Rooms are outdated but housekeeping cleaned daily and everything worked fine. Ocean view room on the top floor had gorgeous views. Food was just OK; coffee was terrible. Lots of spring breakers but they didn't really bother us. The beach was the undeniable highlight — the nicest stretch of Cable Beach. The piano bar (25+) was a great escape in the evenings. Not sure if we'd return, but we had a great time.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1054620025-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Buckley-Oldfield",
+      "initials": "BO",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "We stayed for 11 nights and I genuinely feel I need a holiday to recover from it. Arrived late after 19 hours of travel to be greeted with no porter service, no welcome drink. Rooms are very dated with no balcony seating, AC that was extremely noisy, and all doors circa 1970s that must be slammed to close. Sleep was repeatedly disrupted by slamming doors, spring break revellers, and loud rap music until midnight. Food was always lukewarm. Beach sun loungers are rock hard and the best ones cost $100 a day. Would I visit again? Not even if it were free.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1054534492-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "jeff c",
+      "initials": "JC",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Had a great time at Breezes. Staff are really good and friendly, food has a good choice, and apart from the white wine (not sure what is going on there) the drinks are all of a very good standard. Luckily we left on the first day of spring break. Well positioned — short bus ride to town and right on a lovely beach. Great value all around.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1054422487-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "joycie4smiles",
+      "initials": "J4",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We visited Nassau on a cruise and Breezes is the best bang for your buck for an all-inclusive day pass on the island. When the website showed no availability, I called and Ms. Margo took my name and ensured our party of six would have day passes reserved. Randesha gave us a very warm and friendly Bahamian welcome on arrival. The resort was clean and bright, employees were friendly and helpful, the drinks were great, the food was yummy, and the beach was beautiful. Highly recommend for cruise visitors!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1053731985-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "SunWorship46",
+      "initials": "SW",
+      "date": "January 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "Gone are the glory days of this property. It is clean and well-kept — the beach is genuinely the saving grace here — but dated does not really cover it. The food is not good and usually cold. The bar and wait staff were almost rude at first exposure; once you started tipping generously they warmed up, but that dynamic is deeply uncomfortable at an all-inclusive. I would not spend money here again. Any future Nassau trip will be to Baha Mar or Atlantis — much more expensive but absolutely worth it.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d147627-r1053683281-Breezes_Resort_Spa_All_Inclusive-Nassau_New_Providence_Island_Bahamas.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a3d1a 0%, #0e6b30 50%, #1aa050 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a3d1a, #0e6b30, #1aa050)"
+}

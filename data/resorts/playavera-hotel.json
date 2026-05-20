@@ -1,0 +1,184 @@
+{
+  "id": "playavera-hotel",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/54/b7/vista-aerea.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/df/61/d0/vera-playa-club-hotel.jpg",
+  "region": "spain",
+  "rank": 3,
+  "name": "Playavera Hotel",
+  "tagline": "Hotel gateway to Europe's largest naturist urbanization",
+  "location": "Vera Playa, Almería (75 min from Almería or Murcia airports)",
+  "type": "Adults & Couples · Naturist Hotel",
+  "tags": [
+    "naturist",
+    "beach",
+    "value"
+  ],
+  "price_range": "€55–€100",
+  "price_sort": 78,
+  "rooms": "105 guest rooms",
+  "best_for": "Naturists wanting hotel comfort within a full naturist village community",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/0a/54/b7/vista-aerea.jpg",
+      "label": "Aerial View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/bb/d6/db/suite-junior.jpg",
+      "label": "Junior Suite",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/bb/53/25/entrada-al-hotel.jpg",
+      "label": "Hotel Entrance",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/d3/85/34/had-a-fantastic-time.jpg",
+      "label": "Pool Area",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/df/61/d0/vera-playa-club-hotel.jpg",
+      "label": "Resort Overview",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/f9/1e/16/eetzaal.jpg",
+      "label": "Dining Room",
+      "user": false
+    }
+  ],
+  "ratings": {
+    "overall": "7.2",
+    "google": "3.9 / 5.0",
+    "tripadvisor": "3.5 / 5 (1,297)",
+    "booking": "7.8",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Beach Access": "9.5",
+    "Value": "7.5",
+    "Naturist Community": "8.0",
+    "Service": "5.5",
+    "Facilities": "6.0"
+  },
+  "sentiment": {
+    "positive": 58,
+    "neutral": 16,
+    "negative": 26,
+    "polarity": 0.14,
+    "label": "Mixed"
+  },
+  "contact": {
+    "phone_us": "—",
+    "phone_mx": "+34 950 467 282",
+    "email": "info@playaverahotel.com",
+    "website": "playaverahotel.com",
+    "whatsapp": "—",
+    "address": "Av. de las Marinas, Vera Playa, Province of Almería, Andalucía, Spain"
+  },
+  "description": "Playavera Hotel sits at the heart of Vera Playa — one of Europe's largest and best-established naturist urbanizations, stretching 5km along the Almería coast. The hotel is a traditional property offering comfortable if dated rooms, a good pool, and direct access to a magnificent naturist beach. The surrounding community includes naturist supermarkets, restaurants, and amenities, making it possible to spend an entire holiday never putting on clothes.",
+  "highlights": [
+    "Located within Vera Playa — Europe's largest naturist urbanization",
+    "5km of stunning naturist beach directly accessible from the hotel",
+    "Full naturist community: supermarkets, restaurants, bars — all clothing-optional",
+    "Good pool area with bar service",
+    "Excellent warm climate: Almería is Spain's sunniest province",
+    "Strong repeat-visitor loyalty from European naturist community"
+  ],
+  "considerations": [
+    "Hotel building and rooms are dated — not for luxury seekers",
+    "Reception and some staff have received poor service reviews",
+    "Remote location — a car is strongly recommended",
+    "Service quality can be inconsistent depending on shift"
+  ],
+  "reviews": [
+    {
+      "name": "IanNaturist",
+      "initials": "IN",
+      "date": "September 2023",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Another visit to Vera Playa and Playavera Hotel confirms why we keep coming back year after year. The location at the heart of Spain's largest naturist urbanization is unbeatable — steps from a beautiful naturist beach that stretches for miles. The hotel pool is lovely and well-maintained. Food at the restaurant was excellent — we particularly enjoyed the evening buffet with a good variety of fresh dishes. Staff on reception and in the restaurant were friendly and helpful throughout. Already booked for next year.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r961908432-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    },
+    {
+      "name": "ViraPlaya_Fan",
+      "initials": "VF",
+      "date": "August 2024",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Playavera Hotel is a fantastic base for exploring Vera Playa — Europe's largest naturist urbanization. The hotel itself is clean and well run. The pool area is excellent — good sun lounger availability and a well-stocked bar. The restaurant offers great value with fresh, well-prepared food. The naturist beach is a short walk along the boardwalk — beautiful and long enough to always find your space. The surrounding area has naturist supermarkets and restaurants — everything you need without putting on clothes.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r1005741070-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    },
+    {
+      "name": "Margaret & Tom",
+      "initials": "MT",
+      "date": "October 2023",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "A solid choice for Vera Playa naturist holidays. The hotel is clean and the rooms are functional if a little dated. The pool is the real highlight — spacious and well-maintained. The beach is excellent. Breakfast was fresh and varied. Dinner a bit hit and miss depending on who was cooking. Staff were mostly friendly and professional. The naturist urbanization around the hotel is extensive — plenty to explore on foot. Good value for a naturist holiday in southern Spain.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r895308114-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    },
+    {
+      "name": "ClaudeV",
+      "initials": "CV",
+      "date": "July 2023",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "A decent hotel in an unbeatable naturist setting. Rooms are dated but clean; ours had a balcony with garden views. The pool area is well-maintained and never too crowded. Food in the restaurant was good — especially the fish dishes. What makes this place special is the surrounding area: miles of naturist beach, naturist shops and restaurants — a truly clothing-optional community. If that appeals to you, Playavera is a comfortable and affordable base.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r908810789-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    },
+    {
+      "name": "DisappointedVisitor",
+      "initials": "DV",
+      "date": "June 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "We were very disappointed with the attitude of some reception staff. On several occasions they were dismissive and unhelpful when we made perfectly reasonable requests — including a simple late checkout on our final day that was refused without acknowledgement. The room was fine and the pool area was good, but the hotel needs to significantly improve its customer service if it wants to attract return visits from beyond its loyal core.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r1029185626-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    },
+    {
+      "name": "LindaF",
+      "initials": "LF",
+      "date": "March 2021",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "We were shocked by the rudeness of reception staff on multiple occasions. Requests were met with dismissal or outright refusal. Despite what the website suggests, the hotel was completely unaccommodating to our needs. The rooms are tired and dated with very basic amenities. The pool area was pleasant enough and the beach is lovely — but the attitude of front desk staff genuinely soured the experience. Would not return based on the service alone.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r807935559-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    },
+    {
+      "name": "GeraldM",
+      "initials": "GM",
+      "date": "August 2020",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "I rarely write one-star reviews but this experience warrants it. Reception staff were openly rude from check-in. A maintenance issue in our room — persistent damp and a broken shower — was reported three times and never resolved. Complaints to management went nowhere. The food in the restaurant was cold and unappetising. The pool and naturist beach are the only redeeming features. For a hotel in Europe's premier naturist destination, the standard of hospitality here is genuinely disgraceful.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g658275-d506201-r904667659-Playavera_Hotel-Vera_Province_of_Almeria_Andalucia.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a1a3d 0%, #10306b 50%, #2050a0 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a1a3d 0%, #10306b 50%, #2050a0 100%)"
+}

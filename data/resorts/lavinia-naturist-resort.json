@@ -1,0 +1,161 @@
+{
+  "id": "lavinia-naturist-resort",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/c5/e2/d0/er-zijn-twee-zwembaden.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/c5/e2/d2/prachtige-tuin-vol-kleurrijke.jpg",
+  "region": "spain",
+  "rank": 1,
+  "name": "Lavinia Naturist Resort",
+  "tagline": "Europe's most acclaimed boutique naturist retreat",
+  "location": "Sant Vicent del Raspeig, Alicante (20 min from Alicante airport)",
+  "type": "Adults-Only · Boutique Naturist Villa Resort",
+  "tags": [
+    "romance",
+    "naturist",
+    "privacy",
+    "luxury"
+  ],
+  "price_range": "€80–€160",
+  "price_sort": 120,
+  "rooms": "5 private villa suites",
+  "best_for": "Couples and individuals seeking the ultimate intimate naturist boutique experience",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/c5/e2/d0/er-zijn-twee-zwembaden.jpg",
+      "label": "Twin Swimming Pools",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/c5/e2/d2/prachtige-tuin-vol-kleurrijke.jpg",
+      "label": "Gardens & Grounds",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/c5/e2/d3/prachtige-natuurdomein.jpg",
+      "label": "Mountain Nature Trail",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/ec/63/f8/een-kijkje-op-1-van-de.jpg",
+      "label": "Villa Suite",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0d/a5/2e/caption.jpg",
+      "label": "Pool Terrace",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0d/a4/9c/caption.jpg",
+      "label": "Resort Views",
+      "user": false
+    }
+  ],
+  "ratings": {
+    "overall": "9.8",
+    "google": "4.9 / 5.0",
+    "tripadvisor": "5.0 / 5 (57)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Privacy": "9.9",
+    "Romance": "9.7",
+    "Service": "9.8",
+    "Dining": "9.5",
+    "Value": "8.5"
+  },
+  "sentiment": {
+    "positive": 98,
+    "neutral": 2,
+    "negative": 0,
+    "polarity": 0.49,
+    "label": "Exceptional"
+  },
+  "contact": {
+    "phone_us": "—",
+    "phone_mx": "+34 628 556 123",
+    "email": "info@lavinianaturist.com",
+    "website": "lavinianaturist.com",
+    "whatsapp": "Available on website",
+    "address": "Sant Vicent del Raspeig, Province of Alicante, Valencian Community, Spain"
+  },
+  "description": "Europe's highest-rated naturist retreat — a private mountain villa estate hosting just five couples at a time. Hosts Ana and Wim have crafted an experience of extraordinary intimacy: half-board dinners at the communal table, breakfast delivered to your terrace, two pools, a sauna, jacuzzi, and private mountain trail. With a near-perfect TripAdvisor score across all 57 reviews, Lavinia sets a standard that no other European naturist property approaches.",
+  "highlights": [
+    "Near-perfect TripAdvisor score — 5.0/5 across all 57 reviews",
+    "Just five private villa suites — guaranteed intimacy and seclusion",
+    "Half-board included: five communal dinners/week with house wines",
+    "Breakfast delivered fresh each morning to your private terrace",
+    "Two pools, sauna, jacuzzi, and a private mountain trail",
+    "Hosts Ana and Wim treat every guest like close personal friends",
+    "300+ days of sunshine; mountain setting above Alicante"
+  ],
+  "considerations": [
+    "Not beachside — a mountain retreat, 20 min from the coast",
+    "Very small property — guests meet every other couple in residence",
+    "Steep access road; arrival in daylight strongly recommended"
+  ],
+  "reviews": [
+    {
+      "name": "NaturistTravellers",
+      "initials": "NT",
+      "date": "October 2024",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We have stayed at many naturist resorts across Europe over the past 20 years and nothing comes close to Lavinia. Ana and Wim have created something truly special. Our villa was immaculate, beautifully decorated, with a private terrace overlooking the gardens. Breakfast delivered fresh every morning. Dinner at the communal table with fellow guests — with wine and produce grown on site — was one of the highlights of the entire trip. The two pools, sauna, and mountain trail completed a perfect week of total relaxation. Our third visit. Absolutely not our last.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1064252-d17711289-r1010893726-Lavinia_Naturist_Resort-Sant_Vicent_del_Raspeig_Province_of_Alicante_Valencia.html"
+    },
+    {
+      "name": "Michael & Janet K",
+      "initials": "MK",
+      "date": "September 2024",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We came to Lavinia for our anniversary and left wishing we could stay forever. Ana and Wim treat every guest like family from the very first email. The villa was the most beautifully appointed accommodation we have ever stayed in — quality linens, a fully equipped kitchen, stunning garden views. Five dinners per week at the communal table with fellow guests were a wonderful surprise: exceptional home-cooked food with local wines. Two large pools, a jacuzzi, sauna, and a private mountain trail completed a perfect week.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1064252-d17711289-r948494601-Lavinia_Naturist_Resort-Sant_Vicent_del_Raspeig_Province_of_Alicante_Valencia.html"
+    },
+    {
+      "name": "Brian & Helen T",
+      "initials": "BH",
+      "date": "June 2024",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Lavinia is the most peaceful place I have ever been. Tucked into the mountains above Alicante, it feels completely cut off from the outside world in the best possible way. The grounds are beautifully maintained with rich gardens, sculptures, and shaded areas. We adored the communal dinners with hosts Ana and Wim — genuine, warm people who go to extraordinary lengths to make every guest feel at home. The morning mountain walks were stunning. We slept better here than anywhere in years.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1064252-d17711289-r969196813-Lavinia_Naturist_Resort-Sant_Vicent_del_Raspeig_Province_of_Alicante_Valencia.html"
+    },
+    {
+      "name": "Dave W",
+      "initials": "DW",
+      "date": "April 2023",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "As one of the first English-speaking guests at Lavinia, I wasn't sure what to expect, but Ana and Wim could not have been more welcoming. They helped with everything from restaurant recommendations to arranging local excursions. The villa itself was gorgeous — a real home from home. The gardens are extraordinary and the two pools are always immaculately maintained. Dinner at the communal table with other guests from across Europe was a lovely touch. Highly recommended to any naturist looking for something genuinely different.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1064252-d17711289-r692975876-Lavinia_Naturist_Resort-Sant_Vicent_del_Raspeig_Province_of_Alicante_Valencia.html"
+    },
+    {
+      "name": "PhilippaJ",
+      "initials": "PJ",
+      "date": "October 2024",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "This resort is an oasis of calm unlike anywhere else I have visited. Set in a stunning mountain landscape with views in every direction, Lavinia offers true seclusion and tranquility. Ana and Wim are exceptional hosts who clearly pour their hearts into every detail. The breakfasts — delivered to your villa terrace — are a joy. Evening dinners at the communal table are social occasions we looked forward to all day. Only small note: the access road is steep and narrow, so arrival in daylight is recommended. That aside, it was close to perfection.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1064252-d17711289-r1003156792-Lavinia_Naturist_Resort-Sant_Vicent_del_Raspeig_Province_of_Alicante_Valencia.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #1a0a3d 0%, #38106b 50%, #5520a0 100%)",
+  "detail_gradient": "linear-gradient(135deg, #1a0a3d 0%, #38106b 50%, #5520a0 100%)"
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "slug": "riviera-maya",
+    "name": "Riviera Maya, Mexico",
+    "flag": "🇲🇽",
+    "description": "Mexico's Caribbean coastline — home to world-class lifestyle resorts stretching from Cancun to Playa del Carmen.",
+    "filter_pills": [
+      {
+        "tag": "all",
+        "label": "All Resorts"
+      },
+      {
+        "tag": "luxury",
+        "label": "Luxury ($400+)"
+      },
+      {
+        "tag": "value",
+        "label": "Best Value"
+      },
+      {
+        "tag": "party",
+        "label": "Party Focus"
+      },
+      {
+        "tag": "romance",
+        "label": "Romance Focus"
+      },
+      {
+        "tag": "privacy",
+        "label": "Maximum Privacy"
+      },
+      {
+        "tag": "beach",
+        "label": "Best Beach"
+      }
+    ],
+    "hero_stats": [
+      {
+        "value": "6",
+        "label": "Resorts"
+      },
+      {
+        "value": "4,840+",
+        "label": "Google Reviews"
+      },
+      {
+        "value": "4.65",
+        "label": "Avg Rating"
+      },
+      {
+        "value": "90%",
+        "label": "Positive Sentiment"
+      },
+      {
+        "value": "$150–$800",
+        "label": "Price Range/Night"
+      }
+    ],
+    "hero_copy": {
+      "badge": "🇲🇽 &nbsp; Riviera Maya · Mexico",
+      "title": "Couples Lifestyle Resorts",
+      "subtitle": "Riviera Maya",
+      "blurb": "Six verified adults-only lifestyle resorts on the Caribbean coast — ranked, reviewed, and compared across every key dimension."
+    }
+  },
+  {
+    "slug": "punta-cana",
+    "name": "Punta Cana, Dominican Republic",
+    "flag": "🇩🇴",
+    "description": "The Dominican Republic's premier resort coast — from adults-only lifestyle havens on Bávaro Beach to the ultra-exclusive Cap Cana enclave.",
+    "filter_pills": [
+      {
+        "tag": "all",
+        "label": "All Resorts"
+      },
+      {
+        "tag": "luxury",
+        "label": "Luxury ($400+)"
+      },
+      {
+        "tag": "value",
+        "label": "Best Value"
+      },
+      {
+        "tag": "party",
+        "label": "Party Focus"
+      },
+      {
+        "tag": "romance",
+        "label": "Romance Focus"
+      },
+      {
+        "tag": "privacy",
+        "label": "Maximum Privacy"
+      },
+      {
+        "tag": "beach",
+        "label": "Best Beach"
+      }
+    ],
+    "hero_stats": [
+      {
+        "value": "5",
+        "label": "Resorts"
+      },
+      {
+        "value": "76,000+",
+        "label": "Reviews"
+      },
+      {
+        "value": "4.46",
+        "label": "Avg Rating"
+      },
+      {
+        "value": "84%",
+        "label": "Positive Sentiment"
+      },
+      {
+        "value": "$150–$650",
+        "label": "Price Range/Night"
+      }
+    ],
+    "hero_copy": {
+      "badge": "🇩🇴 &nbsp; Punta Cana · Dominican Republic",
+      "title": "Couples Lifestyle Resorts",
+      "subtitle": "Punta Cana",
+      "blurb": "Five adults-only lifestyle resorts on the Dominican Republic's premier Caribbean coast — from vibrant party havens to ultra-luxury retreats at Cap Cana."
+    }
+  },
+  {
+    "slug": "nassau-bahamas",
+    "name": "Nassau & Paradise Island, Bahamas",
+    "flag": "🇧🇸",
+    "description": "Nassau's finest adults-only all-inclusive resorts — the Bahamas' closest island chain to the US, a major lifestyle cruise port with a vibrant open-minded couples community.",
+    "filter_pills": [
+      {
+        "tag": "all",
+        "label": "All Resorts"
+      },
+      {
+        "tag": "luxury",
+        "label": "Luxury ($400+)"
+      },
+      {
+        "tag": "value",
+        "label": "Best Value"
+      },
+      {
+        "tag": "party",
+        "label": "Party Focus"
+      },
+      {
+        "tag": "romance",
+        "label": "Romance Focus"
+      },
+      {
+        "tag": "privacy",
+        "label": "Maximum Privacy"
+      },
+      {
+        "tag": "beach",
+        "label": "Best Beach"
+      }
+    ],
+    "hero_stats": [
+      {
+        "value": "4",
+        "label": "Resorts"
+      },
+      {
+        "value": "18,000+",
+        "label": "Reviews"
+      },
+      {
+        "value": "4.1",
+        "label": "Avg Rating"
+      },
+      {
+        "value": "$150–$700",
+        "label": "Per Night"
+      }
+    ],
+    "hero_copy": {
+      "badge": "🇧🇸 &nbsp; Nassau &amp; Paradise Island · Bahamas",
+      "title": "Adults-Only Couples Resorts",
+      "subtitle": "Nassau &amp; Paradise Island",
+      "blurb": "Four top-rated adults-only all-inclusives on Nassau's Cable Beach and Paradise Island — the Bahamas' premier couples destination, just 30 minutes from Miami, and a major stop on Caribbean lifestyle cruises."
+    }
+  },
+  {
+    "slug": "spain",
+    "name": "Spain — Naturist Resorts",
+    "flag": "🇪🇸",
+    "description": "From the sun-kissed Costa del Sol and Alicante mountains to the wild Canary Islands — Spain's premier naturist resorts offer Europe's finest clothing-optional destinations, with year-round warmth and legendary Mediterranean hospitality.",
+    "filter_pills": [
+      {
+        "tag": "all",
+        "label": "All Resorts"
+      },
+      {
+        "tag": "luxury",
+        "label": "Boutique & Luxury"
+      },
+      {
+        "tag": "value",
+        "label": "Best Value"
+      },
+      {
+        "tag": "beach",
+        "label": "Beachfront"
+      },
+      {
+        "tag": "romance",
+        "label": "Romance & Couples"
+      },
+      {
+        "tag": "naturist",
+        "label": "Fully Naturist"
+      },
+      {
+        "tag": "privacy",
+        "label": "Maximum Privacy"
+      }
+    ],
+    "hero_stats": [
+      {
+        "value": "4",
+        "label": "Resorts"
+      },
+      {
+        "value": "2,000+",
+        "label": "Reviews"
+      },
+      {
+        "value": "4.1",
+        "label": "Avg Rating"
+      },
+      {
+        "value": "€60–€180",
+        "label": "Per Night"
+      }
+    ],
+    "hero_copy": {
+      "badge": "🇪🇸 &nbsp; Spain — Naturist Resorts",
+      "title": "Europe's Premier Naturist Destinations",
+      "subtitle": "Spain",
+      "blurb": "From a boutique mountain villa near Alicante to the legendary Costa del Sol and the dramatic Canary Islands coast — Spain's finest clothing-optional resorts span a breathtaking range of landscapes and atmospheres."
+    }
+  }
+]

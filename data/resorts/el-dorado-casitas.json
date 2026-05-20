@@ -1,0 +1,183 @@
+{
+  "id": "el-dorado-casitas",
+  "region": "riviera-maya",
+  "rank": 5,
+  "name": "El Dorado Casitas Royale",
+  "tagline": "Unique swim-out casitas with private plunge pools",
+  "location": "Riviera Maya (Km 45, Cancun–Tulum highway)",
+  "type": "Adults-only · Lifestyle-Friendly · All-Inclusive",
+  "tags": [
+    "privacy",
+    "luxury",
+    "romance"
+  ],
+  "price_range": "$500–$800",
+  "price_sort": 650,
+  "rooms": "Boutique — swim-out casitas only",
+  "best_for": "Maximum privacy, honeymoons, special occasions",
+  "ratings": {
+    "overall": "8.7",
+    "google": "4.5 / 5.0",
+    "tripadvisor": "—",
+    "booking": "8.2 / 10 (45)",
+    "expedia": "9.3 / 10"
+  },
+  "category_ratings": {
+    "Romance": "9.4",
+    "Beach": "8.5",
+    "Service": "8.8",
+    "Dining": "8.2",
+    "Value": "7.2"
+  },
+  "sentiment": {
+    "positive": 100,
+    "neutral": 0,
+    "negative": 0,
+    "polarity": 0.51,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-774-0040 / (305) 774-0040",
+    "phone_mx": "+52 998 528 0558",
+    "email": "bookwithus@lomashospitality.com",
+    "website": "casitasrivieramaya.com",
+    "address": "Carretera Cancún–Tulum, Km 45, Riviera Maya"
+  },
+  "description": "The only resort in the region offering swim-out casitas with individual private plunge pools — each suite opens directly onto a lazy river and communal swim area. AAA Four Diamond rated. The boutique scale ensures deeply personalised service and maximum privacy, making it the undisputed #1 choice for honeymoons and anniversary celebrations.",
+  "highlights": [
+    "ONLY resort in region with swim-out casitas and private plunge pools",
+    "Each casita connects to a lazy river and communal pool",
+    "AAA Four Diamond rated — guarantees service standards",
+    "Expedia 9.3/10 — couples rate it top for two-person trips",
+    "Boutique scale = deeply personalised, highly attentive service",
+    "Staff described as professional, discreet, and accommodating",
+    "Perfect for honeymoons — resort specialises in milestone celebrations"
+  ],
+  "considerations": [
+    "Highest price tier ($500–$800/night)",
+    "Fewer dining variety options vs. larger resorts",
+    "Ground-floor casitas: neighbour visibility is a concern for some",
+    "Remote location — limited off-resort activity access"
+  ],
+  "reviews": [
+    {
+      "name": "Scott S",
+      "initials": "SS",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "AVOID! I've been a Diamond Member with Exotic Travelers Club for 23 years, paying over $50,000 in membership fees. On this trip we were told our benefits would not be honored because we booked on Lomashospitality.com instead of Exotictravelers.com — which are the same company. The rudeness about this has been astonishing. If they treat a 23-year customer this way, how will they treat you? Stay far away from their member presentations — the benefits are clearly worthless.",
+      "sentiment": "neg",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for your long-standing loyalty and for sharing this feedback. We sincerely apologize for the confusion regarding your membership benefits. This is not the level of attention we strive to provide and your comments have been shared with the appropriate teams for immediate review."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1054665617-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Jason F",
+      "initials": "JF",
+      "date": "December 2025",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "Marketed as luxury, but operationally broken. Restaurant reservations were either non-existent or couldn't be located by hosts. We observed restaurants with empty tables while being told no availability existed. Room service was quoted at two-hour wait times; when it arrived, food quality was inedible. The gym had sand on the floors and outdated equipment. The shuttle was unreliable across this 3-mile property. We departed early at our own expense. Some staff were courteous, but the operation simply did not match the premium price.",
+      "sentiment": "neg",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "We sincerely regret that your experience did not meet expectations and that you chose to depart early. Your detailed feedback regarding dining coordination, transportation, and facilities has been shared with all relevant departments for immediate review. We are committed to improving these areas."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1051542399-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Mark P",
+      "initials": "MP",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "The resort is nice but part of a very large sprawling complex. Shuttle service was often full with members getting priority. Restaurants fill up fast — we could only secure 3 reservations, nothing before 8pm. When we arrived at our reservation times, restaurants were half-full. The Santa Fe steakhouse served tough, overcooked steak with staff more focused on pushing expensive wine. Best parts: Fuentes dinner theater (worth every penny of the upcharge), the spa, pool bartender at building 28, and housekeeper Sandra who was exceptional.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1051397214-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Michael M",
+      "initials": "MM",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "The food is honestly the best we've experienced at any all-inclusive resort. Staff are wonderful and warm. However, the resort stretches nearly 3 miles end-to-end and transportation is inconsistent. The beach is disappointing — concrete barriers and a rocky reef make it impossible to actually swim. The pools were extremely cold throughout our visit, with hardly anyone in the water despite crowds around the pool deck. Despite the constant wind and cold pools, it's a beautiful resort with great food.",
+      "sentiment": "mixed",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for your balanced and detailed review. We're pleased you enjoyed the food and warm service. Your feedback regarding pool temperature, beach access, and transportation availability is greatly valued and has been shared with our operations teams."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1055222764-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "lytsout1",
+      "initials": "LY",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "We got married here 15 years ago and this is our 6th visit — our only non-5-star review. The resort is still fabulous: rooms feel dated but the outdoor shower alone is worth the price, and Fuentes dinner theater is great every time. Our specific issue was tipping. On three occasions an employee deliberately called us names in Spanish when we didn't tip. Management needs to urgently clarify the tipping policy: tips should be included in all-inclusive and should never be expected or demanded.",
+      "sentiment": "mixed",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for your continued loyalty and for sharing this candid feedback. Any behavior that makes a guest feel uncomfortable is completely unacceptable. Your comments have been addressed directly with our leadership team to reinforce our standards of professionalism and respect at all times."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1051583217-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "bckrause",
+      "initials": "BC",
+      "date": "January 2025",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We've been coming to EDCR for New Year's for the past 12 years, and this was one of our best visits yet. Casita butlers Hector and Miriam could not have been better — they went well beyond the norm to make our stay truly memorable. Section 32 bartender Alberto and beach butler Alberto were both fantastic keeping us hydrated wherever we were. Even Karen and Claudio — not our assigned butlers — helped us at every turn thanks to our ongoing relationship with them. Concierge Emi rounded it all out.",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for 12 years of New Year's celebrations with us! We are thrilled this was one of your best stays yet. Hector, Miriam, both Albertos, Karen, Claudio, and Emi will be delighted to hear of your kind recognition."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r988002406-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Dan",
+      "initials": "DAN",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our stay was defined by truly outstanding service. Shoutout to Benjamin, David, and concierge Reina for making everything seamless. The food was world-class: the beef curry at Jade may be the best I've ever had; Fuentes restaurant theater paired with a phenomenal guitarist was worth every extra cent. Casual options at Kick (burgers) and The Spot (tacos) were also excellent. Rooms were spotless. The catamaran snorkeling at Maroma Beach was wonderful — we even spotted a large sea turtle.",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for your thoughtful and detailed review! We are delighted you enjoyed the outstanding service from our team, the culinary experiences, and the Maroma Beach excursion. Benjamin, David, and Reina will be thrilled by your kind words."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1053266056-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Miji14",
+      "initials": "MJ",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "This is our 10th visit here! Concierge Wilma was absolutely fantastic — she stopped by the pool twice daily to check on us, bringing waters, chips, and Bueno bars. Luis at Santa Fe remembered our exact coffee and juice preferences. Rodrigo at D'Italia Casitas brought out a delicious off-menu pasta just for us. Pool bartender Manuel kept our cups filled all week. It really is the people that make this place — are there occasional glitches? Sure, but 9 times out of 10 someone will go above and beyond.",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for your incredible loyalty — 10 visits means the world to us! We are delighted you had another wonderful stay. Wilma, Luis, Rodrigo, and Manuel will be so pleased to hear of your recognition."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1052032691-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #1a3d0a 0%, #2a6020 50%, #3a8030 100%)",
+  "detail_gradient": "linear-gradient(135deg, #1a3d0a, #2a6020, #3a8030)"
+}

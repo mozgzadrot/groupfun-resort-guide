@@ -1,0 +1,216 @@
+{
+  "id": "desire-pearl",
+  "region": "riviera-maya",
+  "rank": 1,
+  "name": "Desire Pearl Resort",
+  "tagline": "Highest-rated luxury couples lifestyle retreat",
+  "location": "Puerto Morelos (45 min from Cancun airport)",
+  "type": "Couples-only · Luxury All-Inclusive",
+  "tags": [
+    "romance",
+    "luxury",
+    "lifestyle"
+  ],
+  "price_range": "$200–$400",
+  "price_sort": 300,
+  "rooms": "88 luxury villa suites",
+  "best_for": "Honeymoons, anniversaries, first-time lifestyle",
+  "ratings": {
+    "overall": "9.3",
+    "google": "4.7 / 5.0",
+    "tripadvisor": "4.7 / 5 (3,118)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "9.5",
+    "Beach": "8.2",
+    "Service": "9.0",
+    "Dining": "9.2",
+    "Value": "7.5"
+  },
+  "sentiment": {
+    "positive": 100,
+    "neutral": 0,
+    "negative": 0,
+    "polarity": 0.49,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-211-3241",
+    "phone_mx": "+52 998 193 2389",
+    "email": "desirepearl@original-group.com",
+    "website": "desireresorts.com",
+    "whatsapp": "Available on website",
+    "address": "Puerto Morelos, Quintana Roo, Mexico"
+  },
+  "description": "The highest-rated lifestyle resort in Riviera Maya — an intimate 88-suite couples-only retreat where every detail is engineered for romance. Pearl's boutique scale and relentless service standards make it the premier choice for honeymoons, anniversaries, and milestone celebrations.",
+  "highlights": [
+    "Highest overall satisfaction score in the region (9.3/10)",
+    "Couples-only property with 88 luxury villa suites — intimate boutique feel",
+    "World-class service: guests describe staff 'like family'",
+    "Private oceanview balconies, pristine beach, top-rated dining",
+    "Ideal for engagements, weddings, and honeymoons on-site",
+    "Clothing-optional designated pool and beach areas",
+    "All-inclusive: meals, premium spirits, activities, entertainment"
+  ],
+  "considerations": [
+    "Premium pricing ($200–$400/night)",
+    "Smaller property — fewer activity options than larger resorts",
+    "May book out months ahead for peak December–February season"
+  ],
+  "reviews": [
+    {
+      "name": "Pineapple Travelers",
+      "initials": "PT",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "This resort is a shell of its former self. The timeshare sales pressure is even more intense than before — we were told at check-in that our sales appointment was the next day. New management has utterly destroyed this place. A huge portion of the beloved staff has been fired, and cuts in food costs resulted in mostly disgusting food. In five years of visiting twice a year we'd been told maybe twice that guests weren't coming back — that was the theme of this entire trip.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1052908551-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "SMB",
+      "initials": "SM",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "Upon arrival we were immediately hit with Premier sales pressure. Our room had a strong musty/moldy smell that permeated our luggage. Active construction directly above us began every morning at 7am and continued late into the evening. The constant high-pressure upselling significantly detracted from our experience. Bright spots: bartenders Rosemberg and Sulle at the jacuzzi bar were outstanding, and waiter Orlando was truly the best we've encountered anywhere.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1054189890-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "mark b",
+      "initials": "MB",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Just returned from our first time at Pearl — not our first lifestyle resort. Can't say enough about the staff and all the little touches for our anniversary. Beautiful ocean view from the quiet pool. Enjoyed the theme nights and shows. Only complaints: being asked 5-6 times daily about massages, and food is just average for the price point. Yes, we would return — and highly recommend for first-timers.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1049974705-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "brad f",
+      "initials": "BF",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "First trip to Desire Pearl and it absolutely lived up to the hype. The resort is small — always room at the pool and everything feels relaxed and personal. Every meal at Aphrodite was outstanding: hostess May, waiter Oliver at breakfast, and Eduardo in the evenings were exceptional. Pool staff Gabi kept our cups never empty. We've already booked our return trip for June — we can't wait.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1050178050-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Mande R",
+      "initials": "MR",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "My favorite place on Earth to relax and enjoy uninhibited fun! The workers have become like family. Butler Erik is by far our favorite — I wish he were with us back home. Waiter Gilberto at Pearl treats us like family and always makes sure we have what we need. Pool attendant Horacio always gets us our preferred chairs. I do have concerns about money going toward the new stage rather than fixing the jacuzzi bubbles and pool filtration system.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1050380475-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Allen G",
+      "initials": "AG",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We have visited once every year since 2013. The level of service and care from the staff is unmatched — most of them have been here since we first started coming. Butlers Hector, Vincent, and Erick take care of every little detail. Bartenders Eddy, Louis Lugo, and Rosenberg are top-notch. Groundskeeper Javier will get you a fresh coconut in the morning. This resort is truly our second home and family.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1053310091-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "ChrisS-035",
+      "initials": "CS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our second visit to Pearl and we thoroughly enjoyed every day. Concierge Amir Cabrera was fantastic — he anticipated our needs. Pool attendants Victor and Miguel reserved our preferred chairs. Our couples massage with Tamie and Melissa was over the top. Pool staff Yolanda, Gabi, and Monica were attentive without being overbearing. Bartender Antonio gave us great conversation and perfectly mixed drinks. We are already planning to return in 2027.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1055883031-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Curiosity03745114526",
+      "initials": "CU",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We visited Pearl last March for another wonderful wedding anniversary. The food is exceptional — thank you to chef Ana, Christopher, and Jesus. Our room was very clean and the whole resort was immaculate. Every staff member is welcoming and always ready to help. The pool attendants are wonderful. We will absolutely be back soon.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d2641451-r1055252379-Desire_Pearl_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    }
+  ],
+  "hero": "https://www.desire-experience.com/wp-content/uploads/2024/04/DRMP_Mansion-royal-oceanfront-suites-fachada.jpg",
+  "thumbnail": "https://www.desire-experience.com/wp-content/uploads/2024/04/DRMP_Ocean-view-1.jpg",
+  "photos": [
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/DRMP_Ocean-view-1.jpg",
+      "label": "Ocean View Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/DRMP_Penthouse-1.jpg",
+      "label": "Penthouse Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Mansion-Swimup-Suite_1.jpg",
+      "label": "Mansion Swim-Up Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Allure-Suite-1.webp",
+      "label": "Allure Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Master-suite-con-plunge-pool-1.jpg",
+      "label": "Master Suite with Plunge Pool",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/DRMP_Mansion-royal-oceanfront-suites-fachada.jpg",
+      "label": "Royal Oceanfront Mansion",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/DRMP_Penthouse-1.jpg",
+      "label": "Private Beach",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Mansion-Swimup-Suite_1.jpg",
+      "label": "Mansion Swim-Up Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Master-suite-con-plunge-pool-1.jpg",
+      "label": "Plunge Pool Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Allure-Suite-1.webp",
+      "label": "Allure Suite",
+      "user": false
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a3d3d 0%, #0e6060 50%, #1a8080 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a3d3d, #0e6060, #1a8080)"
+}

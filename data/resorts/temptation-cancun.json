@@ -1,0 +1,236 @@
+{
+  "id": "temptation-cancun",
+  "region": "riviera-maya",
+  "rank": 3,
+  "name": "Temptation Cancun Resort",
+  "tagline": "Best budget option — non-stop Vegas-style party energy",
+  "location": "Cancun Hotel Zone (central, easy access)",
+  "type": "Adults-only · Party-Focused · All-Inclusive",
+  "tags": [
+    "party",
+    "value",
+    "lifestyle"
+  ],
+  "price_range": "$150–$300",
+  "price_sort": 225,
+  "rooms": "430 rooms (largest property)",
+  "best_for": "Budget-conscious couples, party lovers, first-timers",
+  "ratings": {
+    "overall": "8.2",
+    "google": "4.4 / 5.0",
+    "tripadvisor": "4 / 5 (8,088)",
+    "booking": "8.5 / 10 (1,218)",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "7.0",
+    "Beach": "8.2",
+    "Service": "7.9",
+    "Dining": "7.6",
+    "Value": "8.5"
+  },
+  "sentiment": {
+    "positive": 67,
+    "neutral": 33,
+    "negative": 0,
+    "polarity": 0.28,
+    "label": "Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-774-0040",
+    "phone_direct": "+52 998 848 7900",
+    "email": "chiefconcierge@temptationresorts.com",
+    "website": "temptationresorts.com",
+    "whatsapp": "Available on website",
+    "address": "Cancun Hotel Zone, Quintana Roo, Mexico"
+  },
+  "description": "The most accessible entry point into the Riviera Maya lifestyle scene — a 430-room adults-only resort with an electrifying party atmosphere, Vegas-style Bash nightclub, topless-optional pool, and the largest social scene in the region. Ideal for first-timers and social couples on a budget.",
+  "highlights": [
+    "Most affordable lifestyle resort ($150–$300/night)",
+    "Bash nightclub — outdoor Vegas-style club with LED stage, nightly shows",
+    "Topless-optional pool with high-energy daily parties",
+    "7 restaurants, 6 bars, late-night snack bar, gourmet café",
+    "Bash Tower rooms — balcony views of the party scene below",
+    "Booking.com 8.5/10 across 1,218 verified reviews",
+    "Central Cancun location — easy airport access, excursions nearby"
+  ],
+  "considerations": [
+    "Service can be inconsistent across large 430-room property",
+    "Food quality below premium resorts — decent but not exceptional",
+    "Noise levels high (especially Bash Tower rooms) — poor for light sleepers",
+    "Average guest age mid-40s — less mixed-age than some expect",
+    "Some guests report unexpected charges — confirm pricing upfront"
+  ],
+  "reviews": [
+    {
+      "name": "Sergio D",
+      "initials": "SD",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "Deeply disappointing experience due to a serious billing issue. A $22,500 MXN ($1,300 USD) security deposit from our November 2025 stay has still not been refunded after several months. The hotel claims it was only a 'hold,' but it clearly appears as a charge on our credit card statement. Customer service has provided zero resolution. Be very cautious with security deposits at check-in — make absolutely sure it processes as a hold and not a charge.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1054917377-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "ron w",
+      "initials": "RW",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "This place used to be our go-to twice a year since 2015 but it just took a nosedive. A new CEO has completely ruined this resort. We were slowly watching it go downhill and now it has completely lost what made it special. Time to find a new piece of paradise. Would advise others to do the same.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Temptation Cancun Resort",
+        "text": "Thank you for sharing your feedback and for your loyalty since 2015. We are sincerely sorry your recent experience did not meet expectations. We would greatly appreciate specific details to help us address your concerns and improve."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1055052639-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Katie M",
+      "initials": "KM",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "Be careful about upselling at this resort. At Sea Flirt the sommelier didn't discuss which bottles were included in our package and we ended up with a 5,000 peso ($280) wine bill we thought was covered. When I tried to resolve it, I was given the same sommelier to talk to instead of a manager — he just repeated 'you have to pay.' I felt completely unheard and it made me cry. Ask about every single item before accepting anything at any meal.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Temptation Cancun Resort",
+        "text": "We are truly sorry about the confusion with the sparkling wine inclusion and the lack of clear communication. Your case has been escalated to our management team. We deeply regret that you felt unheard — this is not the level of service we strive to provide."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1054132299-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "gene l",
+      "initials": "GL",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "Very inconsistent experience. Food and drinks were hit or miss. Service was great overall and I had no stomach issues — which is often a problem in Mexico. Room was okay and comfortable but the AC just couldn't keep up and I had to ask for a fan. The gym was run down with no air conditioning. Not bad, but not great.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1055903214-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Marshall Bud P",
+      "initials": "MP",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Went solo for the first time to Temptation and loved the European vibe — lively and vibrant. Rooms are clean and neat. Staff is very accommodating. Drinks are top-shelf and food is varied and eclectic. Entertainment starts at 11am at the sexy pool and ends around 3am at Bash. The only downside was an excursion to see the Cenotes — get ready for the bumpiest ride of your life on that road.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Temptation Cancun Resort",
+        "text": "Thank you for choosing Temptation for your first solo trip! We're thrilled you enjoyed the atmosphere, staff, food, and entertainment. We appreciate your feedback about the cenote tour road and have shared it with our tour partners."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1054796241-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Marene S",
+      "initials": "MS",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Had a great trip and I can't wait to go back. The entertainment was well done. Playmaker Edgar (Mojito) was friendly and fun. Sam, Brai, Andy, Will, Waldry, Cowboy, Red Bull, and Jolie were all amazing as well. The environment is welcoming and all the people were fun. The waiters were great too. Already looking forward to returning.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Temptation Cancun Resort",
+        "text": "Thank you so much for sharing your wonderful feedback! We are thrilled to know you had a great trip and that Edgar and the playmaker team made your experience even more fun and memorable."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1054225818-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Abraham A",
+      "initials": "AA",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Another great trip despite concerns we'd heard about the ownership change. This place still has a great party vibe — sexy, not vulgar. Service is great and food is good. The Playmakers are the lifeblood of this resort: Dani Boy, Wild, Rafa, Cowboy, Red Bull, Mojito, Sam, Bride, MAG, Andrea La Diabla, Deli, and Day. You need to bring good energy and have fun — lots of it!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Temptation Cancun Resort",
+        "text": "Thank you for sharing this fantastic feedback! We're thrilled the resort still delivers that unique, vibrant essence. Your kind recognition of our Playmakers team means the world to them. Looking forward to welcoming you back!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1054032083-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Stay17992008926",
+      "initials": "ST",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "The experience was great. Leo was awesome as our butler. Aldo, Gerry, George, Albert, Mike, Ivan, and Diego made the whole trip — seeing all of them is what makes Temptation the best resort. They treat you like absolute family.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Temptation Cancun Resort",
+        "text": "Thank you so much for your amazing review! We are truly delighted to know you had such a great experience. Leo, Aldo, Gerry, George, Albert, Mike, Ivan, and Diego will be thrilled to know they made such a positive impact on your stay."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g150807-d154428-r1055350872-Temptation_Cancun_Resort-Cancun_Yucatan_Peninsula.html"
+    }
+  ],
+  "hero": "https://www.temptation-experience.com/wp-content/uploads/2023/10/6_fachada.webp",
+  "thumbnail": "https://www.temptation-experience.com/wp-content/uploads/2023/10/1_Tower.webp",
+  "photos": [
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/1_Tower.webp",
+      "label": "Tower Resort View",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/6_fachada.webp",
+      "label": "Resort Facade",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/8_Bash.webp",
+      "label": "Bash Entertainment",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/34_sky35.webp",
+      "label": "Sky Bar 35",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/36_beach.webp",
+      "label": "Beach",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/37_spa.webp",
+      "label": "Spa",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/9_lush.webp",
+      "label": "Lush Lounge",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/14_MasterSuite.webp",
+      "label": "Master Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/20_romanza.webp",
+      "label": "Romanza Restaurant",
+      "user": false
+    },
+    {
+      "url": "https://www.temptation-experience.com/wp-content/uploads/2023/10/30_scorebar.webp",
+      "label": "Score Bar",
+      "user": false
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #3d1a0a 0%, #6b3010 50%, #a04020 100%)",
+  "detail_gradient": "linear-gradient(135deg, #3d1a0a, #6b3010, #a04020)"
+}

@@ -1,0 +1,218 @@
+{
+  "id": "warwick-paradise-island",
+  "region": "nassau-bahamas",
+  "rank": 4,
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/af/a4/47/warwick-paradise-island.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/27/a1/6a/warwick-paradise-island.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/af/a4/47/warwick-paradise-island.jpg",
+      "label": "Resort Exterior",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/27/a1/6a/warwick-paradise-island.jpg",
+      "label": "Resort Pool",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a9/36/77/warwick-paradise-island.jpg",
+      "label": "Ocean View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/d2/75/fb/warwick-paradise-island.jpg",
+      "label": "Resort Grounds",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d9/30/c5/warwick-paradise-island.jpg",
+      "label": "All-Inclusive Dining",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a9/17/b3/warwick-paradise-island.jpg",
+      "label": "Beach Access",
+      "user": false
+    }
+  ],
+  "name": "Warwick Paradise Island Bahamas",
+  "tagline": "Paradise Island’s intimate adults-only gem — private harbor beach, Condé Nast top-rated",
+  "location": "Paradise Island, Nassau",
+  "type": "Adults-Only (16+) · All-Inclusive · Boutique",
+  "tags": [
+    "romance",
+    "value",
+    "beach"
+  ],
+  "price_range": "$150–$300",
+  "price_sort": 225,
+  "rooms": "250 rooms",
+  "best_for": "Couples seeking a quieter, intimate adults-only experience at outstanding value",
+  "ratings": {
+    "overall": "8.7",
+    "google": "3.9 / 5.0",
+    "tripadvisor": "4 / 5",
+    "booking": "8.7 / 10 (couples)",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "8.5",
+    "Beach": "7.0",
+    "Service": "7.5",
+    "Dining": "7.5",
+    "Value": "9.0"
+  },
+  "sentiment": {
+    "positive": 72,
+    "neutral": 18,
+    "negative": 10,
+    "polarity": 0.48,
+    "label": "Positive"
+  },
+  "description": "Paradise Island’s best-kept secret and the Bahamas’ best-value adults-only all-inclusive — Warwick punches so far above its price point that repeat guests keep it deliberately quiet. With just 250 rooms and a private harbor beach tucked away from the tourist bustle, Warwick creates an intimacy that its larger neighbours simply cannot match. Named second-best resort in The Bahamas by Condé Nast Traveler, the property features a spectacular 330,000-gallon free-form pool, five restaurants, a lap pool, and a whirlpool. Lifestyle couples appreciate the small-resort feel — a tight-knit group of return guests who genuinely know each other builds up around the pool each season. The highest couples satisfaction rating in Nassau (8.7 on Booking.com) speaks to an experience that consistently over-delivers.",
+  "highlights": [
+    "Private harbor beach — away from tourist crowds on Paradise Island",
+    "Condé Nast Traveler: #2 resort in The Bahamas",
+    "Highest couples rating in Nassau: 8.7 on Booking.com",
+    "330,000-gallon free-form pool + lap pool + whirlpool",
+    "Intimate small-resort feel — 250 rooms vs. 379–396 at competitors",
+    "Best value adults-only all-inclusive on Paradise Island",
+    "Strong community of return guests — natural social atmosphere"
+  ],
+  "considerations": [
+    "Rooms comfortable but decor can feel dated",
+    "Smaller beach than Cable Beach options",
+    "Fewer dining and bar options than Sandals or RIU",
+    "Very quiet vibe — less energy for those seeking a party atmosphere"
+  ],
+  "contact": {
+    "website": "warwickhotels.com/warwick-paradise-island-bahamas",
+    "phone_us": "+1 (242) 363-2561",
+    "address": "Paradise Island, Nassau, Bahamas"
+  },
+  "reviews": [
+    {
+      "name": "Stephanie W",
+      "initials": "SW",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "My first time out of America and this was a wonderful choice. Everything here is so much fun, so clean, so much to do, and the staff is absolutely wonderful. A huge shout-out to Bullet — his energy and enthusiasm made every single day feel like a party. I cannot wait to come back!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear Stephanie, thank you for sharing your wonderful experience! We are so glad your first trip outside of America brought you to Warwick Paradise Island. Bullet will be thrilled to receive your shoutout — his dedication makes every stay special. We look forward to welcoming you back!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1056098782-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Chrissi S",
+      "initials": "CS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our stay was absolutely wonderful! The entire staff was incredibly friendly and accommodating from reception to the restaurant to evening entertainment. The room was spotless and very comfortable. The location is convenient with shops, a pharmacy, and beautiful bridge views within easy reach. A special shoutout to Bullet, our entertainment host — he remembers guests' names effortlessly and goes above and beyond in every weather. His energy truly made a difference. Highly recommended!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear Chrissi, thank you for your wonderful review! We're delighted your stay exceeded expectations. Bullet will be so pleased — his personal touch truly brings joy to our guests. We look forward to welcoming you back for another exceptional experience!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1056098609-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Odyssey264",
+      "initials": "O2",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our family of five had an absolutely unforgettable stay. The property is immaculately maintained with crystal-clear turquoise waters and breathtaking views. Every staff member went out of their way to make us feel welcome. A heartfelt thank you goes to LaShell, who truly exceeded all expectations — she consistently checked in on our group, anticipated our needs before we asked, and always greeted us with a genuine smile. Thanks to her this was more than just a vacation. We are already looking forward to returning!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear guest, thank you for such a heartfelt review! We're thrilled your family's stay was so memorable. LaShell will be so pleased — she truly embodies the exceptional service we strive for. We look forward to welcoming you and your family back!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1055888472-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "daskus",
+      "initials": "DA",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "This was meant to be a special 40th birthday trip but it ended up exhausting and upsetting. We were woken 5 out of 7 nights including 4 in a row — loud TV next door until 6:30am, shouting guests, constant disruption. Calls to reception were slow to action and we were refused a room change. At one point I had to sleep outside by the pool just to get any rest. Management told us this never happens, yet other reviews say exactly the same thing. Would not recommend.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear guest, we are truly sorry your 40th birthday trip was so disrupted. A milestone celebration should feel special and restful, and it is clear the noise disturbances took away from that. We regret that a room change was not provided and will review these concerns with our team to ensure we improve responsiveness and guest comfort."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1053740992-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Jill L",
+      "initials": "JL",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "I've been to the Caribbean 10 times so I know what to look for. This is not a luxury hotel. In March it was about 70% spring breakers. Rooms are very outdated — toilet had to be jiggled, bathroom door wouldn't close, no fridge. Only one bar inside and at happy hour it's impossibly crowded. Food is mediocre. The pool advertised as heated was ice cold. WiFi was spotty. What saves it to 3 stars: service is genuinely decent and the balcony room was huge. But I would not return or recommend.",
+      "sentiment": "mixed",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear Jill, thank you for your detailed review. We are disappointed aspects of your stay did not meet your expectations and will address your feedback about facilities and dining with our team. We are glad you found the service attentive and your room spacious. We appreciate your candid comments. Best wishes, Benjamin."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1053635351-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "beajolley",
+      "initials": "BJ",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Bought a day pass after researching all the adult-only resorts on the island and I'm glad I chose Warwick. I loved the adult-only vibe. The food was decent, and the spa was super excellent — I had a really great massage, genuinely one of the best I've had. The beach area is quite limited and the resort is smaller than I expected, but the pool area was nice and the staff were friendly. For a day pass, absolutely worth it — and don't sleep on the spa!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear guest, thank you for choosing Warwick for your day pass! We're so glad you enjoyed the adult-only atmosphere and that the spa was a highlight. We'll be sure to pass along your praise to our spa team. We hope to welcome you back soon!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1053648014-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Maggie B",
+      "initials": "MB",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Went on a girls spring break trip for 5 nights and I couldn't have asked for a better place. The staff go above and beyond and the food was outstanding. We had connecting rooms which was perfect for a group. Atlantis is just a short walk away, Cabbage Beach is great during the day. The hotel had so many fun activities — karaoke, salsa classes, Zumba, sip and paint! Perfect for a girls trip. Special shoutout to Stephan, Brendan, and Peter who were genuinely the best ever!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear Maggie, thank you for such a kind review! We're so glad your girls' trip was everything you hoped for. Stephan, Brendan, and Peter will be thrilled to hear your shout-out. We look forward to welcoming you back! Best wishes, Benjamin."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1053579812-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Visuallyimpaired",
+      "initials": "VT",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Excellent resort! Food at the buffet is surprisingly good and fresh. Staff are wonderful and super friendly. The Atlantis shopping area is about 10 minutes walk — very easy to get there. We went on a rum tasting and a nature walk, both excellent. Rooms are large and very clean though there is no balcony. There is a CIBC ATM in the lobby and a small lending library. Wish there were more shaded pool seats and more Bahamian souvenirs in the gift shop. Overall highly recommended — hope to return.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Warwick Paradise Island Management",
+        "text": "Dear guest, thank you for your thoughtful review! We're glad you enjoyed the buffet, friendly staff, and activities. Your feedback about shaded seating and souvenirs is valued. We look forward to welcoming you back for another excellent visit. Best wishes, Benjamin."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d151524-r1053635561-Warwick_Paradise_Island_Bahamas-Paradise_Island_New_Providence_Island_Bahamas.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #3d1a0a 0%, #6b3010 50%, #a05020 100%)",
+  "detail_gradient": "linear-gradient(135deg, #3d1a0a, #6b3010, #a05020)"
+}

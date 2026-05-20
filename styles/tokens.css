@@ -1,0 +1,25 @@
+/* ─── RESET & BASE ─────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg:        #0d0f14;
+  --bg2:       #141720;
+  --bg3:       #1c1f2e;
+  --card:      #1a1d2a;
+  --border:    rgba(255,255,255,.08);
+  --gold:      #c9a84c;
+  --gold-lite: #f0d080;
+  --teal:      #2dd4bf;
+  --teal-dark: #0e7b71;
+  --text:      #e2e4ec;
+  --muted:     #8b8fa8;
+  --pos:       #22c55e;
+  --neu:       #f59e0b;
+  --neg:       #ef4444;
+  --radius:    14px;
+  --shadow:    0 8px 32px rgba(0,0,0,.4);
+}
+html { scroll-behavior: smooth; }
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.65; min-height: 100vh; }
+a { color: var(--teal); text-decoration: none; }
+a:hover { color: var(--gold); }
+img { max-width: 100%; display: block; }

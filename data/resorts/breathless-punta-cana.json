@@ -1,0 +1,148 @@
+{
+  "id": "breathless-punta-cana",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/35/a0/59/breathless-punta-cana.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/14/27/49/caption.jpg",
+  "region": "punta-cana",
+  "rank": 1,
+  "name": "Breathless Punta Cana Resort & Spa",
+  "tagline": "Most lifestyle-welcoming in Punta Cana — 750 suites, topless pools, Xhale Club",
+  "location": "Uvero Alto, Bávaro Coast (Punta Cana)",
+  "type": "Adults-Only · Lifestyle-Friendly · All-Inclusive",
+  "tags": [
+    "party",
+    "beach",
+    "lifestyle"
+  ],
+  "price_range": "$200–$350",
+  "price_sort": 275,
+  "rooms": "750 ultra-contemporary suites",
+  "best_for": "Open-minded couples, party atmosphere, lifestyle community",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/35/a0/59/breathless-punta-cana.jpg",
+      "label": "Resort Overview",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c0/51/6a/breathless-punta-cana.jpg",
+      "label": "Pool Area",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/14/27/49/caption.jpg",
+      "label": "Beachfront",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/e8/66/de/somos-un-restaurante.jpg",
+      "label": "Restaurant",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8b/b4/05/caption.jpg",
+      "label": "Ocean View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/48/c0/72/new-location.jpg",
+      "label": "Resort Grounds",
+      "user": false
+    }
+  ],
+  "ratings": {
+    "overall": "8.6",
+    "google": "4.4 / 5.0",
+    "tripadvisor": "4 / 5 (21,839)",
+    "booking": "8.6 / 10 (862)",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "8.0",
+    "Beach": "8.8",
+    "Service": "8.5",
+    "Dining": "8.2",
+    "Value": "8.5"
+  },
+  "sentiment": {
+    "positive": 78,
+    "neutral": 12,
+    "negative": 10,
+    "polarity": 0.38,
+    "label": "Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-774-0044",
+    "email": "info@breathlesspuntacana.com",
+    "website": "breathlesspuntacana.com",
+    "address": "Uvero Alto, La Altagracia, Dominican Republic"
+  },
+  "description": "The most explicitly lifestyle-welcoming resort in Punta Cana — 750 ultra-contemporary suites drawing the open-minded adults community to its Xhale Club (21+), topless-optional pools and the legendary Xcelerate area where the lifestyle crowd congregates. Part of the Hyatt Inclusive Collection. TripAdvisor's #1 party resort on the DR's Bávaro coast and a consistent top pick among swinger community forums.",
+  "highlights": [
+    "Most explicitly lifestyle-friendly resort in the Punta Cana region",
+    "Xhale Club (21+) — adults within adults, exclusive top-tier amenities",
+    "Topless-optional Xcelerate Pool zone — open-minded atmosphere",
+    "750 ultra-contemporary suites designed by award-winning architects",
+    "21,839 TripAdvisor reviews — consistent 4/5 rating",
+    "Booking.com 8.6/10 from 862 verified guest reviews",
+    "Hyatt Inclusive Collection — guaranteed service standards"
+  ],
+  "considerations": [
+    "Large property — busy atmosphere not suited for those seeking quiet",
+    "Some reviews cite food quality inconsistency across outlets",
+    "Lifestyle community present but resort not exclusively swinger-dedicated",
+    "Noise levels and music volume are high throughout the day",
+    "Airport transfer is 45+ minutes from Punta Cana International"
+  ],
+  "reviews": [
+    {
+      "name": "Sandy S.",
+      "initials": "SS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "From the moment you check in, the front desk hands your room keys to a 'tour guide' of the resort, who is in a blue shirt and works for the unlimited club. We did not know this was a private sales person but quickly figured it out when they wanted you to sit down at their breakfast the next morning. We said no thank you, and wanted to start our vacation because we had been traveling since 2am, and were tired and hungry. He told us where the restaurants were and bars, but gave us a lot of mis information on reservations and such. The harassment from the Unlimited Club sales staff was relentless throughout our stay.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147293-d4459010-r1055766627-Breathless_Punta_Cana_Resort_Spa-Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    },
+    {
+      "name": "Jennifer H",
+      "initials": "JH",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "After a 45 minute ride from the airport - brace yourself and be prepared for an upsell if you book the main hotel and not the Xhale club. Almost felt like a time share speech. We ultimately paid the extra for the quiet and honestly because we could get into a better area. Our 25th anniversary and not one person acknowledged it despite the signs congratulating other guests. The $200 resort credit was misleading — restrictions made it nearly unusable.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147293-d4459010-r1055645858-Breathless_Punta_Cana_Resort_Spa-Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    },
+    {
+      "name": "Road609037",
+      "initials": "RO",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "My wife and I had a relaxing quick getaway at Breathless in Punta Cana. One employee in particular made our stay EXCEPTIONAL, Gricelda (our concierge). She was amazing! She anticipated and addressed our needs in advance. Reyson with AmStar is a great resource for excursions and easy to work with. You'll love the beach and the well kept grounds.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147293-d4459010-r1055964759-Breathless_Punta_Cana_Resort_Spa-Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    },
+    {
+      "name": "Carolyn H",
+      "initials": "CH",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "The resort is beautiful. The food and staff were great. The beach was great. The music at the pool was way too loud and it made it hard to enjoy our swim up pool being SO loud. We couldn't get a late check out so we had to shower at the complimentary room when you already checked out. Shower was ice cold and no towels.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147293-d4459010-r1055960808-Breathless_Punta_Cana_Resort_Spa-Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #1a0a2a, #3a1060, #5a20a0)",
+  "detail_gradient": "linear-gradient(135deg, #1a0a2a, #3a1060, #5a20a0)"
+}
