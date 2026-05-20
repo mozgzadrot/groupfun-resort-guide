@@ -1,0 +1,212 @@
+{
+  "id": "riu-palace-paradise-island",
+  "region": "nassau-bahamas",
+  "rank": 3,
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/36/f6/hotel-riu-palace-paradise.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/36/fe/hotel-riu-palace-paradise.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/36/f6/hotel-riu-palace-paradise.jpg",
+      "label": "Hotel Exterior",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4f/36/fe/hotel-riu-palace-paradise.jpg",
+      "label": "Palace Grounds",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/93/13/83/pool-v18640708.jpg",
+      "label": "Pool",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a1/90/09/hotel-riu-palace-paradise.jpg",
+      "label": "Paradise Island View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/93/13/8e/jerk-v18640678.jpg",
+      "label": "Dining",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/1a/47/87/caption.jpg",
+      "label": "Resort Facilities",
+      "user": false
+    }
+  ],
+  "name": "RIU Palace Paradise Island",
+  "tagline": "Paradise Island’s adults-only all-inclusive — legendary infinity pool, next to Atlantis",
+  "location": "Paradise Island, Nassau",
+  "type": "Adults-Only (18+) · All-Inclusive · 5-Star",
+  "tags": [
+    "party",
+    "luxury",
+    "beach"
+  ],
+  "price_range": "$250–$450",
+  "price_sort": 350,
+  "rooms": "379 rooms",
+  "best_for": "Lively couples who want luxury all-inclusive with a social pool scene",
+  "ratings": {
+    "overall": "8.6",
+    "google": "4.0 / 5.0 (4,691)",
+    "tripadvisor": "4 / 5",
+    "booking": "8.6 / 10 (couples)",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "7.5",
+    "Beach": "7.0",
+    "Service": "7.8",
+    "Dining": "8.5",
+    "Value": "8.0"
+  },
+  "sentiment": {
+    "positive": 65,
+    "neutral": 22,
+    "negative": 13,
+    "polarity": 0.42,
+    "label": "Positive"
+  },
+  "description": "The most electric adults-only resort on Paradise Island — RIU Palace’s famous infinity pool bar is Nassau’s social epicenter for confident, open-minded adults. Six specialty restaurants, multiple bars including a swim-up pool bar, and 379 rooms of polished 5-star comfort make this an excellent all-inclusive value. The infinity pool runs loud and lively through the afternoon while the second pool offers a calmer retreat. Lifestyle couples consistently note the pool atmosphere — a mix of adults from across the world with an easy, uninhibited energy that develops naturally. The location next to Atlantis is a bonus: casino nights, Aquaventure, and the marina strip are all a short walk away.",
+  "highlights": [
+    "Infinity pool with swim-up bar — Nassau’s best party pool scene",
+    "6 specialty restaurants with premium all-inclusive drinks",
+    "Adults 18+ only — consistently mature, social crowd",
+    "Steps from Atlantis casino, Aquaventure, and marina",
+    "Couples rating 8.6 on Booking.com — among Nassau’s highest",
+    "Swim-up suite rooms for direct pool access",
+    "Polished 5-star product at a mid-range price point"
+  ],
+  "considerations": [
+    "Pool and beach can get very crowded in peak season",
+    "Dinner reservations via app can be frustrating to secure",
+    "Beach is Paradise Island public beach — not private",
+    "Loud music at pool from mid-morning"
+  ],
+  "contact": {
+    "website": "riu.com/en/hotel/bahamas/paradise-island/hotel-riu-palace-paradise-island",
+    "phone_us": "+1 (242) 363-3500",
+    "address": "Paradise Island, Nassau, Bahamas"
+  },
+  "reviews": [
+    {
+      "name": "Wayne S",
+      "initials": "WS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "As frequent travelers and Riu resort visitors, none of the usual benefits applied here. Nearly the entire staff was exceptionally rude throughout our stay — consistent passive aggression and blatant disregard for any request. Room service was unresponsive, bar staff were dismissive, the entertainment crew seemed to enjoy humiliating guests in pool activities, and restaurant staff rushed dinner reservations. Every other visitor we met shared the same frustrations. Our first and last visit to this Riu.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1056466545-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Ed C",
+      "initials": "EC",
+      "date": "April 2025",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "My wife and I stayed for nine nights and really liked this hotel. The buffet (Atlantic) was one of the best we have had at any Riu. Tengoku (Japanese) was our favourite specialty restaurant — book it first. Tips for specialty restaurants: book through the Riu app exactly two days in advance at midnight; show up precisely at your reserved time. Staff were pretty great everywhere. The beach and infinity pool are beautiful. We thought the area was safe for day trips into Nassau. We would go back.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Hotel Riu Palace Paradise Island",
+        "text": "Dear Ed, we are thrilled to learn you have lovely memories. Your feedback makes us want to continue improving. It is always our pleasure to be part of our guests' lives and we cannot wait to welcome you again. Kindest Regards."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1007742981-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Connector261",
+      "initials": "C2",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "We had a nice honeymoon stay with a great ocean location and good adults-only atmosphere. Cleanliness was good. The breakfast omelette station was the best part of the buffet. We booked the Krystal fine-dining restaurant and were disappointed — the dish came out totally different from what was advertised and overcooked. Steak House was better. Warning: the front door staff may try to upsell you on airport transfers at checkout — take a taxi instead, it is cheaper and more reliable.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1056158262-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Ricky B",
+      "initials": "RB",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Loved the hotel and its employees. The steakhouse dinner was fantastic — our host greeted us by name when our reserved time arrived, which really impressed us. Buffet for breakfast, lunch, and dinner was absolutely great. One note: Riu does not arrange airport transfers the way Sandals does, so organise your own taxi to avoid the unreliable third-party transfer companies. The gym equipment desperately needs attention. Minor room issues (sink, towel hook) were resolved by staff within the hour.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Hotel Riu Palace Paradise Island",
+        "text": "Dear Ricky, we would like to thank you for your positive remarks. It is always great to read that our guests enjoyed their stay. We really look forward to hosting you again. Kindest Greetings."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1056074610-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "AD_WDC",
+      "initials": "AD",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Hotel is a bit dated but everything is extremely clean inside and outside. Room issue on arrival was resolved quickly with a room transfer. Every staff member I encountered was friendly and helpful. The beach was pristine and the chair/umbrella team went above and beyond. The buffet was fine, nothing spectacular. At night everything moves indoors which seemed odd for a beachfront resort. Rooms are freezing — leave the AC on during the day and off in the afternoon. For a quick beach trip, this fit the bill perfectly.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Hotel Riu Palace Paradise Island",
+        "text": "Dear guest, it is so nice to learn you enjoyed your stay. Thank you for making every effort worthwhile. Our lovely staff will be pleased to read your kind review. Loving wishes."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1056092358-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Jessica D",
+      "initials": "JD",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "This resort was in an amazing location! The water was stunning and our room had an unexpected ocean view. The hotel was immaculately clean — we watched staff scrubbing the beach chairs every single night when they put them away. Every staff member we met was kind and amazing. Would absolutely go back!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Hotel Riu Palace Paradise Island",
+        "text": "Dear Jessica, thank you very much for staying with us and your great ratings! It is so pleasant to read that you had such a great stay. And we wish you a lovely day! Warmest Greetings."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1055731982-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "leafsin67",
+      "initials": "LS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "Staff are mostly great, very friendly. Food is very good, no complaints there. The building is getting tired though — balconies are very small and our room felt quite damp. Seat savers are out by 7-7:30am so beware; I do like how some resorts enforce inactivity policies, but lots of chairs here go reserved and unused all day. Overall not disappointed, but not wowed either.",
+      "sentiment": "mixed",
+      "response": {
+        "by": "Hotel Riu Palace Paradise Island",
+        "text": "Dear leafsin67, we appreciate your feedback, as it helps us understand which aspects we can focus on and improve. We hope you will consider a future visit to experience the level of hospitality typical of our hotels. Best Regards."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1055226944-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "mayyourself",
+      "initials": "MY",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "Truly horrible experience. Rude staff, bad food, an outdated hotel where you feel genuinely unwelcome. With plenty of other accommodation options on Paradise Island, I am certain there is better. Overpriced for what you receive. Spend the money and stay somewhere else — you will not regret it. You will absolutely regret staying here.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Hotel Riu Palace Paradise Island",
+        "text": "Dear guest, thank you for choosing Riu and for sharing your feedback. As we strongly believe guests come first, we regret you could not find anything positive. We have passed your concerns to management for appropriate follow up and sincerely hope you will give us another chance. Best Regards."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147417-d529827-r1055015834-Hotel_Riu_Palace_Paradise_Island-Paradise_Island_New_Providence_Island_Bahamas.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #2a0a3d 0%, #4a0e6b 50%, #701aa0 100%)",
+  "detail_gradient": "linear-gradient(135deg, #2a0a3d, #4a0e6b, #701aa0)"
+}

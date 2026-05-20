@@ -1,0 +1,58 @@
+import { loadRegions } from './data.js';
+import { renderRegion } from './region-view.js';
+import { renderResort } from './resort-view.js';
+import { highlightActive } from './sidebar.js';
+
+const DEFAULT_REGION = 'riviera-maya';
+
+function parsePath(path) {
+  const parts = path.split('/').filter(Boolean);
+  if (parts.length === 0) return { type: 'root' };
+  if (parts.length === 1) return { type: 'region', region: parts[0] };
+  return { type: 'resort', region: parts[0], resort: parts[1] };
+}
+
+async function render() {
+  const main = document.getElementById('main');
+  const route = parsePath(location.pathname);
+  document.querySelector('.sidebar')?.classList.remove('open');
+
+  if (route.type === 'root') {
+    navigate(`/${DEFAULT_REGION}/`, true);
+    return;
+  }
+  if (route.type === 'region') {
+    const region = await renderRegion(main, route.region);
+    document.title = region ? `${region.name} — GroupFun Resort Guide` : 'GroupFun Resort Guide';
+  } else {
+    try {
+      const resort = await renderResort(main, route.resort);
+      document.title = `${resort.name} — GroupFun Resort Guide`;
+    } catch (e) {
+      main.innerHTML = `<div class="empty"><div class="empty-icon">🤷</div><p>Resort not found.</p></div>`;
+      document.title = 'Not found — GroupFun Resort Guide';
+    }
+  }
+  highlightActive(location.pathname);
+  window.scrollTo(0, 0);
+}
+
+export function navigate(href, replace = false) {
+  if (replace) history.replaceState({}, '', href);
+  else history.pushState({}, '', href);
+  render();
+}
+
+export function start() {
+  document.addEventListener('click', e => {
+    const link = e.target.closest('a[data-link]');
+    if (!link) return;
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+    const href = link.getAttribute('href');
+    if (!href || href.startsWith('http')) return;
+    e.preventDefault();
+    if (href !== location.pathname) navigate(href);
+  });
+  window.addEventListener('popstate', render);
+  render();
+}

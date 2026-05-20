@@ -1,0 +1,194 @@
+{
+  "id": "sandals-royal-bahamian",
+  "region": "nassau-bahamas",
+  "rank": 1,
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/78/cf/6e/sandals-royal-bahamian.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dd/05/9c/photo7jpg.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/78/cf/6e/sandals-royal-bahamian.jpg",
+      "label": "Resort Overview",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/cd/53/fb/caption.jpg",
+      "label": "Pool Area",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/cd/53/f7/caption.jpg",
+      "label": "Resort Grounds",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dd/05/9c/photo7jpg.jpg",
+      "label": "Beachfront",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/f6/18/f4/caption.jpg",
+      "label": "Ocean View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/12/07/6f/caption.jpg",
+      "label": "Resort Facilities",
+      "user": false
+    }
+  ],
+  "name": "Sandals Royal Bahamian",
+  "tagline": "Nassau’s most luxurious couples-only resort — private island, 10 restaurants, 7 pools",
+  "location": "Cable Beach, Nassau, New Providence Island",
+  "type": "Couples-Only · All-Inclusive · 5-Star Luxury",
+  "tags": [
+    "luxury",
+    "romance",
+    "beach"
+  ],
+  "price_range": "$400–$700",
+  "price_sort": 550,
+  "rooms": "396 rooms and suites",
+  "best_for": "Luxury honeymoons, romantic couples, scuba divers",
+  "ratings": {
+    "overall": "8.5",
+    "google": "4.1 / 5.0 (3,314)",
+    "tripadvisor": "4.5 / 5 (5,200+)",
+    "booking": "8.5 / 10",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "9.0",
+    "Beach": "7.5",
+    "Service": "8.5",
+    "Dining": "8.5",
+    "Value": "6.5"
+  },
+  "sentiment": {
+    "positive": 75,
+    "neutral": 15,
+    "negative": 10,
+    "polarity": 0.52,
+    "label": "Positive"
+  },
+  "description": "The pinnacle of Bahamian romance — Sandals Royal Bahamian is Nassau’s most exclusive couples-only resort, recently renovated and commanding Cable Beach’s finest stretch. Its private offshore island, Barefoot Cay, is reachable by shuttle boat and hosts two secluded beaches, a full spa, and a Zen garden — the setting where the resort’s most open-minded guests quietly gather. Topless sunbathing is accepted on the island. The 10 specialty restaurants, 7 pools, and complimentary scuba diving make it the most complete adults-only experience in the Bahamas. Couples-only throughout guarantees a confident, discretion-minded crowd. Butler Level suites offer total privacy with 24-hour personal service.",
+  "highlights": [
+    "Private offshore island (Barefoot Cay) — two beaches, spa, Zen garden",
+    "Couples-only throughout — most exclusive crowd in Nassau",
+    "10 specialty restaurants + 7 pools + complimentary unlimited scuba",
+    "Butler Level suites with 24-hour personal service",
+    "Topless accepted on private island beach — discreet, open atmosphere",
+    "Recently renovated — freshest rooms on Cable Beach",
+    "30 minutes from Miami — easiest luxury Caribbean escape"
+  ],
+  "considerations": [
+    "Most expensive Nassau option ($400–$700/night)",
+    "Hetero couples only per Sandals brand policy",
+    "No dedicated lifestyle events — open-minded but not explicit lifestyle resort",
+    "Private island can get busy during peak season"
+  ],
+  "contact": {
+    "website": "sandals.com/royal-bahamian",
+    "phone_us": "+1 (242) 327-6400",
+    "address": "Cable Beach, Nassau, Bahamas"
+  },
+  "reviews": [
+    {
+      "name": "Stephanie B",
+      "initials": "SB",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our butlers Walden and Sampson were absolutely phenomenal. When we first arrived they moved us from the 2nd floor to the 5th floor suite which was a beautiful upgrade. Dinner at La Plume was exceptional — easily the best meal of the trip. The pool looked a bit cloudy the first couple days but cleared up nicely. We had such a magical time and cannot wait to return!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1056332277-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Rich R",
+      "initials": "RR",
+      "date": "July 2024",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Butlers Sterling and Kevinson were standouts throughout our stay, going well above and beyond at every turn. I will say the West Bay wing did have a slight mold smell in the hallways, and Gordon's on 5 was our least favourite restaurant — service felt rushed. But everything else was absolutely great and the private island is the true highlight of the property. Snorkeling, hammocks, incredible cocktails — it's paradise. We've already booked our return trip.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r960713381-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "MARTINA D",
+      "initials": "MD",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "We paid over $16,000 for a 5-night stay and left deeply disappointed. Our butler was reactive rather than proactive — we always had to initiate. The hallway near our room and the piano bar area had persistent, unpleasant odors that were never resolved. Boat transfers to the private island involved excessively long waits with no shade. The food was genuinely excellent — I cannot fault the culinary team. But at this price point, so much more was expected from the overall experience.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1056006921-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Farena0621",
+      "initials": "FA",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "We chose Sandals Royal Bahamian for our milestone anniversary and were not disappointed. The staff was incredibly attentive throughout our entire stay, and the property itself is absolutely stunning. A truly special trip we will always remember. Thank you Sandals for helping us celebrate in style!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1055854388-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Getaway249",
+      "initials": "G2",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "Our swim-up room had a noticeable sewage smell. The shower had visible rust and mold. When we arrived, there was already an open drink left in the fridge — not a great first impression. Hot water was unreliable throughout the stay. The one true bright spot was Marva Nottage at the spa; her massage was exceptional and honestly the best part of our entire trip. Sadly the room issues overshadowed everything else.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1055401684-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "Reisenfor2",
+      "initials": "R2",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "As a first-time guest coming from Germany, I expected world-class service. Instead: a chaotic check-in process, visible mold in our bathroom, a surprisingly noisy spring break atmosphere that was never disclosed, and mediocre food at most restaurants. The final straw was watching resort staff openly reserving prime sunbeds and holding them for guests who tip them. For the prices Sandals charges, this is completely unacceptable. We will not return.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1055186028-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "jessica s",
+      "initials": "JS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Had a truly wonderful stay at Sandals Royal Bahamian! I have to give a huge shout-out to Hensley at the pool bar — he was absolutely outstanding, always remembering our drink preferences and keeping the vibe perfect all week long. The property is gorgeous and the staff really do make all the difference. We will definitely be back!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1055065444-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    },
+    {
+      "name": "catloverrey",
+      "initials": "CA",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our 4th visit to Sandals Royal Bahamian and it never disappoints! Butlers Samson and Walden were incredible as always — they remember everything from past visits which makes it feel like coming home. Hope at Butch's Steakhouse went above and beyond to make our anniversary dinner perfect, Ricardo was as warm and welcoming as ever, and Jamie at La Plume was exceptional as always. This resort has our hearts forever.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147416-d181641-r1054754651-Sandals_Royal_Bahamian-Nassau_New_Providence_Island_Bahamas.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a2a3d 0%, #0e4a6b 50%, #1a70a0 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a2a3d, #0e4a6b, #1a70a0)"
+}

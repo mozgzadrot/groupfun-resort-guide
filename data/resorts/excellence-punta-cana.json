@@ -1,0 +1,148 @@
+{
+  "id": "excellence-punta-cana",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0e/2f/43/main-pool-and-beach-at.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f4/14/27/junior-swim-up-suite.jpg",
+  "region": "punta-cana",
+  "rank": 4,
+  "name": "Excellence Punta Cana",
+  "tagline": "Award-winning adults-only · Topless beach · Open-minded welcoming atmosphere",
+  "location": "Uvero Alto, Punta Cana",
+  "type": "Adults-Only · Lifestyle-Friendly · All-Inclusive",
+  "tags": [
+    "party",
+    "beach",
+    "value"
+  ],
+  "price_range": "$250–$400",
+  "price_sort": 325,
+  "rooms": "Large resort — multiple suite categories",
+  "best_for": "Active lifestyle couples, beach parties, open-minded dining scene",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/0e/2f/43/main-pool-and-beach-at.jpg",
+      "label": "Main Pool & Beach",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f4/14/27/junior-swim-up-suite.jpg",
+      "label": "Swim-Up Suite",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/f4/14/33/miile-spa-aqua-wellness.jpg",
+      "label": "Spa & Wellness",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ad/2b/ba/the-grill-restaurant.jpg",
+      "label": "The Grill Restaurant",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/e8/66/de/somos-un-restaurante.jpg",
+      "label": "Fine Dining",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8b/b4/05/caption.jpg",
+      "label": "Ocean View",
+      "user": false
+    }
+  ],
+  "ratings": {
+    "overall": "9.2",
+    "google": "4.5 / 5.0",
+    "tripadvisor": "4.5 / 5 (2,000+)",
+    "booking": "—",
+    "expedia": "9.2 / 10"
+  },
+  "category_ratings": {
+    "Romance": "8.8",
+    "Beach": "9.0",
+    "Service": "9.3",
+    "Dining": "9.4",
+    "Value": "9.0"
+  },
+  "sentiment": {
+    "positive": 90,
+    "neutral": 7,
+    "negative": 3,
+    "polarity": 0.52,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-530-4999",
+    "email": "excellence@excellenceresorts.com",
+    "website": "excellenceresorts.com/punta-cana",
+    "address": "Uvero Alto, La Altagracia, Dominican Republic"
+  },
+  "description": "Award-winning adults-only all-inclusive with Expedia 9.2/10 and among the highest-rated resorts in Punta Cana. Topless-friendly beach, vibrant pool entertainment and an openly LGBTQ+ and lifestyle-welcoming policy make this a strong choice for couples who want quality dining and beach combined with a free-spirited atmosphere. Eight à-la-carte restaurants within the all-inclusive package.",
+  "highlights": [
+    "Expedia 9.2/10 — highest-rated adults-only resort in Uvero Alto",
+    "Topless beach area — openly lifestyle-friendly policy",
+    "Eight à-la-carte restaurants included — best dining in Punta Cana adults sector",
+    "LGBTQ+ and lifestyle welcoming — explicitly open-minded policy",
+    "Spacious suites with whirlpool tubs and private balconies",
+    "Excellence Club upgrade for exclusive pool and butler service",
+    "Nightly themed entertainment well-suited to open-minded couples"
+  ],
+  "considerations": [
+    "Large property can feel impersonal during peak season",
+    "Fewer explicitly lifestyle-oriented guests vs. Breathless",
+    "Some 2025 reviews note overcrowding at main pools",
+    "Excellence Club upgrade needed for best experience adds cost",
+    "45-minute drive from Punta Cana International Airport"
+  ],
+  "reviews": [
+    {
+      "name": "jason Christopher",
+      "initials": "JC",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "Plumbing from the room above leaked and we were moved to a lower room level. They have not made it right and the resort is so old they don't seem to care.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3200043-d218524-r1055966253-Excellence_Punta_Cana-Uvero_Alto_Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    },
+    {
+      "name": "Cenda W",
+      "initials": "CW",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We could not have had a better week!! The service is second to none — better than what Disney World USED to be. This is a well-oiled machine! There is attention to every detail throughout the resort. Beach, pools, grounds, rooms, restaurants, bars, public areas — EVERYTHING is taken care of constantly. After a storm one night there were leaves in the grass. Those leaves were gone by breakfast. The staff here is on top of everything. They keep the whole resort looking brand new.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3200043-d218524-r1055961347-Excellence_Punta_Cana-Uvero_Alto_Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    },
+    {
+      "name": "MelissaMLJL",
+      "initials": "ML",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Amazing resort! We never go back to the same place but this is our second time! Love the boutique hotel vibe, lovely property! Staff really go above and beyond! We stayed in club rooms and Yeifri was a wonderful concierge that made sure our group of 10 had Bali beds in the same spot together on the beach daily. Always found great food to eat! We have made great memories again here and I am sure this won't be our last time! Amazingly relaxing beach vibes — very calm resort!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3200043-d218524-r1055754002-Excellence_Punta_Cana-Uvero_Alto_Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    },
+    {
+      "name": "Macy A",
+      "initials": "MA",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "We saw a table with 6 chairs and the server told us we couldn't sit there. She was extraordinarily rude and unkind — and this is supposed to be the 'excellent' experience. She continued to be extraordinarily petty and unkind. It felt as though it was her intent to make our last night difficult. Really horrible service.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3200043-d218524-r1055644746-Excellence_Punta_Cana-Uvero_Alto_Punta_Cana_La_Altagracia_Province_Dominican_Republic.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a2a1a, #0e4a28, #1a7a3a)",
+  "detail_gradient": "linear-gradient(135deg, #0a2a1a, #0e4a28, #1a7a3a)"
+}

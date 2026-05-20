@@ -1,0 +1,229 @@
+{
+  "id": "desire-riviera-maya",
+  "region": "riviera-maya",
+  "rank": 2,
+  "name": "Desire Riviera Maya Resort",
+  "tagline": "Best balance of lifestyle energy, dining & romance",
+  "location": "Puerto Morelos (20 min from Cancun airport)",
+  "type": "Couples-only · All-Inclusive",
+  "tags": [
+    "romance",
+    "lifestyle",
+    "party",
+    "value"
+  ],
+  "price_range": "$200–$400",
+  "price_sort": 300,
+  "rooms": "Multiple room categories",
+  "best_for": "Balanced party + romance, lifestyle enthusiasts",
+  "ratings": {
+    "overall": "8.8",
+    "google": "4.6 / 5.0",
+    "tripadvisor": "—",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "9.2",
+    "Beach": "8.5",
+    "Service": "8.8",
+    "Dining": "9.0",
+    "Value": "7.8"
+  },
+  "sentiment": {
+    "positive": 100,
+    "neutral": 0,
+    "negative": 0,
+    "polarity": 0.52,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-211-3241",
+    "phone_mx": "+52 998 872 8280",
+    "phone_mx_toll": "800-500-0587",
+    "email": "guestservice@desireresorts.com",
+    "website": "desireresorts.com",
+    "whatsapp": "Available on website",
+    "address": "Carretera Costera Norte Sm.10 Mz.26, Puerto Morelos"
+  },
+  "description": "The flagship lifestyle resort of the Desire brand, recently transformed with The Eden renovation (2024) — delivering the perfect fusion of sensual party energy and genuine romance. The new swim-up pool bar with ocean views, Eden suites, and redesigned social spaces elevate the experience. Known for world-class food, staff who truly 'get' the lifestyle, and a packed calendar of themed entertainment.",
+  "highlights": [
+    "Top-rated for food quality (9.3/10) — multiple restaurants, fresh daily menus",
+    "Staff consistently praised for lifestyle expertise and professionalism",
+    "Packed entertainment calendar: themed nights, sexy contests, fashion shows",
+    "Great pool energy with dedicated playmakers and daily competitions",
+    "Fitness classes, beach volleyball, water polo, catamaran excursions",
+    "Couples-only property — guaranteed adults-only lifestyle atmosphere",
+    "Sister resort to Desire Pearl — same brand standards, more social scale"
+  ],
+  "considerations": [
+    "Can get very crowded during peak season (Dec–Feb)",
+    "Less intimate than Pearl due to larger capacity"
+  ],
+  "reviews": [
+    {
+      "name": "Jason H",
+      "initials": "JH",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "The hospitality staff at DRM is absolutely amazing — bartenders Gustavo, Samuel, and Abraham are top-notch; butlers Cesar and Abel were on top of everything. But Premier management is trying to eliminate beneficiary benefits from existing contracts. We're being told Eros breakfast is now members-only. The Passion Suite is being renamed to prevent us from booking at our contracted rate. Upselling has gotten completely out of control — we were approached for upgrades even while eating at the buffet.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1052812991-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "John L",
+      "initials": "JL",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "Great food, clean resort, and fun atmosphere — but guests without premium packages face real inconveniences. Pool chairs require arriving by 7am. Different towel colors signal patron status tiers. Dinner reservations require queuing at noon with no guarantee. Advertised catamarans were all 'out of service' all week. Our garden room AC broke twice. Best: restaurants, cleanliness, bartenders, entertainment. Worst: the guest tier system where everything comes down to how much you paid.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1053482426-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Dan M",
+      "initials": "DM",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "This was our first visit to Riviera Maya (we prefer the smaller Pearl). The spa was the absolute best part — therapists Jessica, Silvina, Arley, and Grecia were outstanding. Front-of-house team Rosi, Lili, Itzel, and Jesus made everything seamless. As beneficiary members, we did notice a difference in service with recent program changes, particularly at the pool. Still an enjoyable stay with great coffee, comfortable room, and a truly fantastic spa.",
+      "sentiment": "pos",
+      "response": {
+        "by": "GSDesire — Desire Riviera Maya Resort",
+        "text": "Thank you for sharing your experience. We're delighted the spa was a highlight and that our team provided memorable service. Your feedback about the membership experience has been shared with the appropriate teams for review."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1053641273-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Glenn C",
+      "initials": "GC",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We are seasoned travelers in our early 60s and this became our favorite resort. The food was perfect, drinks top-shelf, and staff amazing. VIP host Alex — new to his position — made our stay absolutely perfect by checking in daily and booking all our restaurants. We tried Pearl for the second week but found it under construction with no pool chairs, and immediately came back to Desire RM where we were greeted like family all over again. Thanks, Alex!",
+      "sentiment": "pos",
+      "response": {
+        "by": "GSDesire — Desire Riviera Maya Resort",
+        "text": "Thank you so much for sharing this wonderful review. We are truly honored to be your favorite resort experience as seasoned travelers. Alex will be thrilled to hear his care and professionalism made such a lasting impact on your stay."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1054546041-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Zachary",
+      "initials": "ZA",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We just got back from our first Desire Riviera Maya trip and had an incredible experience overall. The resort is beautiful, clean, and upscale while maintaining that playful social vibe. Playmakers Pena, Bambam, and Antonella absolutely made our trip — top-tier energy, never making anyone feel uncomfortable. Barista Edgar made every morning better with his coffee and positive attitude. Our only issue: our villa was sold for $1,300 on our final night despite being in our membership contract.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1053854409-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Cora White",
+      "initials": "CW",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Excellent vacation experience as always. Pool attendants work so hard to make sure everyone has what they need. Playmakers Mauricio, Bella, Pina, Bam Bam, Chiarra, and Antonella keep everyone involved and included. Africa and Eduardo at the pool bar are excellent! My only complaint: please bring back the nightly dinner buffet. Requiring reservations for every dinner removes the spontaneous, relaxed atmosphere that makes this resort so special.",
+      "sentiment": "pos",
+      "response": {
+        "by": "GSDesire — Desire Riviera Maya Resort",
+        "text": "Thank you for continuing to choose us for your vacations. We are delighted you enjoyed the service from our pool team and playmakers. Your feedback about the dining experience is greatly valued and has been shared with our team."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1053680566-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "laney f",
+      "initials": "LF",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our experience is always one of feeling safe, sexy, and satisfied. An absolute must for any couple is the erotic massage — the talented Arey and Nayey gave my wife and I an orgasmic experience we look forward to every single visit. Reserve a pool spot early, but don't feel over-obligated to make dinner reservations every single night.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1052020452-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Jennifer G",
+      "initials": "JG",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Perfect! Great! Will be back again! Just got back from our March stay and can't stop thinking about it. Already planning our next trip back.",
+      "sentiment": "pos",
+      "response": {
+        "by": "GSDesire — Desire Riviera Maya Resort",
+        "text": "Thank you so much for your wonderful feedback! We're thrilled you had a great stay and look forward to welcoming you back again very soon."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g240327-d282105-r1054940242-Desire_Riviera_Maya_Resort-Puerto_Morelos_Yucatan_Peninsula.html"
+    }
+  ],
+  "hero": "https://www.desire-experience.com/wp-content/uploads/2024/04/DSR_RM_suites_exterior.jpg",
+  "thumbnail": "https://www.desire-experience.com/wp-content/uploads/2024/04/gallery-drm-1.webp",
+  "photos": [
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2025/06/Deluxe-Relax-Pool-view-3-1.jpg",
+      "label": "Pool View",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/Oceanfront-Passion-Suite-1.jpg",
+      "label": "Oceanfront Passion Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/05/Diamond-Ocean-View-Swim-up-Suite-1.jpg",
+      "label": "Diamond Swim-Up Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/DSR_RM_suites_exterior.jpg",
+      "label": "Resort Exterior",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/06/Heavenly-Garden-View-3.jpg",
+      "label": "Garden View Room",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2025/12/Devotion-suite-1.webp",
+      "label": "Devotion Suite",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/gallery-drm-3.jpg",
+      "label": "Resort Pool",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/gallery-drm-5.jpg",
+      "label": "Beach Club",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/04/gallery-drm-7.jpg",
+      "label": "Suite Interior",
+      "user": false
+    },
+    {
+      "url": "https://www.desire-experience.com/wp-content/uploads/2024/05/Diamond-Ocean-View-Swim-up-Suite-1.jpg",
+      "label": "Diamond Swim-Up Suite",
+      "user": false
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #1a0a3d 0%, #2d1060 50%, #4020a0 100%)",
+  "detail_gradient": "linear-gradient(135deg, #1a0a3d, #2d1060, #4020a0)"
+}

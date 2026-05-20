@@ -1,0 +1,89 @@
+/* ─── SIDEBAR ───────────────────────────────────────────────────── */
+.sidebar {
+  background: var(--bg2);
+  border-right: 1px solid var(--border);
+  position: sticky; top: 0; height: 100vh;
+  overflow-y: auto;
+  display: flex; flex-direction: column;
+  z-index: 100;
+}
+.sidebar-logo {
+  padding: 28px 20px 20px;
+  border-bottom: 1px solid var(--border);
+}
+.sidebar-logo h1 { font-size: 1rem; font-weight: 700; color: var(--gold); letter-spacing: .05em; text-transform: uppercase; }
+.sidebar-logo p { font-size: .72rem; color: var(--muted); margin-top: 4px; }
+.sidebar-section { padding: 16px 20px 8px; font-size: .68rem; font-weight: 700; color: var(--muted); letter-spacing: .1em; text-transform: uppercase; }
+.region-btn {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 20px; cursor: pointer;
+  border: none; background: none; color: var(--text);
+  font-size: .9rem; width: 100%; text-align: left;
+  border-left: 3px solid transparent;
+  transition: all .2s;
+  text-decoration: none;
+}
+.region-btn:hover, .region-btn.active {
+  background: rgba(45,212,191,.08);
+  border-left-color: var(--teal);
+  color: var(--teal);
+}
+.region-btn .flag {
+  display: block; width: 36px; height: 36px; border-radius: 50%;
+  overflow: hidden; flex-shrink: 0;
+  border: 2px solid rgba(255,255,255,.18);
+  transition: all .2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,.4);
+}
+.region-btn .flag img {
+  width: 100%; height: 100%; object-fit: cover;
+  display: block;
+}
+.region-btn .region-label {
+  display: flex; flex-direction: column; gap: 1px;
+  min-width: 0;
+}
+.region-btn .region-label .region-country {
+  font-size: .85rem; font-weight: 600; color: var(--text);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  transition: color .2s;
+}
+.region-btn .region-label .region-name {
+  font-size: .72rem; color: var(--muted);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  transition: color .2s;
+}
+.region-btn:hover .region-country, .region-btn.active .region-country { color: var(--teal); }
+.region-btn:hover .region-name,    .region-btn.active .region-name    { color: var(--teal); opacity: .8; }
+.region-btn:hover .flag, .region-btn.active .flag {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px rgba(45,212,191,.25);
+}
+.region-btn[disabled] { opacity: 0.45; cursor: not-allowed; }
+.resort-link {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 20px 7px 36px;
+  cursor: pointer; border: none; background: none;
+  color: var(--muted); font-size: .82rem;
+  width: 100%; text-align: left;
+  transition: color .2s;
+  text-decoration: none;
+}
+.resort-link:hover, .resort-link.active { color: var(--gold); }
+.resort-link::before { content: '›'; font-size: 1rem; }
+.sidebar-footer {
+  margin-top: auto;
+  padding: 16px 20px;
+  border-top: 1px solid var(--border);
+  font-size: .75rem; color: var(--muted);
+}
+.add-region-btn {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 20px; cursor: pointer;
+  border: 1px dashed var(--border); border-radius: 8px;
+  background: none; color: var(--muted);
+  font-size: .82rem; width: calc(100% - 40px);
+  margin: 8px 20px 4px;
+  transition: all .2s;
+}
+.add-region-btn:hover { border-color: var(--teal); color: var(--teal); }

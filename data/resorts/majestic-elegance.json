@@ -1,0 +1,154 @@
+{
+  "id": "majestic-elegance",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a0/ee/f5/pool-area-majestic-elegance.jpg",
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a0/ee/f0/club-room-swim-up-suite.jpg",
+  "region": "punta-cana",
+  "rank": 5,
+  "name": "Majestic Elegance Punta Cana",
+  "tagline": "Club Elegance adults section · Bávaro Beach · Best value lifestyle option in DR",
+  "location": "Bávaro Beach, Punta Cana",
+  "type": "Adults Section · Lifestyle-Tolerant · All-Inclusive",
+  "tags": [
+    "value",
+    "beach",
+    "romance"
+  ],
+  "price_range": "$150–$250",
+  "price_sort": 200,
+  "rooms": "Club Elegance adults-only section within larger resort",
+  "best_for": "Budget-conscious lifestyle couples, first-timers, beach access",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a0/ee/f5/pool-area-majestic-elegance.jpg",
+      "label": "Pool Area",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a0/ee/f0/club-room-swim-up-suite.jpg",
+      "label": "Swim-Up Suite",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/a0/ee/ea/see-sea-restaurant.jpg",
+      "label": "Sea Restaurant",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/8d/2c/9c/beach-wedding.jpg",
+      "label": "Beachfront",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/49/70/4f/restaurant-garden-grill.jpg",
+      "label": "Garden Grill",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/db/26/37/plaz-s-bilym-piskem-a.jpg",
+      "label": "White Sand Beach",
+      "user": false
+    }
+  ],
+  "ratings": {
+    "overall": "8.3",
+    "google": "4.3 / 5.0",
+    "tripadvisor": "4 / 5 (18,000+)",
+    "booking": "8.0 / 10",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "8.2",
+    "Beach": "8.9",
+    "Service": "8.2",
+    "Dining": "7.8",
+    "Value": "9.2"
+  },
+  "sentiment": {
+    "positive": 75,
+    "neutral": 15,
+    "negative": 10,
+    "polarity": 0.32,
+    "label": "Positive"
+  },
+  "contact": {
+    "phone_us": "1-800-496-7462",
+    "email": "reservas@majesticresorts.com",
+    "website": "majestic-resorts.com/en/punta-cana/majestic-elegance",
+    "address": "Bávaro Beach, La Altagracia, Dominican Republic"
+  },
+  "description": "The most accessible lifestyle-tolerant option in Punta Cana — Club Elegance adults-only section within a larger beachfront resort at Bávaro Beach. At $150–$250/night this is the entry-level option for lifestyle-curious couples exploring the DR. The adults section draws an open-minded crowd and the beach access is among the best on the Bávaro coast. Ideal for lifestyle first-timers or couples on a budget.",
+  "highlights": [
+    "Best price-to-value in Punta Cana for lifestyle-tolerant adults experience",
+    "Club Elegance adults-only section — separate from family areas",
+    "Direct Bávaro Beach access — consistent top-rated beach in DR",
+    "18,000+ TripAdvisor reviews — extensive verified sentiment data",
+    "Nightly entertainment actively draws open-minded adult crowd",
+    "Multiple pools including adults-only pool for Club Elegance guests",
+    "Good entry point for lifestyle-curious couples visiting DR first time"
+  ],
+  "considerations": [
+    "Large mixed resort — family areas adjacent to Club Elegance section",
+    "Lifestyle community less concentrated than at Breathless or Secrets",
+    "Dining variety lower than Excellence or Secrets properties",
+    "Can feel very crowded during high season (Dec–Feb)",
+    "Club Elegance upgrade required for adults-only access within larger property"
+  ],
+  "reviews": [
+    {
+      "name": "Rickey M",
+      "initials": "RM",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "We stayed here as a family of five and had one of the most difficult travel experiences in over 20 years. We reserved adjoining rooms in advance but on arrival were told they were unavailable. After travelling overnight with children, we waited over six hours past check-in for our first room. During our stay we were moved five times: Room 1 had no working AC; Room 2 had noticeable mold; Room 3 was in a separate building from our children; Room 4 had cleanliness concerns including insects. Towels required multiple requests. We raised repeated complaints that were simply ignored. Don't go — pay a little extra and stay elsewhere.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Quality-Majestic — Majestic Elegance Punta Cana",
+        "text": "Dear Guest, Thank you for taking the time to share such a detailed account of your recent stay with us. We are truly sorry to learn that your experience did not meet your expectations, especially after your long journey while travelling with your family. Please accept our sincere apologies for the inconveniences you encountered, including the delays at check-in, the multiple room relocations, and the maintenance issues. We take these matters very seriously and have shared your feedback with our leadership team to ensure corrective action is taken. We hope to have the opportunity to restore your confidence in our resort."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3176298-d1068246-r1055864639-Majestic_Elegance_Punta_Cana-Bavaro_Punta_Cana_La_Altagracia_Province_Dominican_Repub.html"
+    },
+    {
+      "name": "Michael G",
+      "initials": "MG",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Beautiful resort. We had a swim-up suite with an ocean view. The resort was super clean and well maintained. As we were in Elegance Club (Adults Only) we had a butler, Katherine. She met us at reception, showed us around, and over the next week made our dinner reservations and resolved any issues. She escorted us through departure and ensured we had transportation to the airport. She made the entire stay effortless. Anjelina at the Elegance Club beach was also a standout.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3176298-d1068246-r1055867248-Majestic_Elegance_Punta_Cana-Bavaro_Punta_Cana_La_Altagracia_Province_Dominican_Repub.html"
+    },
+    {
+      "name": "Voyager07990677916",
+      "initials": "VO",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Wonderful — very clean and I felt safe and cared for. Fennis Roa was the best; I would ask for her again if I can get back. She handled everything!!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Quality-Majestic — Majestic Elegance Punta Cana",
+        "text": "Dear Guest, Thank you for taking the time to share your kind words about your stay at Majestic Elegance Punta Cana. We are thrilled to hear that you felt safe, comfortable and well cared for during your visit. We will make sure to pass on your warm compliments to Fennis Roa — she will be delighted to hear your wonderful feedback. We look forward to welcoming you back!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3176298-d1068246-r1055655769-Majestic_Elegance_Punta_Cana-Bavaro_Punta_Cana_La_Altagracia_Province_Dominican_Repub.html"
+    },
+    {
+      "name": "Stay20637645031",
+      "initials": "ST",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "It was our first time at the resort. The room was very clean and large with a jacuzzi tub. I want to thank Arling our butler for making my 50th birthday so special. Also Club C on the beach had such amazing staff — Anyelina, Maxima and Rosa at the bar did an amazing job and always kept our drinks full. We can't thank you enough!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3176298-d1068246-r1055982882-Majestic_Elegance_Punta_Cana-Bavaro_Punta_Cana_La_Altagracia_Province_Dominican_Repub.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #2a0a1a, #4a1030, #802050)",
+  "detail_gradient": "linear-gradient(135deg, #2a0a1a, #4a1030, #802050)"
+}

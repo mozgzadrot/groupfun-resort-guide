@@ -1,0 +1,164 @@
+{
+  "id": "el-dorado-maroma",
+  "region": "riviera-maya",
+  "rank": 4,
+  "name": "El Dorado Maroma",
+  "tagline": "Highest sentiment score — world-famous Maroma Beach",
+  "location": "Maroma Beach, Km 55.3 (Cancun–Tulum highway)",
+  "type": "Adults-only · Lifestyle-Friendly · All-Inclusive",
+  "tags": [
+    "beach",
+    "luxury",
+    "romance"
+  ],
+  "price_range": "$400–$600",
+  "price_sort": 500,
+  "rooms": "Mid-size boutique property",
+  "best_for": "Beach prestige, romantic escapes, Condé Nast list",
+  "ratings": {
+    "overall": "8.6",
+    "google": "4.6 / 5.0",
+    "tripadvisor": "4 / 5 (9,044)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "9.2",
+    "Beach": "9.8",
+    "Service": "8.8",
+    "Dining": "8.3",
+    "Value": "7.5"
+  },
+  "sentiment": {
+    "positive": 100,
+    "neutral": 0,
+    "negative": 0,
+    "polarity": 0.6,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-888-774-0040 / (305) 774-0040",
+    "email": "bookwithus@lomashospitality.com",
+    "website": "maromarivieramaya.com",
+    "address": "Carretera Cancún–Tulum, Km 55.3, Playa del Carmen"
+  },
+  "description": "The highest sentiment polarity of all six resorts (0.597) — driven by Maroma Beach, considered one of the top 10 beaches in the world by Travel Channel and Discovery. A quieter, more intimate luxury retreat for couples who prioritise natural beauty, prestige, and personalised service over nightlife.",
+  "highlights": [
+    "HIGHEST sentiment polarity score of all 6 resorts (0.597)",
+    "Maroma Beach — Top 10 beaches worldwide (Travel Channel, Discovery)",
+    "Voted Top 4 resort by Condé Nast Traveler",
+    "First and only overwater bungalows in Mexico (added in recent expansion)",
+    "Dedicated beach butler service included",
+    "Less crowded than larger properties — more personalised experience",
+    "All-luxury suite accommodation — no standard rooms"
+  ],
+  "considerations": [
+    "Premium pricing ($400–$600/night)",
+    "Activities can feel understaffed during peak periods",
+    "Less entertainment/nightlife focus than Desire properties",
+    "One couple reported food poisoning (isolated incident — 2024)"
+  ],
+  "reviews": [
+    {
+      "name": "Salaysia",
+      "initials": "SA",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "When the world seems overwhelmingly stressful you need El Dorado Maroma — where the beauty is breathtaking, people are attentive and caring, and the ambiance makes you feel taken care of like family. We had thought about cancelling due to current events but are so glad we didn't. Special thanks to Alex, Hans, and Jerik for making our stay so special. Note: sargassum came in during our stay, but the clean-up crew was out early every morning working relentlessly to keep the beach beautiful.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055752552-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "DeniDen",
+      "initials": "DD",
+      "date": "June 2025",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We stayed 6 nights celebrating our birthdays and anniversary. The honeymoon villa (Casa del Patron, #888) was right behind the main pool with ocean views — probably the best villa on the property. The beach is one of the most beautiful I've ever seen; workers are out before dawn every morning cleaning sargassum. Food is the best I've ever had at an all-inclusive — real Mexican flavors, not Americanized. Bartenders Felipe and Carlos were fantastic. The catamaran snorkeling excursion to the reef was amazing — we spotted a sea turtle! We will absolutely make this an annual tradition.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Hotel El Dorado Maroma",
+        "text": "Thank you for sharing your wonderful experience celebrating such special occasions with us. We are thrilled the food, villa, beach, and team exceeded your expectations. We look forward to making this an annual tradition with you!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1014774408-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "C Simpson",
+      "initials": "CS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We love El Dorado Maroma — been coming for 5 years. The grounds are immaculate and the staff are simply amazing: Israel, Eli, Bernie, Salome, Diego, Anna, Josue, Armando, Miguel, Marco, Angel, Carlos, Arturo, Jesus, Mariel (Head Butler), and the one and only Agustin and David Hunter always make our trip so special. Every single staff member is five-star. The food is wonderful — we didn't have a bad plate in two full weeks. The beach is incredible too!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055964560-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "jpayton1",
+      "initials": "JP",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our time at the Hotel Palafitos Overwater Bungalows was nothing short of incredible — the location is straight out of a picture book. What truly set this trip apart was the staff: butlers Mauricio and Daniel were amazing and provided above-and-beyond service throughout our entire stay. They anticipated our needs before we even voiced them. We left feeling relaxed, appreciated, and already talking about when we can return. Highly recommend to anyone looking for a memorable, elevated getaway.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055840799-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Deborah V",
+      "initials": "DV",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our experience was truly amazing. Beautiful accommodations with the most stunning gardens and beaches. Butlers Mauricio, Daniel, and Fernanda provided excellent 24/7 service — the very best we've ever had at any resort. Servers Adan and Christian took pride in making us feel special at every meal. Driver Alberto was always Johnny-on-the-spot. We were so impressed with the entire resort that we decided to buy a membership! Be sure to visit Rick's Bar on property for pool, dancing, and fun.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055648718-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Libby M",
+      "initials": "LM",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "What sets El Dorado Maroma apart is the outstanding service and amazing food. As independent travelers who ask for very little, my husband and I truly marveled at how much impeccable service can elevate a vacation. Butlers Janet and Aldo attended to every need. Beach butlers Alvaro, Rene, and Octavio arranged our chairs and kept cold drinks coming. I had read every TripAdvisor review before arriving — the common theme of amazing staff, impeccable service, and upscale dining proved completely and utterly true.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055345670-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "GLENN R",
+      "initials": "GR",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Alvaro was amazing — always had our Bali beach bed ready and made sure we enjoyed every single day. Butlers Janet and Aldo were incredibly helpful, always checking in and securing the best dinner reservations. Restaurant staff Angel, Randy, Carlos, Marlene, and Arturo delivered excellent service with genuine personal interaction. Bartenders Rene and Octavio made sure my glass was never empty. The cleaning staff made our room feel like home. A truly great trip at Palafitos/Maroma.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055344288-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Michelle G",
+      "initials": "MG",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Omar, Alex, Mafer, Osvaldo, Jerik, DJ Chris, Manual, Marco, and Armando are absolutely the best beach and pool entertainers you will ever encounter at any resort. They kept the energy incredible every single day. An absolutely wonderful stay from start to finish.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055616196-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a1a3d 0%, #10306b 50%, #2050a0 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a1a3d, #10306b, #2050a0)"
+}
