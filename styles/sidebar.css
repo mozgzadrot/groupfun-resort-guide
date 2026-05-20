@@ -24,25 +24,33 @@
   border-bottom: 1px dashed var(--border-2);
   position: relative;
 }
-.sidebar-logo h1 {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-weight: 600;
-  font-size: 1.7rem;
-  letter-spacing: -.02em;
-  color: var(--gold-lite);
-  text-transform: none;
-  line-height: 1;
+.brand-lockup {
+  display: block;
+  text-decoration: none;
+  transition: transform .25s ease;
 }
-.sidebar-logo h1::first-letter { color: var(--coral); }
-.sidebar-logo p {
-  font-size: .65rem;
+.brand-lockup:hover { transform: translateY(-1px); }
+.brand-mark {
+  display: block;
+  width: 100%;
+  max-width: 168px;
+  height: auto;
+  filter: drop-shadow(0 4px 18px rgba(255,122,89,.25));
+}
+.brand-tag {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: .6rem;
   color: var(--muted);
-  margin-top: 8px;
   font-family: var(--font-mono);
   text-transform: uppercase;
   letter-spacing: .22em;
+  flex-wrap: wrap;
 }
+.brand-tag span:first-child { color: var(--gold-lite); }
+.brand-dot { color: var(--coral); opacity: .7; }
 
 /* ─── SECTION LABEL ──────────────────────────────────────────── */
 .sidebar-section {
@@ -163,6 +171,28 @@
   color: var(--muted);
   font-family: var(--font-mono);
   letter-spacing: .06em;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.footer-stat { letter-spacing: .08em; }
+.footer-brand {
+  display: flex; align-items: center; gap: 8px;
+  font-size: .62rem;
+  color: var(--text-soft);
+  text-transform: uppercase;
+  letter-spacing: .22em;
+  opacity: .8;
+}
+.footer-brand strong {
+  font-weight: 600;
+  color: var(--coral);
+  letter-spacing: .14em;
+}
+.brand-spark {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--coral);
+  box-shadow: 0 0 10px var(--coral);
+  flex-shrink: 0;
 }
 
 .add-region-btn {

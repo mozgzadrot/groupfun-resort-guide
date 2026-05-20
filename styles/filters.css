@@ -35,6 +35,20 @@
   z-index: -1;
 }
 
+/* GroupFun watermark — sits in the upper-right corner of the hero */
+.hero .brand-watermark {
+  position: absolute;
+  top: 28px; right: 56px;
+  height: 26px;
+  width: auto;
+  opacity: .55;
+  filter: brightness(0) invert(1) drop-shadow(0 2px 8px rgba(0,0,0,.4));
+  z-index: 2;
+  transition: opacity .25s;
+  pointer-events: none;
+}
+.hero .brand-watermark:hover { opacity: .85; }
+
 .hero-badge {
   display: inline-flex; align-items: center; gap: 8px;
   background: rgba(22,9,28,.55);
