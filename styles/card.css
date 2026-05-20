@@ -1,20 +1,12 @@
 /* ─── RESORT GRID ───────────────────────────────────────────────── */
 .resort-grid {
-  padding: 44px 56px 80px;
+  padding: 28px 48px 60px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-  gap: 28px;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
 }
 
-/* Staggered entrance */
-.resort-grid .resort-card { animation: rise .6s cubic-bezier(.2,.7,.2,1) both; }
-.resort-grid .resort-card:nth-child(1) { animation-delay: .03s; }
-.resort-grid .resort-card:nth-child(2) { animation-delay: .09s; }
-.resort-grid .resort-card:nth-child(3) { animation-delay: .15s; }
-.resort-grid .resort-card:nth-child(4) { animation-delay: .21s; }
-.resort-grid .resort-card:nth-child(5) { animation-delay: .27s; }
-.resort-grid .resort-card:nth-child(6) { animation-delay: .33s; }
-.resort-grid .resort-card:nth-child(n+7) { animation-delay: .4s; }
+.resort-grid .resort-card { animation: rise .35s ease-out both; }
 
 /* ─── RESORT CARD ───────────────────────────────────────────────── */
 .resort-card {
@@ -23,231 +15,191 @@
   border-radius: var(--radius);
   overflow: hidden;
   cursor: pointer;
-  transition: transform .35s cubic-bezier(.2,.7,.2,1),
-              box-shadow .35s,
-              border-color .35s;
+  transition: transform .2s ease, border-color .2s, box-shadow .2s;
   position: relative;
   text-decoration: none;
   color: inherit;
   display: block;
 }
-.resort-card::before {
-  content: '';
-  position: absolute; inset: 0;
-  border-radius: var(--radius);
-  padding: 1px;
-  background: linear-gradient(135deg, rgba(255,122,89,.4), transparent 35%, transparent 65%, rgba(110,231,197,.25));
-  -webkit-mask:
-    linear-gradient(#000 0 0) content-box,
-    linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-          mask-composite: exclude;
-  opacity: 0;
-  transition: opacity .3s;
-  pointer-events: none;
-}
 .resort-card:hover {
-  transform: translateY(-6px);
-  box-shadow: var(--shadow-glow);
-  border-color: transparent;
+  transform: translateY(-2px);
+  border-color: var(--border-2);
+  box-shadow: var(--shadow-lift);
 }
-.resort-card:hover::before { opacity: 1; }
 
 .card-hero {
-  height: 210px; position: relative; overflow: hidden;
+  height: 170px; position: relative; overflow: hidden;
   display: flex; align-items: flex-end;
 }
 .card-hero-bg {
   position: absolute; inset: 0;
   background-size: cover; background-position: center;
-  transition: transform .8s cubic-bezier(.2,.7,.2,1);
-  filter: saturate(1.1);
+  transition: transform .4s ease;
 }
-.resort-card:hover .card-hero-bg { transform: scale(1.08) rotate(-.5deg); }
+.resort-card:hover .card-hero-bg { transform: scale(1.04); }
 
 .card-hero-overlay {
   position: absolute; inset: 0;
-  background:
-    linear-gradient(to top, rgba(22,9,28,.96) 0%, rgba(22,9,28,.35) 45%, transparent 80%),
-    linear-gradient(135deg, rgba(255,122,89,.0), rgba(255,61,127,.15) 100%);
+  background: linear-gradient(to top, rgba(15,23,42,.92) 0%, rgba(15,23,42,.25) 55%, transparent 100%);
 }
 .card-hero-info {
   position: relative; z-index: 1;
-  padding: 18px 20px; width: 100%;
+  padding: 14px 16px; width: 100%;
 }
 
 .card-rank {
-  position: absolute; top: 14px; right: 14px; z-index: 2;
-  background: var(--gold-lite);
-  color: var(--bg);
-  width: 38px; height: 38px;
-  border-radius: 50%;
+  position: absolute; top: 12px; right: 12px; z-index: 2;
+  background: rgba(15,23,42,.7);
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(248,250,252,.18);
+  color: var(--ivory);
+  min-width: 28px; height: 28px;
+  padding: 0 8px;
+  border-radius: 99px;
   display: flex; align-items: center; justify-content: center;
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1rem; font-weight: 800;
-  box-shadow: 0 6px 18px rgba(240,198,116,.4);
-  border: 2px solid rgba(255,255,255,.18);
+  font-size: .72rem; font-weight: 600;
+  letter-spacing: .02em;
 }
 
 .card-tag {
   display: inline-block;
-  background: rgba(255,122,89,.15);
-  border: 1px solid rgba(255,122,89,.45);
-  color: var(--peach);
-  padding: 3px 10px;
-  border-radius: 99px;
+  background: transparent;
+  border: 1px solid rgba(248,250,252,.25);
+  color: var(--ivory);
+  padding: 2px 8px;
+  border-radius: 4px;
   font-size: .62rem;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: .15em;
-  margin-bottom: 10px;
-  font-family: var(--font-mono);
-  backdrop-filter: blur(8px);
+  letter-spacing: .1em;
+  margin-bottom: 8px;
 }
 .card-name {
   font-family: var(--font-display);
-  font-size: 1.45rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  color: #fff;
-  letter-spacing: -.015em;
-  line-height: 1.1;
+  color: var(--ivory);
+  letter-spacing: -.01em;
+  line-height: 1.2;
 }
 .card-location {
-  font-size: .75rem;
-  color: rgba(246,236,217,.7);
-  margin-top: 4px;
-  letter-spacing: .02em;
+  font-size: .76rem;
+  color: rgba(248,250,252,.7);
+  margin-top: 3px;
 }
 
-.card-body { padding: 20px; }
+.card-body { padding: 16px; }
 .card-meta {
-  display: flex; gap: 14px;
-  margin-bottom: 16px;
+  display: flex; gap: 12px;
+  margin-bottom: 14px;
   flex-wrap: wrap;
-  padding-bottom: 14px;
-  border-bottom: 1px dashed var(--border-2);
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
 }
 .meta-item {
-  display: flex; align-items: center; gap: 6px;
+  display: flex; align-items: center; gap: 5px;
   font-size: .78rem; color: var(--text-soft);
 }
-.meta-item svg { width: 13px; height: 13px; flex-shrink: 0; color: var(--coral); }
+.meta-item svg { width: 12px; height: 12px; flex-shrink: 0; color: var(--slate); }
 
 .card-ratings {
   display: grid; grid-template-columns: 1fr 1fr;
-  gap: 10px; margin-bottom: 16px;
+  gap: 8px; margin-bottom: 14px;
 }
 .rating-chip {
-  background: linear-gradient(180deg, var(--surface), var(--bg3));
+  background: var(--bg3);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
-  padding: 12px 14px;
-  display: flex; flex-direction: column; gap: 3px;
+  padding: 10px 12px;
+  display: flex; flex-direction: column; gap: 2px;
 }
 .rating-chip-label {
-  font-size: .58rem;
-  color: var(--muted);
+  font-size: .6rem;
+  color: var(--slate);
   text-transform: uppercase;
-  letter-spacing: .18em;
-  font-family: var(--font-mono);
+  letter-spacing: .1em;
+  font-weight: 500;
 }
 .rating-chip-val {
   font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 600;
-  color: var(--gold-lite);
-  line-height: 1;
-  letter-spacing: -.02em;
+  color: var(--ivory);
+  line-height: 1.1;
 }
-.rating-chip-sub { font-size: .62rem; color: var(--muted); font-family: var(--font-mono); }
+.rating-chip-sub { font-size: .68rem; color: var(--slate); }
 
-.sentiment-bar { margin-bottom: 16px; }
+.sentiment-bar { margin-bottom: 14px; }
 .sentiment-label {
-  font-size: .68rem; color: var(--muted);
-  margin-bottom: 7px;
+  font-size: .7rem; color: var(--slate);
+  margin-bottom: 6px;
   display: flex; justify-content: space-between;
-  text-transform: uppercase; letter-spacing: .15em;
-  font-family: var(--font-mono);
+  font-weight: 500;
 }
 .bar-track {
   height: 4px;
-  background: rgba(246,236,217,.08);
+  background: rgba(248,250,252,.06);
   border-radius: 99px; overflow: hidden;
 }
 .bar-fill {
   height: 100%;
   border-radius: 99px;
-  transition: width 1.2s cubic-bezier(.2,.7,.2,1);
+  transition: width .6s ease;
+  background: var(--coral);
 }
-.bar-pos {
-  background: linear-gradient(90deg, var(--coral), var(--gold-lite), var(--mint));
-  box-shadow: 0 0 12px rgba(255,122,89,.4);
-}
+.bar-pos { background: var(--coral); }
 
 .card-excerpt {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: .92rem;
+  font-size: .85rem;
   color: var(--text-soft);
   line-height: 1.55;
-  margin-bottom: 16px;
-  position: relative;
-  padding-left: 14px;
-  border-left: 2px solid var(--coral);
+  margin-bottom: 14px;
 }
 
 .card-tags { display: flex; gap: 6px; flex-wrap: wrap; }
 .tag-pill {
   background: transparent;
   border: 1px solid var(--border-2);
-  border-radius: 99px;
-  padding: 3px 9px;
-  font-size: .66rem;
-  color: var(--muted);
-  font-family: var(--font-mono);
-  text-transform: lowercase;
-  letter-spacing: .04em;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: .68rem;
+  color: var(--slate);
+  font-weight: 500;
 }
 
 .card-footer {
-  padding: 16px 20px;
+  padding: 14px 16px;
   border-top: 1px solid var(--border);
   display: flex; align-items: center; justify-content: space-between;
-  background: linear-gradient(180deg, transparent, rgba(255,122,89,.04));
+  background: transparent;
 }
 .price-range {
   font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1.05rem;
+  font-size: .98rem;
   font-weight: 600;
-  color: var(--gold-lite);
+  color: var(--ivory);
 }
 .price-label {
-  font-size: .6rem;
-  color: var(--muted);
+  font-size: .62rem;
+  color: var(--slate);
   display: block;
   text-transform: uppercase;
-  letter-spacing: .18em;
-  font-family: var(--font-mono);
-  font-style: normal;
+  letter-spacing: .1em;
+  font-weight: 500;
 }
 .view-btn {
-  background: linear-gradient(135deg, var(--coral), var(--magenta));
-  color: #fff;
+  background: var(--coral);
+  color: var(--navy);
   border: none;
-  padding: 9px 18px;
-  border-radius: 99px;
+  padding: 8px 14px;
+  border-radius: 6px;
   font-size: .78rem;
-  font-weight: 500;
-  letter-spacing: .04em;
+  font-weight: 600;
+  letter-spacing: .01em;
   cursor: pointer;
-  transition: transform .25s, box-shadow .25s;
-  box-shadow: 0 6px 18px -6px rgba(255,61,127,.6);
+  transition: background .15s, transform .15s;
   font-family: var(--font-body);
 }
 .resort-card:hover .view-btn {
-  transform: translateX(3px);
-  box-shadow: 0 10px 24px -6px rgba(255,61,127,.7);
+  background: var(--coral-soft);
 }

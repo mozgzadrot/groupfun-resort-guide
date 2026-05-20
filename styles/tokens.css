@@ -2,95 +2,75 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  /* Riviera-dusk palette ─ deep aubergine warmed by sunset coral */
-  --bg:        #16091c;
-  --bg2:       #1d0d24;
-  --bg3:       #281230;
-  --card:      #20102a;
-  --surface:   #2a1535;
-  --border:    rgba(245,216,184,.10);
-  --border-2:  rgba(245,216,184,.18);
+  /* GroupFun brand palette */
+  --navy:      #0F172A;   /* Midnight Navy — primary background */
+  --ivory:     #F8FAFC;   /* Subtle Ivory — text / surfaces */
+  --coral:     #E1789B;   /* Muted Coral — sparingly, CTAs */
+  --coral-soft:#ecaac1;   /* coral hover/lighter */
+  --slate:     #64748B;   /* Slate Grey — secondary text, borders */
 
-  /* Sunset accents */
-  --coral:     #ff7a59;
-  --coral-2:   #ff5577;
-  --peach:     #ffb78a;
-  --gold:      #f0c674;
-  --gold-lite: #ffe2a8;
-  --mint:      #6ee7c5;
-  --magenta:   #ff3d7f;
-  --plum:      #5b2766;
+  /* Derived neutrals (dark mode) */
+  --bg:        var(--navy);
+  --bg2:       #131c33;
+  --bg3:       #1a2440;
+  --card:      #152038;
+  --surface:   #1c2845;
+  --border:    rgba(248,250,252,.08);
+  --border-2:  rgba(248,250,252,.14);
 
-  /* Legacy aliases (renderer compatibility) */
-  --teal:      var(--mint);
-  --teal-dark: #1f8c79;
+  --text:      var(--ivory);
+  --text-soft: #cbd5e1;
+  --muted:     #94a3b8;
+
+  /* Status (calm, not loud) */
   --pos:       #4ade80;
   --neu:       #fbbf24;
   --neg:       #f87171;
 
-  --text:      #f6ecd9;
-  --text-soft: #d9c8b8;
-  --muted:     #a8957f;
+  /* Legacy aliases so renderers keep working */
+  --gold:      var(--ivory);
+  --gold-lite: var(--ivory);
+  --teal:      var(--slate);
+  --teal-dark: var(--slate);
 
-  --radius:    18px;
-  --radius-sm: 10px;
-  --shadow:    0 24px 60px -20px rgba(0,0,0,.7), 0 4px 12px rgba(255,122,89,.06);
-  --shadow-glow: 0 0 0 1px rgba(255,122,89,.35), 0 18px 50px -10px rgba(255,61,127,.35);
+  --radius:    12px;
+  --radius-sm: 8px;
+  --shadow:    0 1px 2px rgba(0,0,0,.3), 0 8px 24px -8px rgba(0,0,0,.4);
+  --shadow-lift: 0 1px 2px rgba(0,0,0,.3), 0 16px 40px -12px rgba(0,0,0,.55);
 
-  --font-display: 'Fraunces', 'Times New Roman', serif;
-  --font-body:    'Geist', system-ui, -apple-system, sans-serif;
-  --font-mono:    'Geist Mono', ui-monospace, monospace;
-
-  --grain: url("data:image/svg+xml;utf8,<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 0.78  0 0 0 0 0.54  0 0 0 0.45 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  --font-display: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-body:    'Roboto', 'Inter', system-ui, sans-serif;
+  --font-mono:    ui-monospace, 'SF Mono', Menlo, monospace;
 }
 
 html { scroll-behavior: smooth; }
 
 body {
   font-family: var(--font-body);
-  font-feature-settings: 'ss01' on, 'cv11' on;
-  background:
-    radial-gradient(1100px 700px at 85% -10%, rgba(255,61,127,.20), transparent 60%),
-    radial-gradient(900px 600px at -10% 110%, rgba(110,231,197,.10), transparent 55%),
-    var(--bg);
+  background: var(--bg);
   color: var(--text);
-  line-height: 1.6;
+  line-height: 1.55;
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  font-size: 15px;
 }
 
-/* Atmosphere: fixed grain overlay */
-body::before {
-  content: '';
-  position: fixed; inset: 0;
-  background-image: var(--grain);
-  background-size: 180px 180px;
-  opacity: .07;
-  pointer-events: none;
-  z-index: 1000;
-  mix-blend-mode: overlay;
-}
-
-a { color: var(--coral); text-decoration: none; transition: color .2s; }
-a:hover { color: var(--gold); }
+a { color: var(--coral); text-decoration: none; transition: color .15s; }
+a:hover { color: var(--coral-soft); }
 img { max-width: 100%; display: block; }
 
-::selection { background: var(--magenta); color: #fff; }
+::selection { background: var(--coral); color: var(--navy); }
 
 h1, h2, h3, h4 {
   font-family: var(--font-display);
   font-weight: 600;
-  letter-spacing: -0.01em;
-  line-height: 1.05;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+  color: var(--ivory);
 }
 
-/* Page-load reveal */
 @keyframes rise {
-  from { opacity: 0; transform: translateY(14px); }
+  from { opacity: 0; transform: translateY(6px); }
   to   { opacity: 1; transform: translateY(0); }
-}
-@keyframes drift {
-  0%, 100% { transform: translate3d(0,0,0); }
-  50%      { transform: translate3d(0,-6px,0); }
 }
