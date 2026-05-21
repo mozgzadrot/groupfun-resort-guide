@@ -54,15 +54,21 @@ export async function renderSidebar(root) {
 
   root.innerHTML = `
     <div class="sidebar-logo">
-      <h1>GroupFun Resort Guide</h1>
-      <p>Riviera Maya &amp; Beyond</p>
+      <a class="brand-lockup" href="/" data-link aria-label="GroupFun Resort Guide">
+        <img class="brand-mark" src="https://s03.ndcdn.com/sites/groupfun.com/logo_and_text.svg?v=2.401.0.master.20260515092501" alt="GroupFun" />
+      </a>
+      <p class="brand-tag"><span>Resort Guide</span><span class="brand-dot">·</span><span>Riviera Maya &amp; Beyond</span></p>
     </div>
     <div class="sidebar-section">Regions</div>
     ${regionBlocks}
     <div style="height:8px"></div>
     <div style="padding:0 20px"><div style="border-top:1px solid var(--border)"></div></div>
     <div class="sidebar-footer">
-      <div>${manifest.length} resorts · ${regions.length} regions</div>
+      <div class="footer-stat">${manifest.length} resorts · ${regions.length} regions</div>
+      <div class="footer-brand">
+        <span class="brand-spark"></span>
+        <span>A <strong>GroupFun</strong> production</span>
+      </div>
     </div>
   `;
 }

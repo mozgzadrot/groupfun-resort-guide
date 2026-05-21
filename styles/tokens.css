@@ -1,25 +1,82 @@
 /* ─── RESET & BASE ─────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
 :root {
-  --bg:        #0d0f14;
-  --bg2:       #141720;
-  --bg3:       #1c1f2e;
-  --card:      #1a1d2a;
-  --border:    rgba(255,255,255,.08);
-  --gold:      #c9a84c;
-  --gold-lite: #f0d080;
-  --teal:      #2dd4bf;
-  --teal-dark: #0e7b71;
-  --text:      #e2e4ec;
-  --muted:     #8b8fa8;
-  --pos:       #22c55e;
-  --neu:       #f59e0b;
-  --neg:       #ef4444;
-  --radius:    14px;
-  --shadow:    0 8px 32px rgba(0,0,0,.4);
+  /* GroupFun brand palette */
+  --navy:      #0F172A;   /* Midnight Navy — primary background */
+  --ivory:     #F8FAFC;   /* Subtle Ivory — text / surfaces */
+  --coral:     #E1789B;   /* Muted Coral — sparingly, CTAs */
+  --coral-soft:#ecaac1;   /* coral hover/lighter */
+  --slate:     #64748B;   /* Slate Grey — secondary text, borders */
+
+  /* Accent colors — primary action + secondary action */
+  --lime:      #9DFF00;   /* electric lime — primary buttons + numeric accents */
+  --lime-soft: #c2ff5c;
+  --blue:      #4568EC;   /* indigo — secondary buttons + selections */
+  --blue-soft: #6c87f1;
+
+  /* Derived neutrals (dark mode) */
+  --bg:        var(--navy);
+  --bg2:       #131c33;
+  --bg3:       #1a2440;
+  --card:      #152038;
+  --surface:   #1c2845;
+  --border:    rgba(248,250,252,.08);
+  --border-2:  rgba(248,250,252,.14);
+
+  --text:      var(--ivory);
+  --text-soft: #cbd5e1;
+  --muted:     #94a3b8;
+
+  /* Status (calm, not loud) */
+  --pos:       #4ade80;
+  --neu:       #fbbf24;
+  --neg:       #f87171;
+
+  /* Legacy aliases so renderers keep working */
+  --gold:      var(--ivory);
+  --gold-lite: var(--ivory);
+  --teal:      var(--slate);
+  --teal-dark: var(--slate);
+
+  --radius:    12px;
+  --radius-sm: 8px;
+  --shadow:    0 1px 2px rgba(0,0,0,.3), 0 8px 24px -8px rgba(0,0,0,.4);
+  --shadow-lift: 0 1px 2px rgba(0,0,0,.3), 0 16px 40px -12px rgba(0,0,0,.55);
+
+  --font-display: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-body:    'Roboto', 'Inter', system-ui, sans-serif;
+  --font-mono:    ui-monospace, 'SF Mono', Menlo, monospace;
 }
+
 html { scroll-behavior: smooth; }
-body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.65; min-height: 100vh; }
-a { color: var(--teal); text-decoration: none; }
-a:hover { color: var(--gold); }
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 15px;
+}
+
+a { color: var(--coral); text-decoration: none; transition: color .15s; }
+a:hover { color: var(--coral-soft); }
 img { max-width: 100%; display: block; }
+
+::selection { background: var(--coral); color: var(--navy); }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+  color: var(--ivory);
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

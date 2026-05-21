@@ -77,6 +77,7 @@ export async function renderRegion(root, slug) {
   root.innerHTML = `
     <section class="page active">
       <div class="hero">
+        <img class="brand-watermark" src="https://s03.ndcdn.com/sites/groupfun.com/logo_and_text.svg?v=2.401.0.master.20260515092501" alt="GroupFun" aria-hidden="true">
         <div class="hero-badge">${region.hero_copy?.badge || ''}</div>
         <h2>${escapeHtml(region.hero_copy?.title || '')}<br><span>${escapeHtml(region.hero_copy?.subtitle || region.name)}</span></h2>
         <p>${escapeHtml(region.hero_copy?.blurb || region.description)}</p>
