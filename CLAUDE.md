@@ -31,7 +31,53 @@ Three layers:
    - `resort-view.js` — composes the detail page from `hero`, `overview`, `categoryScores`, `highlights`, `photoGallery`, `reviews`, `quickFacts`, `sentimentPanel`, `contact` (all pure functions returning HTML strings).
    - `filters.js` — pure DOM operation on already-rendered cards. Reads `data-tags`, `data-name`, `data-tagline`, `data-location`, `data-rank`, `data-price`, `data-rating`, `data-sentiment` to show/hide and reorder. No re-render, no fetch.
    - `format.js` — `escapeHtml`, `stars`, `sentimentChip`, contact icon/label tables, rating-source labels.
-   - `main.js` — entry: wires hamburger, calls `renderSidebar`, then `router.start()`.
+   - `main.js` — entry: wires the hamburger to a slide-in drawer with a click-to-close backdrop, body scroll-lock (`body.no-scroll`), auto-close on `a[data-link]` taps under 900px, and a resize listener that closes the drawer when the viewport grows past 900px. Then calls `renderSidebar` and `router.start()`.
+
+## Visual design
+
+The site implements the **GroupFun brand identity** — minimalist, sophisticated, navy-first. Avoid heavy gradients, italic display serifs, or maximalist treatments; the brand guide rules out the harsh blacks and loud neons common in this category.
+
+### Palette (all tokens live in `styles/tokens.css`)
+
+| Token | Hex | Role |
+| --- | --- | --- |
+| `--navy` | `#0F172A` | Midnight Navy — primary background |
+| `--ivory` | `#F8FAFC` | Subtle Ivory — primary text |
+| `--slate` | `#64748B` | Slate Grey — secondary text, borders, dividers |
+| `--coral` | `#E1789B` | Muted Coral — brand signaling only (sidebar active rail, footer spark dot, resort-response accent, selection) |
+| `--lime` | `#9DFF00` | Primary action + numeric accent — view button, stat numerals, rating values, sentiment bar, review stars, section-title icons |
+| `--lime-soft` | `#c2ff5c` | Lime hover |
+| `--blue` | `#4568EC` | Secondary action — active filter button, selected comparison pill, focus ring on inputs |
+| `--blue-soft` | `#6c87f1` | Blue hover |
+
+Surfaces are derived from navy: `--bg2 #131c33`, `--bg3 #1a2440`, `--card #152038`, `--surface #1c2845`. Borders are `rgba(248,250,252,.08)` and `.14`. Status colors (`--pos`, `--neu`, `--neg`) stay calm — not loud.
+
+**Discipline**: lime is the only color that gets to shout. Coral is for GroupFun-brand identity moments and nothing else. Indigo is the "selected/focused" affordance. Don't paint headings, body text or chrome with these accents.
+
+### Typography
+
+- **Display (`--font-display`)**: Inter, 600 weight, `-0.015em` tracking — used for h1–h4, brand wordmark, stat numerals, card names.
+- **Body (`--font-body`)**: Roboto, 400 / 500 — used everywhere else. Base size 15px.
+- Both load from Google Fonts via the `<link>` in `index.html`. Don't introduce other families; never use Fraunces, Geist, Inter italics or any serif.
+
+### Brand assets
+
+The GroupFun lockup is loaded directly from the GroupFun CDN URL: `https://s03.ndcdn.com/sites/groupfun.com/logo_and_text.svg?v=...`. It appears in three places:
+
+1. **Sidebar lockup** at full-width (max 140px desktop, 124px mobile) inside `.brand-lockup` — the link target is `/`.
+2. **Hero watermark** in the top-right of every region hero (`<img class="brand-watermark">` injected by `region-view.js`) — opacity .35, hidden under 900px.
+3. **Favicon** — `<link rel="icon">` in `index.html` points at the same URL.
+
+Never recolor, stretch or crop the logo. If you need a wordmark on a light surface, swap the CSS filter on `.brand-watermark` rather than editing the SVG.
+
+### Mobile (`@media (max-width: 900px)` and `480px`)
+
+- Sidebar becomes a 282px slide-in drawer. The floating hamburger lives at top-left when closed; when `body.no-scroll` is set it slides to the right edge of the drawer (`left: calc(282px - 54px)`), drops its chrome, and morphs to an X. A translucent backdrop (`.sidebar-backdrop.show`) closes the drawer on tap.
+- The region hero and detail hero reserve **60px of top padding** so headlines clear the floating menu button. Watermark is hidden.
+- The toolbar is **static, not sticky** on mobile (was overlapping the hamburger). Search + sort flex to 100% width when they wrap.
+- Hero stats use a **2-column CSS grid** (was a wrapping flex with manual right-borders that mis-rendered with odd counts). Resort grid collapses to 1 column; rating-grid and photo-grid step to 2 columns at 900px and 1 column under 480px.
+- `h2`/`detail-name` cap at 1.55rem (1.4rem under 480px) so they fit narrow viewports.
+- Tap discipline: `-webkit-tap-highlight-color: transparent`, default focus outline removed, replaced with a 2px coral `:focus-visible` ring for keyboard users only.
 
 ## Routing & Cloudflare Pages
 
@@ -43,7 +89,7 @@ Locally, `python3 -m http.server 8080` works for the grid and detail pages, but 
 
 - **Add a resort**: create `data/resorts/<id>.json` (copy an existing file's shape), then run `node scripts/build-index.mjs`. The sidebar and the matching region grid pick it up automatically.
 - **Add a region**: append an entry to `data/regions.json` with `{slug, name, flag, description, filter_pills, hero_stats, hero_copy}`. If the slug needs a country flag in the sidebar, add it to the `FLAG_ISO` map in `js/sidebar.js`.
-- **Change the visual design**: edit the matching `styles/*.css` file. CSS variables live in `styles/tokens.css`.
+- **Change the visual design**: edit the matching `styles/*.css` file. CSS variables live in `styles/tokens.css`. Re-read the **Visual design** section before touching colors or type — the palette is brand-locked, not a creative surface.
 - **Add a backend endpoint**: drop a file under `functions/api/<name>.js` — Cloudflare Pages auto-wires it. (Not used today.)
 
 ## Notes
