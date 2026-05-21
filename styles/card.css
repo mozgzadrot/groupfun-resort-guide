@@ -123,8 +123,8 @@
 .rating-chip-val {
   font-family: var(--font-display);
   font-size: 1.2rem;
-  font-weight: 600;
-  color: var(--ivory);
+  font-weight: 700;
+  color: var(--lime);
   line-height: 1.1;
 }
 .rating-chip-sub { font-size: .68rem; color: var(--slate); }
@@ -145,9 +145,9 @@
   height: 100%;
   border-radius: 99px;
   transition: width .6s ease;
-  background: var(--coral);
+  background: var(--lime);
 }
-.bar-pos { background: var(--coral); }
+.bar-pos { background: var(--lime); }
 
 .card-excerpt {
   font-size: .85rem;
@@ -188,18 +188,19 @@
   font-weight: 500;
 }
 .view-btn {
-  background: var(--coral);
+  background: var(--lime);
   color: var(--navy);
   border: none;
   padding: 8px 14px;
   border-radius: 6px;
   font-size: .78rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: .01em;
   cursor: pointer;
-  transition: background .15s, transform .15s;
+  transition: background .15s, box-shadow .15s, transform .15s;
   font-family: var(--font-body);
 }
 .resort-card:hover .view-btn {
-  background: var(--coral-soft);
+  background: var(--lime-soft);
+  box-shadow: 0 4px 14px -4px rgba(157,255,0,.5);
 }

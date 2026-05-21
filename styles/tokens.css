@@ -9,6 +9,12 @@
   --coral-soft:#ecaac1;   /* coral hover/lighter */
   --slate:     #64748B;   /* Slate Grey — secondary text, borders */
 
+  /* Accent colors — primary action + secondary action */
+  --lime:      #9DFF00;   /* electric lime — primary buttons + numeric accents */
+  --lime-soft: #c2ff5c;
+  --blue:      #4568EC;   /* indigo — secondary buttons + selections */
+  --blue-soft: #6c87f1;
+
   /* Derived neutrals (dark mode) */
   --bg:        var(--navy);
   --bg2:       #131c33;

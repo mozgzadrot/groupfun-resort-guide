@@ -76,8 +76,8 @@
 .stat-num {
   font-family: var(--font-display);
   font-size: 1.4rem;
-  font-weight: 600;
-  color: var(--ivory);
+  font-weight: 700;
+  color: var(--lime);
   line-height: 1;
   letter-spacing: -.015em;
 }
@@ -113,7 +113,8 @@
 .search-box::placeholder { color: var(--slate); }
 .search-box:focus {
   outline: none;
-  border-color: var(--coral);
+  border-color: var(--blue);
+  box-shadow: 0 0 0 3px rgba(69,104,236,.18);
 }
 .filter-btn {
   padding: 8px 14px; border-radius: 8px;
@@ -122,8 +123,10 @@
   font-size: .82rem; cursor: pointer; transition: all .15s;
   font-family: var(--font-body);
 }
-.filter-btn:hover, .filter-btn.active {
-  border-color: var(--slate);
+.filter-btn:hover { border-color: var(--slate); color: var(--ivory); }
+.filter-btn.active {
+  background: var(--blue);
+  border-color: var(--blue);
   color: var(--ivory);
 }
 .sort-select {
@@ -136,7 +139,7 @@
   cursor: pointer;
   font-family: var(--font-body);
 }
-.sort-select:focus { outline: none; border-color: var(--coral); }
+.sort-select:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(69,104,236,.18); }
 
 /* ─── COMPARISON PILL ROW ─────────────────────────────────────────── */
 .comparison-row {
@@ -165,8 +168,9 @@
   color: var(--ivory);
 }
 .cmp-pill.sel {
-  background: var(--coral);
-  border-color: var(--coral);
-  color: var(--navy);
+  background: var(--blue);
+  border-color: var(--blue);
+  color: var(--ivory);
   font-weight: 600;
 }
+.cmp-pill.sel:hover { background: var(--blue-soft); border-color: var(--blue-soft); }
