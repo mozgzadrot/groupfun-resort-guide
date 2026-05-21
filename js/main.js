@@ -3,71 +3,53 @@ import { start } from './router.js';
 
 const sidebar = document.getElementById('sidebar');
 const ham = document.getElementById('ham');
+
 const backdrop = document.createElement('div');
 backdrop.className = 'sidebar-backdrop';
 document.body.appendChild(backdrop);
 
-let lockedScrollY = 0;
-
 const isMobile = () => window.matchMedia('(max-width: 900px)').matches;
 
-const lockScroll = () => {
-  lockedScrollY = window.scrollY || window.pageYOffset || 0;
-  document.body.classList.add('menu-open');
+let savedScrollY = 0;
+
+function openDrawer() {
+  if (document.body.classList.contains('drawer-open')) return;
+  savedScrollY = window.scrollY || 0;
+  document.body.classList.add('drawer-open');
   if (isMobile()) {
-    document.body.classList.add('scroll-locked');
-    document.body.style.top = `-${lockedScrollY}px`;
+    document.body.style.top = `-${savedScrollY}px`;
   }
-};
+}
 
-const unlockScroll = () => {
-  const wasLocked = document.body.classList.contains('scroll-locked');
-  document.body.classList.remove('menu-open', 'scroll-locked');
+function closeDrawer() {
+  if (!document.body.classList.contains('drawer-open')) return;
+  document.body.classList.remove('drawer-open');
   document.body.style.top = '';
-  if (wasLocked) window.scrollTo(0, lockedScrollY);
-};
+  window.scrollTo(0, savedScrollY);
+}
 
-const closeSidebar = () => {
-  sidebar.classList.remove('open');
-  backdrop.classList.remove('show');
-  unlockScroll();
-};
-const openSidebar = () => {
-  sidebar.classList.add('open');
-  backdrop.classList.add('show');
-  lockScroll();
-};
-const toggleSidebar = () => {
-  sidebar.classList.contains('open') ? closeSidebar() : openSidebar();
-};
+ham?.addEventListener('click', () => {
+  document.body.classList.contains('drawer-open') ? closeDrawer() : openDrawer();
+});
 
-ham?.addEventListener('click', toggleSidebar);
-backdrop.addEventListener('click', closeSidebar);
+backdrop.addEventListener('click', closeDrawer);
 
 sidebar.addEventListener('click', (e) => {
   if (e.target.closest('#sidebar-close')) {
     e.preventDefault();
-    closeSidebar();
+    closeDrawer();
     return;
   }
-  const link = e.target.closest('a[data-link]');
-  if (link && isMobile()) closeSidebar();
+  if (e.target.closest('a[data-link]') && isMobile()) closeDrawer();
+});
+
+window.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeDrawer();
 });
 
 window.addEventListener('resize', () => {
-  if (!isMobile()) closeSidebar();
+  if (!isMobile()) closeDrawer();
 });
-
-// Router may remove .open from the sidebar during render — keep the
-// body/backdrop state in sync so they don't get stranded.
-new MutationObserver(() => {
-  const open = sidebar.classList.contains('open');
-  const bodyOpen = document.body.classList.contains('menu-open');
-  if (!open && bodyOpen) {
-    backdrop.classList.remove('show');
-    unlockScroll();
-  }
-}).observe(sidebar, { attributes: true, attributeFilter: ['class'] });
 
 await renderSidebar(sidebar);
 start();

@@ -15,7 +15,10 @@ function parsePath(path) {
 async function render() {
   const main = document.getElementById('main');
   const route = parsePath(location.pathname);
-  document.querySelector('.sidebar')?.classList.remove('open');
+  if (document.body.classList.contains('drawer-open')) {
+    document.body.classList.remove('drawer-open');
+    document.body.style.top = '';
+  }
 
   if (route.type === 'root') {
     navigate(`/${DEFAULT_REGION}/`, true);
