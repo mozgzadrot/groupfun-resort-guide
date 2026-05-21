@@ -34,8 +34,8 @@
   --neg:       #f87171;
 
   /* Legacy aliases so renderers keep working */
-  --gold:      var(--ivory);
-  --gold-lite: var(--ivory);
+  --gold:      var(--text);
+  --gold-lite: var(--text);
   --teal:      var(--slate);
   --teal-dark: var(--slate);
 
