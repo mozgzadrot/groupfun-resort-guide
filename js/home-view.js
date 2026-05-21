@@ -47,7 +47,7 @@ export async function renderHome(main) {
   main.innerHTML = `
     <div class="page active home-page">
       <section class="home-hero">
-        <img class="brand-watermark" src="https://s03.ndcdn.com/sites/groupfun.com/logo_and_text.svg?v=2.401.0.master.20260515092501" alt="">
+        <img class="brand-watermark" src="https://groupfun.com/blog/wp-content/uploads/2026/04/logo_black_new_tagline_1.png" alt="">
         <div class="home-hero-badge">Resort Guide · Curated for Groups</div>
         <h1 class="home-hero-title">Find the right all-inclusive for your crew.</h1>
         <p class="home-hero-blurb">

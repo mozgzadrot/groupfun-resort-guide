@@ -32,7 +32,7 @@
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.1;
-  color: var(--ivory);
+  color: var(--text);
   max-width: 720px;
   margin: 0 0 16px;
 }
@@ -57,7 +57,7 @@
   font-family: var(--font-display);
   font-size: 1.6rem;
   font-weight: 600;
-  color: var(--lime);
+  color: var(--text);
   line-height: 1;
 }
 .home-stat-label {
@@ -80,7 +80,7 @@
   font-size: 1.4rem;
   font-weight: 600;
   letter-spacing: -0.01em;
-  color: var(--ivory);
+  color: var(--text);
   margin: 0 0 6px;
 }
 .home-section-sub {
@@ -139,7 +139,7 @@
   font-size: 1.2rem;
   font-weight: 600;
   letter-spacing: -0.01em;
-  color: var(--ivory);
+  color: var(--text);
   margin: 0;
 }
 .home-region-desc {
@@ -160,7 +160,7 @@
   font-weight: 500;
 }
 .home-region-cta {
-  color: var(--lime);
+  color: var(--blue);
   font-weight: 600;
   transition: transform .15s ease;
 }

@@ -3,8 +3,8 @@
 
 :root {
   /* GroupFun brand palette */
-  --navy:      #0F172A;   /* Midnight Navy — primary background */
-  --ivory:     #F8FAFC;   /* Subtle Ivory — text / surfaces */
+  --navy:      #0F172A;   /* Midnight Navy — primary text */
+  --ivory:     #F8FAFC;   /* Subtle Ivory — text on photo overlays */
   --coral:     #E1789B;   /* Muted Coral — sparingly, CTAs */
   --coral-soft:#ecaac1;   /* coral hover/lighter */
   --slate:     #64748B;   /* Slate Grey — secondary text, borders */
@@ -15,18 +15,18 @@
   --blue:      #4568EC;   /* indigo — secondary buttons + selections */
   --blue-soft: #6c87f1;
 
-  /* Derived neutrals (dark mode) */
-  --bg:        var(--navy);
-  --bg2:       #131c33;
-  --bg3:       #1a2440;
-  --card:      #152038;
-  --surface:   #1c2845;
-  --border:    rgba(248,250,252,.08);
-  --border-2:  rgba(248,250,252,.14);
+  /* Derived neutrals (light mode) */
+  --bg:        #ffffff;
+  --bg2:       #f8fafc;
+  --bg3:       #f1f5f9;
+  --card:      #ffffff;
+  --surface:   #f8fafc;
+  --border:    rgba(15,23,42,.08);
+  --border-2:  rgba(15,23,42,.14);
 
-  --text:      var(--ivory);
-  --text-soft: #cbd5e1;
-  --muted:     #94a3b8;
+  --text:      var(--navy);
+  --text-soft: #334155;
+  --muted:     #64748B;
 
   /* Status (calm, not loud) */
   --pos:       #4ade80;
@@ -41,8 +41,8 @@
 
   --radius:    12px;
   --radius-sm: 8px;
-  --shadow:    0 1px 2px rgba(0,0,0,.3), 0 8px 24px -8px rgba(0,0,0,.4);
-  --shadow-lift: 0 1px 2px rgba(0,0,0,.3), 0 16px 40px -12px rgba(0,0,0,.55);
+  --shadow:    0 1px 2px rgba(15,23,42,.06), 0 8px 24px -8px rgba(15,23,42,.12);
+  --shadow-lift: 0 1px 2px rgba(15,23,42,.06), 0 16px 40px -12px rgba(15,23,42,.18);
 
   --font-display: 'Inter', system-ui, -apple-system, sans-serif;
   --font-body:    'Roboto', 'Inter', system-ui, sans-serif;
@@ -73,7 +73,7 @@ h1, h2, h3, h4 {
   font-weight: 600;
   letter-spacing: -0.015em;
   line-height: 1.15;
-  color: var(--ivory);
+  color: var(--text);
 }
 
 @keyframes rise {
