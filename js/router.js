@@ -1,8 +1,8 @@
-import { loadRegions } from './data.js?v=20260521d';
-import { renderRegion } from './region-view.js?v=20260521d';
-import { renderResort } from './resort-view.js?v=20260521d';
-import { renderHome } from './home-view.js?v=20260521d';
-import { highlightActive } from './sidebar.js?v=20260521d';
+import { loadRegions } from './data.js?v=20260521e';
+import { renderRegion } from './region-view.js?v=20260521e';
+import { renderResort } from './resort-view.js?v=20260521e';
+import { renderHome } from './home-view.js?v=20260521e';
+import { highlightActive } from './sidebar.js?v=20260521e';
 
 function parsePath(path) {
   const parts = path.split('/').filter(Boolean);

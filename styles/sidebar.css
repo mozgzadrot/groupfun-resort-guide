@@ -8,6 +8,21 @@
   z-index: 100;
 }
 
+/* On mobile the sidebar is an off-canvas drawer, not a sticky column.
+   This override has to live here (after base.css) so it actually
+   wins the cascade against the .sidebar rule above. */
+@media (max-width: 900px) {
+  .sidebar {
+    position: fixed;
+    top: 0; left: -320px;
+    width: 282px; height: 100%;
+    transition: left .28s ease;
+    box-shadow: 20px 0 40px rgba(0,0,0,.5);
+    z-index: 200;
+  }
+  body.drawer-open .sidebar { left: 0; }
+}
+
 /* ─── LOGO ───────────────────────────────────────────────────── */
 .sidebar-logo {
   padding: 22px 22px 18px;

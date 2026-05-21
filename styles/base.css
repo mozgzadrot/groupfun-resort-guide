@@ -84,14 +84,6 @@ body.drawer-open .sidebar-backdrop {
 /* ─── MOBILE ──────────────────────────────────────────────────── */
 @media(max-width: 900px) {
   .app { grid-template-columns: 1fr; }
-  .sidebar {
-    position: fixed; left: -320px; top: 0;
-    width: 282px; height: 100%;
-    transition: left .28s ease;
-    box-shadow: 20px 0 40px rgba(0,0,0,.5);
-    z-index: 200;
-  }
-  body.drawer-open .sidebar { left: 0; }
   .hamburger { display: flex; }
   /* iOS-safe scroll lock: position:fixed on body is the only thing
      that reliably stops touch-scroll behind the drawer on Safari. */
