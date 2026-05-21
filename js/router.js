@@ -18,7 +18,7 @@ async function render() {
     document.body.classList.remove('drawer-open');
     document.body.style.top = '';
     const ham = document.getElementById('ham');
-    if (ham) ham.style.display = '';
+    if (ham) ham.classList.remove('is-open');
   }
 
   if (route.type === 'root') {
