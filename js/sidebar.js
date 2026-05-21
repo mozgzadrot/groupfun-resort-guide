@@ -65,9 +65,8 @@ export async function renderSidebar(root) {
     <div style="padding:0 20px"><div style="border-top:1px solid var(--border)"></div></div>
     <div class="sidebar-footer">
       <div class="footer-stat">${manifest.length} resorts · ${regions.length} regions</div>
-      <div class="footer-brand">
-        <span class="brand-spark"></span>
-        <span>A <strong>GroupFun</strong> production</span>
+      <div class="footer-disclaimer">
+        Ratings, descriptions, and pricing are aggregated from third-party review sites and resort websites; this content is not produced or verified by GroupFun. GroupFun makes no warranty as to accuracy and accepts no responsibility for booking decisions made on its basis &mdash; confirm every detail directly with the resort before you book.
       </div>
     </div>
   `;

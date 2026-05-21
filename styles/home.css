@@ -170,14 +170,29 @@
 
 /* Footer note */
 .home-footer-note {
-  padding: 32px 48px 56px;
-  display: flex; align-items: center; gap: 10px;
+  padding: 24px 48px 56px;
+  display: flex; flex-direction: column; gap: 12px;
   font-size: .78rem;
   color: var(--slate);
   border-top: 1px solid var(--border);
   margin-top: 24px;
 }
+.home-footer-meta {
+  display: flex; align-items: center; gap: 10px;
+  flex-wrap: wrap;
+}
 .home-footer-dot { opacity: .5; }
+.home-footer-disclaimer {
+  font-size: .72rem;
+  line-height: 1.55;
+  color: var(--muted);
+  max-width: 78ch;
+  margin: 0;
+}
+.home-footer-disclaimer strong {
+  color: var(--text);
+  font-weight: 600;
+}
 
 /* ─── HOMEPAGE MOBILE ───────────────────────────────────────────── */
 @media (max-width: 900px) {

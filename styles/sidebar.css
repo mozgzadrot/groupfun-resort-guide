@@ -140,17 +140,12 @@
   display: flex; flex-direction: column; gap: 6px;
 }
 .footer-stat { font-weight: 500; }
-.footer-brand {
-  display: flex; align-items: center; gap: 6px;
-  font-size: .68rem;
-  color: var(--slate);
-}
-.footer-brand strong { font-weight: 600; color: var(--coral); }
-.brand-spark {
-  width: 5px; height: 5px;
-  border-radius: 50%;
-  background: var(--coral);
-  flex-shrink: 0;
+.footer-disclaimer {
+  font-size: .62rem;
+  line-height: 1.45;
+  color: var(--muted);
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
 }
 
 .add-region-btn {
