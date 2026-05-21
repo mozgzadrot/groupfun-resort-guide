@@ -1,9 +1,8 @@
 import { loadRegions } from './data.js';
 import { renderRegion } from './region-view.js';
 import { renderResort } from './resort-view.js';
+import { renderHome } from './home-view.js';
 import { highlightActive } from './sidebar.js';
-
-const DEFAULT_REGION = 'riviera-maya';
 
 function parsePath(path) {
   const parts = path.split('/').filter(Boolean);
@@ -21,7 +20,10 @@ async function render() {
   }
 
   if (route.type === 'root') {
-    navigate(`/${DEFAULT_REGION}/`, true);
+    await renderHome(main);
+    document.title = 'GroupFun Resort Guide';
+    highlightActive(location.pathname);
+    window.scrollTo(0, 0);
     return;
   }
   if (route.type === 'region') {
