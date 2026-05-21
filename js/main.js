@@ -1,7 +1,7 @@
 import { renderSidebar } from './sidebar.js';
 import { start } from './router.js';
 
-console.log('[GroupFun] main.js loaded · build=20260521a');
+console.log('[GroupFun] main.js loaded · build=20260521b');
 
 const sidebar = document.getElementById('sidebar');
 const ham = document.getElementById('ham');
