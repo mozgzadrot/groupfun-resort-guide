@@ -85,68 +85,102 @@ body.no-scroll { overflow: hidden; }
   .sidebar-backdrop.show { display: block; }
   .hamburger { display: flex; }
 
-  /* Page-level padding */
+  /* Page-level padding ─ unified 16px gutter */
   .hero, .toolbar, .resort-grid, .detail-grid, .comparison-row {
-    padding-left: 18px; padding-right: 18px;
+    padding-left: 16px; padding-right: 16px;
   }
   .resort-grid {
-    padding-top: 20px; padding-bottom: 40px;
-    gap: 16px;
+    padding-top: 16px; padding-bottom: 32px;
+    gap: 14px;
     grid-template-columns: 1fr;
   }
-  .toolbar { padding: 12px 18px; gap: 8px; position: static; }
-  .comparison-row { padding: 10px 18px; gap: 6px; }
-  .cmp-pill { padding: 7px 12px; font-size: .76rem; }
+  .toolbar { padding: 10px 16px; gap: 8px; position: static; }
+  .comparison-row { padding: 8px 16px 10px; gap: 6px; }
+  .cmp-pill { padding: 6px 12px; font-size: .76rem; }
 
-  /* Hero — leave room for hamburger, allow stats to wrap nicely */
-  .hero {
-    padding: 64px 18px 24px;
-  }
+  /* Hero — leave room for hamburger, tight rhythm */
+  .hero { padding: 60px 16px 20px; }
   .hero .brand-watermark { display: none; }
-  .hero h2 { font-size: 1.6rem !important; max-width: none; }
-  .hero p { font-size: .92rem; margin-bottom: 18px; }
+  .hero-badge { margin-bottom: 12px; padding: 3px 8px; font-size: .64rem; }
+  .hero h2 { font-size: 1.55rem !important; max-width: none; margin-bottom: 8px; line-height: 1.18; }
+  .hero p { font-size: .9rem; margin-bottom: 14px; line-height: 1.5; }
+
+  /* Stats: switch to a real 2-col grid so wrapping/dividers are predictable */
   .hero-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
     padding-top: 14px;
-    gap: 14px 0;
+    border-top: 1px solid var(--border);
   }
   .stat {
-    padding-right: 18px;
-    margin-right: 18px;
+    padding: 0;
+    margin: 0;
+    border-right: none;
+    text-align: left;
   }
-  .stat:nth-child(even) { padding-right: 0; margin-right: 0; border-right: none; }
-  .stat-num { font-size: 1.2rem; }
-  .stat-label { font-size: .6rem; letter-spacing: .1em; }
+  .stat-num { font-size: 1.15rem; }
+  .stat-label { font-size: .58rem; letter-spacing: .1em; margin-top: 4px; }
 
   /* Detail page */
-  .detail-grid { grid-template-columns: 1fr; padding: 24px 18px 48px; gap: 18px; }
-  .detail-hero { height: 240px; }
-  .detail-hero-content { padding: 64px 18px 22px; }
-  .detail-name { font-size: 1.6rem !important; }
-  .photo-grid { grid-template-columns: repeat(2, 1fr); }
+  .detail-grid { grid-template-columns: 1fr; padding: 20px 16px 40px; gap: 14px; }
+  .detail-hero { height: auto; min-height: 260px; }
+  .detail-hero-content { padding: 60px 16px 22px; }
+  .detail-name { font-size: 1.55rem !important; }
+  .detail-loc { font-size: .85rem; margin-top: 4px; }
+  .detail-badges { margin-top: 10px; }
+  .photo-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .section-block { margin-bottom: 14px; }
+  .section-header { padding: 12px 14px; }
+  .section-body { padding: 14px; }
+  .section-title { font-size: .88rem; }
+  .rating-grid { gap: 8px; }
+  .rating-box { padding: 12px 10px; }
 
   /* Sidebar: tighter on mobile, leave room for the close (X) button on the right */
-  .sidebar-logo { padding: 18px 60px 16px 20px; }
-  .brand-mark { max-width: 132px; }
-  .brand-tag { font-size: .62rem; margin-top: 8px; }
+  .sidebar-logo { padding: 18px 60px 14px 20px; }
+  .brand-mark { max-width: 124px; }
+  .brand-tag { font-size: .6rem; margin-top: 6px; letter-spacing: .14em; }
+  .sidebar-section { padding: 14px 20px 6px; }
+  .region-btn { padding: 8px 20px; }
+  .resort-link { padding: 4px 20px 4px 44px; }
+  .sidebar-footer { padding: 14px 20px; }
 
-  /* Search input full-width on small screens */
-  .search-box { flex: 1 1 100%; min-width: 0; }
-  .sort-select { flex: 1 1 100%; }
+  /* Search + sort full-width when they wrap */
+  .search-box { flex: 1 1 100%; min-width: 0; padding: 8px 12px; font-size: .88rem; }
+  .sort-select { flex: 1 1 100%; padding: 8px 12px; font-size: .82rem; }
 
-  /* Card hero a touch shorter on mobile */
-  .card-hero { height: 160px; }
-  .card-body, .card-footer { padding-left: 14px; padding-right: 14px; }
+  /* Card hero a touch shorter, body padding tighter */
+  .card-hero { height: 156px; }
+  .card-hero-info { padding: 12px 14px; }
+  .card-body { padding: 14px; }
+  .card-footer { padding: 12px 14px; }
+  .card-meta { gap: 10px; margin-bottom: 12px; padding-bottom: 10px; }
+  .card-ratings { gap: 8px; margin-bottom: 12px; }
+  .rating-chip { padding: 9px 11px; }
+  .sentiment-bar { margin-bottom: 12px; }
+  .card-excerpt { margin-bottom: 12px; font-size: .82rem; }
 }
 
 @media(max-width: 480px) {
-  .hero { padding-top: 60px; }
-  .hero h2 { font-size: 1.45rem !important; }
+  .hero { padding: 58px 14px 18px; }
+  .hero h2 { font-size: 1.4rem !important; }
+  .hero p { font-size: .86rem; margin-bottom: 12px; }
+  .hero-stats { grid-template-columns: 1fr 1fr; gap: 10px; padding-top: 12px; }
+  .stat-num { font-size: 1.05rem; }
+
+  .detail-hero-content { padding: 58px 14px 16px; }
+  .detail-name { font-size: 1.4rem !important; }
+  .detail-grid { padding: 16px 14px 32px; }
+
   .photo-grid { grid-template-columns: 1fr; }
   .rating-grid { grid-template-columns: repeat(2, 1fr); }
-  .stat { padding-right: 14px; margin-right: 14px; }
-  .card-meta { gap: 8px; }
-  .card-ratings { gap: 6px; }
-  .section-body { padding: 14px; }
+  .resort-grid { padding-left: 14px; padding-right: 14px; }
+  .toolbar { padding-left: 14px; padding-right: 14px; }
+  .comparison-row { padding-left: 14px; padding-right: 14px; }
+
   .review-header, .review-body { padding-left: 12px; padding-right: 12px; }
-  .back-btn { margin-bottom: 12px; }
+  .back-btn { margin-bottom: 10px; padding: 5px 10px; font-size: .76rem; }
+  .card-name { font-size: 1.02rem; }
+  .card-tag { margin-bottom: 6px; }
 }
