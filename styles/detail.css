@@ -81,6 +81,17 @@
 .detail-main { min-width: 0; }
 .detail-sidebar-panel { display: flex; flex-direction: column; gap: 18px; }
 
+/* The 1fr + 320px split needs roughly 880px of grid width to keep the
+   main column readable. Below that, stack — independent of the global
+   900px mobile breakpoint so this still kicks in inside the sidebar
+   layout on tablet widths. */
+@media (max-width: 1100px) {
+  .detail-grid {
+    grid-template-columns: 1fr;
+    padding: 28px 32px 48px;
+  }
+}
+
 /* ─── SECTION BLOCKS ─────────────────────────────────────────────── */
 .section-block {
   background: var(--card);
