@@ -29,26 +29,33 @@
 /* ─── HAMBURGER ────────────────────────────────────────────────── */
 .hamburger {
   display: none; position: fixed; top: 12px; left: 12px; z-index: 220;
-  width: 42px; height: 42px; border-radius: 8px;
-  background: rgba(15,23,42,.85);
+  width: 44px; height: 44px; border-radius: 10px;
+  background: rgba(15,23,42,.92);
   backdrop-filter: blur(10px);
   border: 1px solid var(--border-2);
   box-shadow: 0 4px 14px rgba(0,0,0,.45);
   align-items: center; justify-content: center;
-  cursor: pointer; flex-direction: column; gap: 4px; padding: 11px;
-  transition: left .28s ease, background .15s;
+  cursor: pointer; flex-direction: column; gap: 5px; padding: 12px;
+  transition: left .28s ease, background .15s, border-color .15s, box-shadow .15s;
 }
 .hamburger span {
   display: block; width: 18px; height: 1.5px;
   background: var(--ivory); border-radius: 1px;
-  transition: transform .2s, opacity .2s;
+  transition: transform .22s ease, opacity .22s ease;
+  transform-origin: center;
 }
-/* When drawer is open, slide the button to the right edge of the drawer
-   so it sits beside the logo as a close affordance, not on top of it. */
-body.no-scroll .hamburger { left: calc(282px - 54px); background: transparent; border-color: transparent; box-shadow: none; }
-body.no-scroll .hamburger span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
-body.no-scroll .hamburger span:nth-child(2) { opacity: 0; }
-body.no-scroll .hamburger span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
+/* When the drawer is open the same button morphs ≡ → ✕ AND slides to
+   the right edge of the 282px drawer, so it no longer covers the
+   "GroupFun" lockup. Tap target stays inside the drawer. */
+.hamburger.is-open {
+  left: calc(282px - 56px);
+  background: rgba(248,250,252,.06);
+  border-color: var(--border-2);
+  box-shadow: none;
+}
+.hamburger.is-open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.hamburger.is-open span:nth-child(2) { opacity: 0; transform: scaleX(.4); }
+.hamburger.is-open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
 /* Focus discipline — kill the chunky default outline on tap, keep keyboard focus visible */
 a, button { -webkit-tap-highlight-color: transparent; }
@@ -61,29 +68,30 @@ a:focus-visible, button:focus-visible {
 
 /* ─── SIDEBAR BACKDROP ─────────────────────────────────────────── */
 .sidebar-backdrop {
-  display: none;
   position: fixed; inset: 0;
-  background: rgba(15,23,42,.6);
-  backdrop-filter: blur(2px);
+  background: rgba(0,0,0,.6);
+  backdrop-filter: blur(4px);
   z-index: 90;
   opacity: 0;
+  pointer-events: none;
   transition: opacity .25s ease;
 }
-.sidebar-backdrop.show { opacity: 1; }
-body.no-scroll { overflow: hidden; }
+body.drawer-open .sidebar-backdrop {
+  opacity: 1;
+  pointer-events: auto;
+}
 
 /* ─── MOBILE ──────────────────────────────────────────────────── */
 @media(max-width: 900px) {
   .app { grid-template-columns: 1fr; }
-  .sidebar {
-    position: fixed; left: -300px; top: 0;
-    width: 282px; height: 100%;
-    transition: left .28s ease;
-    box-shadow: 20px 0 40px rgba(0,0,0,.5);
-  }
-  .sidebar.open { left: 0; }
-  .sidebar-backdrop.show { display: block; }
   .hamburger { display: flex; }
+  /* iOS-safe scroll lock: position:fixed on body is the only thing
+     that reliably stops touch-scroll behind the drawer on Safari. */
+  body.drawer-open {
+    position: fixed; left: 0; right: 0;
+    width: 100%;
+    overflow: hidden;
+  }
 
   /* Page-level padding ─ unified 16px gutter */
   .hero, .toolbar, .resort-grid, .detail-grid, .comparison-row {

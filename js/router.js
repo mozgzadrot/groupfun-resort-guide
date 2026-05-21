@@ -1,9 +1,8 @@
-import { loadRegions } from './data.js';
-import { renderRegion } from './region-view.js';
-import { renderResort } from './resort-view.js';
-import { highlightActive } from './sidebar.js';
-
-const DEFAULT_REGION = 'riviera-maya';
+import { loadRegions } from './data.js?v=20260521e';
+import { renderRegion } from './region-view.js?v=20260521e';
+import { renderResort } from './resort-view.js?v=20260521e';
+import { renderHome } from './home-view.js?v=20260521e';
+import { highlightActive } from './sidebar.js?v=20260521e';
 
 function parsePath(path) {
   const parts = path.split('/').filter(Boolean);
@@ -15,10 +14,18 @@ function parsePath(path) {
 async function render() {
   const main = document.getElementById('main');
   const route = parsePath(location.pathname);
-  document.querySelector('.sidebar')?.classList.remove('open');
+  if (document.body.classList.contains('drawer-open')) {
+    document.body.classList.remove('drawer-open');
+    document.body.style.top = '';
+    const ham = document.getElementById('ham');
+    if (ham) ham.classList.remove('is-open');
+  }
 
   if (route.type === 'root') {
-    navigate(`/${DEFAULT_REGION}/`, true);
+    await renderHome(main);
+    document.title = 'GroupFun Resort Guide';
+    highlightActive(location.pathname);
+    window.scrollTo(0, 0);
     return;
   }
   if (route.type === 'region') {
