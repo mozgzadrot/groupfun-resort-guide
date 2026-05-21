@@ -47,7 +47,7 @@ export async function renderHome(main) {
   main.innerHTML = `
     <div class="page active home-page">
       <section class="home-hero">
-        <img class="brand-watermark" src="https://s03.ndcdn.com/sites/groupfun.com/logo_and_text.svg?v=2.401.0.master.20260515092501" alt="">
+        <img class="brand-watermark" src="https://groupfun.com/blog/wp-content/uploads/2026/04/logo_black_new_tagline_1.png" alt="">
         <div class="home-hero-badge">Resort Guide · Curated for Groups</div>
         <h1 class="home-hero-title">Find the right all-inclusive for your crew.</h1>
         <p class="home-hero-blurb">
@@ -70,9 +70,14 @@ export async function renderHome(main) {
       </section>
 
       <section class="home-footer-note">
-        <span>${totalResorts} resorts · ${totalRegions} regions</span>
-        <span class="home-footer-dot">·</span>
-        <span>A GroupFun production</span>
+        <div class="home-footer-meta">
+          <span>${totalResorts} resorts · ${totalRegions} regions</span>
+          <span class="home-footer-dot">·</span>
+          <span>Editorial guide</span>
+        </div>
+        <p class="home-footer-disclaimer">
+          <strong>Disclaimer.</strong> Resort ratings, reviews, descriptions, photos, pricing, and contact details on this site are aggregated from third-party review platforms and resort websites. This content is not produced or independently verified by GroupFun, and GroupFun makes no representation or warranty as to its accuracy, completeness, or currency. GroupFun accepts no responsibility or liability for travel decisions made on the basis of information presented here. Always confirm rooms, rates, policies, availability, and travel requirements directly with each resort before booking.
+        </p>
       </section>
     </div>
   `;

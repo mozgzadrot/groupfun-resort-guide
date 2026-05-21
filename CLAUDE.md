@@ -35,24 +35,24 @@ Three layers:
 
 ## Visual design
 
-The site implements the **GroupFun brand identity** — minimalist, sophisticated, navy-first. Avoid heavy gradients, italic display serifs, or maximalist treatments; the brand guide rules out the harsh blacks and loud neons common in this category.
+The site implements the **GroupFun brand identity** — minimalist, sophisticated, light-mode. Avoid heavy gradients, italic display serifs, or maximalist treatments; the brand guide rules out the harsh blacks and loud neons common in this category.
 
 ### Palette (all tokens live in `styles/tokens.css`)
 
 | Token | Hex | Role |
 | --- | --- | --- |
-| `--navy` | `#0F172A` | Midnight Navy — primary background |
-| `--ivory` | `#F8FAFC` | Subtle Ivory — primary text |
+| `--navy` | `#0F172A` | Midnight Navy — primary text |
+| `--ivory` | `#F8FAFC` | Subtle Ivory — text on photo overlays (card-hero, detail-hero, badges) |
 | `--slate` | `#64748B` | Slate Grey — secondary text, borders, dividers |
 | `--coral` | `#E1789B` | Muted Coral — brand signaling only (sidebar active rail, footer spark dot, resort-response accent, selection) |
-| `--lime` | `#9DFF00` | Primary action + numeric accent — view button, stat numerals, rating values, sentiment bar, review stars, section-title icons |
+| `--lime` | `#9DFF00` | Filled-affordance accent — view-btn background, sentiment bar fill, user-photo badge |
 | `--lime-soft` | `#c2ff5c` | Lime hover |
-| `--blue` | `#4568EC` | Secondary action — active filter button, selected comparison pill, focus ring on inputs |
+| `--blue` | `#4568EC` | Secondary action — active filter button, selected comparison pill, section-title icons, home-region CTA, focus ring |
 | `--blue-soft` | `#6c87f1` | Blue hover |
 
-Surfaces are derived from navy: `--bg2 #131c33`, `--bg3 #1a2440`, `--card #152038`, `--surface #1c2845`. Borders are `rgba(248,250,252,.08)` and `.14`. Status colors (`--pos`, `--neu`, `--neg`) stay calm — not loud.
+Surfaces are light: `--bg #ffffff`, `--bg2 #f8fafc`, `--bg3 #f1f5f9`, `--card #ffffff`, `--surface #f8fafc`. Borders are `rgba(15,23,42,.08)` and `.14`. Status colors (`--pos`, `--neu`, `--neg`) stay calm — not loud.
 
-**Discipline**: lime is the only color that gets to shout. Coral is for GroupFun-brand identity moments and nothing else. Indigo is the "selected/focused" affordance. Don't paint headings, body text or chrome with these accents.
+**Discipline**: lime only works as a fill (button background, bar fill) where the colored area is large enough to read — it's unreadable as text on white. Numeric accents (stat numerals, rating values, sentiment %) use `--text` (navy); section-title icons and home-region CTAs use `--blue`. Coral is for GroupFun-brand identity moments and nothing else. Don't paint headings, body text or chrome with these accents.
 
 ### Typography
 
@@ -62,7 +62,7 @@ Surfaces are derived from navy: `--bg2 #131c33`, `--bg3 #1a2440`, `--card #15203
 
 ### Brand assets
 
-The GroupFun lockup is loaded directly from the GroupFun CDN URL: `https://s03.ndcdn.com/sites/groupfun.com/logo_and_text.svg?v=...`. It appears in three places:
+The GroupFun lockup is loaded directly from the GroupFun CDN URL: `https://groupfun.com/blog/wp-content/uploads/2026/04/logo_black_new_tagline_1.png` (black wordmark sized for light surfaces). It appears in three places:
 
 1. **Sidebar lockup** at full-width (max 140px desktop, 124px mobile) inside `.brand-lockup` — the link target is `/`.
 2. **Hero watermark** in the top-right of every region hero (`<img class="brand-watermark">` injected by `region-view.js`) — opacity .35, hidden under 900px.

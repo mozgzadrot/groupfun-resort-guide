@@ -30,17 +30,17 @@
 .hamburger {
   display: none; position: fixed; top: 12px; left: 12px; z-index: 220;
   width: 44px; height: 44px; border-radius: 10px;
-  background: rgba(15,23,42,.92);
+  background: rgba(255,255,255,.92);
   backdrop-filter: blur(10px);
   border: 1px solid var(--border-2);
-  box-shadow: 0 4px 14px rgba(0,0,0,.45);
+  box-shadow: 0 4px 14px rgba(15,23,42,.18);
   align-items: center; justify-content: center;
   cursor: pointer; flex-direction: column; gap: 5px; padding: 12px;
   transition: left .28s ease, background .15s, border-color .15s, box-shadow .15s;
 }
 .hamburger span {
   display: block; width: 18px; height: 1.5px;
-  background: var(--ivory); border-radius: 1px;
+  background: var(--text); border-radius: 1px;
   transition: transform .22s ease, opacity .22s ease;
   transform-origin: center;
 }
@@ -49,7 +49,7 @@
    "GroupFun" lockup. Tap target stays inside the drawer. */
 .hamburger.is-open {
   left: calc(282px - 56px);
-  background: rgba(248,250,252,.06);
+  background: rgba(15,23,42,.06);
   border-color: var(--border-2);
   box-shadow: none;
 }
@@ -69,7 +69,7 @@ a:focus-visible, button:focus-visible {
 /* ─── SIDEBAR BACKDROP ─────────────────────────────────────────── */
 .sidebar-backdrop {
   position: fixed; inset: 0;
-  background: rgba(0,0,0,.6);
+  background: rgba(15,23,42,.35);
   backdrop-filter: blur(4px);
   z-index: 90;
   opacity: 0;

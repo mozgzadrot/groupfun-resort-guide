@@ -32,7 +32,7 @@
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.1;
-  color: var(--ivory);
+  color: var(--text);
   max-width: 720px;
   margin: 0 0 16px;
 }
@@ -57,7 +57,7 @@
   font-family: var(--font-display);
   font-size: 1.6rem;
   font-weight: 600;
-  color: var(--lime);
+  color: var(--text);
   line-height: 1;
 }
 .home-stat-label {
@@ -80,7 +80,7 @@
   font-size: 1.4rem;
   font-weight: 600;
   letter-spacing: -0.01em;
-  color: var(--ivory);
+  color: var(--text);
   margin: 0 0 6px;
 }
 .home-section-sub {
@@ -139,7 +139,7 @@
   font-size: 1.2rem;
   font-weight: 600;
   letter-spacing: -0.01em;
-  color: var(--ivory);
+  color: var(--text);
   margin: 0;
 }
 .home-region-desc {
@@ -160,7 +160,7 @@
   font-weight: 500;
 }
 .home-region-cta {
-  color: var(--lime);
+  color: var(--blue);
   font-weight: 600;
   transition: transform .15s ease;
 }
@@ -170,14 +170,29 @@
 
 /* Footer note */
 .home-footer-note {
-  padding: 32px 48px 56px;
-  display: flex; align-items: center; gap: 10px;
+  padding: 24px 48px 56px;
+  display: flex; flex-direction: column; gap: 12px;
   font-size: .78rem;
   color: var(--slate);
   border-top: 1px solid var(--border);
   margin-top: 24px;
 }
+.home-footer-meta {
+  display: flex; align-items: center; gap: 10px;
+  flex-wrap: wrap;
+}
 .home-footer-dot { opacity: .5; }
+.home-footer-disclaimer {
+  font-size: .72rem;
+  line-height: 1.55;
+  color: var(--muted);
+  max-width: 78ch;
+  margin: 0;
+}
+.home-footer-disclaimer strong {
+  color: var(--text);
+  font-weight: 600;
+}
 
 /* ─── HOMEPAGE MOBILE ───────────────────────────────────────────── */
 @media (max-width: 900px) {
