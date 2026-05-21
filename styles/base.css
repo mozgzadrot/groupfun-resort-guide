@@ -36,15 +36,28 @@
   box-shadow: 0 4px 14px rgba(0,0,0,.45);
   align-items: center; justify-content: center;
   cursor: pointer; flex-direction: column; gap: 4px; padding: 11px;
+  transition: left .28s ease, background .15s;
 }
 .hamburger span {
   display: block; width: 18px; height: 1.5px;
   background: var(--ivory); border-radius: 1px;
   transition: transform .2s, opacity .2s;
 }
+/* When drawer is open, slide the button to the right edge of the drawer
+   so it sits beside the logo as a close affordance, not on top of it. */
+body.no-scroll .hamburger { left: calc(282px - 54px); background: transparent; border-color: transparent; box-shadow: none; }
 body.no-scroll .hamburger span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
 body.no-scroll .hamburger span:nth-child(2) { opacity: 0; }
 body.no-scroll .hamburger span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
+
+/* Focus discipline — kill the chunky default outline on tap, keep keyboard focus visible */
+a, button { -webkit-tap-highlight-color: transparent; }
+a:focus, button:focus { outline: none; }
+a:focus-visible, button:focus-visible {
+  outline: 2px solid var(--coral);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
 
 /* ─── SIDEBAR BACKDROP ─────────────────────────────────────────── */
 .sidebar-backdrop {
@@ -111,9 +124,10 @@ body.no-scroll { overflow: hidden; }
   .detail-name { font-size: 1.6rem !important; }
   .photo-grid { grid-template-columns: repeat(2, 1fr); }
 
-  /* Sidebar: tighter on mobile so it fits comfortably */
-  .sidebar-logo { padding: 56px 20px 16px; }
-  .brand-mark { max-width: 120px; }
+  /* Sidebar: tighter on mobile, leave room for the close (X) button on the right */
+  .sidebar-logo { padding: 18px 60px 16px 20px; }
+  .brand-mark { max-width: 132px; }
+  .brand-tag { font-size: .62rem; margin-top: 8px; }
 
   /* Search input full-width on small screens */
   .search-box { flex: 1 1 100%; min-width: 0; }
