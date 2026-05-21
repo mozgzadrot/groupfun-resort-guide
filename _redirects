@@ -1,9 +1,0 @@
-# Cloudflare Pages routing
-# Serve the SPA shell for any deep link so the client router can take over.
-# 200-status rewrites preserve the URL bar so location.pathname reads correctly.
-
-/data/*    /data/:splat                 200
-/styles/*  /styles/:splat               200
-/js/*      /js/:splat                   200
-
-/*         /index.html                  200
