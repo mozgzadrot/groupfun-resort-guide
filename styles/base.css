@@ -36,7 +36,7 @@
   box-shadow: 0 4px 14px rgba(0,0,0,.45);
   align-items: center; justify-content: center;
   cursor: pointer; flex-direction: column; gap: 5px; padding: 12px;
-  transition: background .15s, border-color .15s;
+  transition: left .28s ease, background .15s, border-color .15s, box-shadow .15s;
 }
 .hamburger span {
   display: block; width: 18px; height: 1.5px;
@@ -44,8 +44,15 @@
   transition: transform .22s ease, opacity .22s ease;
   transform-origin: center;
 }
-/* When the drawer is open, the same button morphs ≡ → ✕. We do NOT
-   move it — staying at top-left is the most predictable affordance. */
+/* When the drawer is open the same button morphs ≡ → ✕ AND slides to
+   the right edge of the 282px drawer, so it no longer covers the
+   "GroupFun" lockup. Tap target stays inside the drawer. */
+.hamburger.is-open {
+  left: calc(282px - 56px);
+  background: rgba(248,250,252,.06);
+  border-color: var(--border-2);
+  box-shadow: none;
+}
 .hamburger.is-open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
 .hamburger.is-open span:nth-child(2) { opacity: 0; transform: scaleX(.4); }
 .hamburger.is-open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }

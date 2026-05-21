@@ -1,5 +1,5 @@
-import { loadRegions, loadManifest } from './data.js?v=20260521c';
-import { escapeHtml } from './format.js?v=20260521c';
+import { loadRegions, loadManifest } from './data.js?v=20260521d';
+import { escapeHtml } from './format.js?v=20260521d';
 
 // Country-code icons (matches flagcdn URLs in legacy code).
 const FLAG_ISO = {

@@ -1,7 +1,7 @@
-import { renderSidebar } from './sidebar.js?v=20260521c';
-import { start } from './router.js?v=20260521c';
+import { renderSidebar } from './sidebar.js?v=20260521d';
+import { start } from './router.js?v=20260521d';
 
-const BUILD = '20260521c';
+const BUILD = '20260521d';
 console.log(`[GroupFun] main.js loaded · build=${BUILD}`);
 
 const sidebar = document.getElementById('sidebar');

@@ -1,6 +1,6 @@
-import { loadRegions, loadManifest } from './data.js?v=20260521c';
-import { escapeHtml } from './format.js?v=20260521c';
-import { attach as attachFilters } from './filters.js?v=20260521c';
+import { loadRegions, loadManifest } from './data.js?v=20260521d';
+import { escapeHtml } from './format.js?v=20260521d';
+import { attach as attachFilters } from './filters.js?v=20260521d';
 
 function cardHtml(r) {
   const bg = r.thumbnail
