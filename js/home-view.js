@@ -1,5 +1,5 @@
-import { loadRegions, loadManifest } from './data.js';
-import { escapeHtml } from './format.js';
+import { loadRegions, loadManifest } from './data.js?v=20260521c';
+import { escapeHtml } from './format.js?v=20260521c';
 
 const FLAG_ISO = {
   'riviera-maya': 'mx',

@@ -1,7 +1,7 @@
-import { loadResort, loadRegions } from './data.js';
+import { loadResort, loadRegions } from './data.js?v=20260521c';
 import {
   escapeHtml, sentimentChip, CONTACT_ICONS, CONTACT_LABELS, RATING_LABELS,
-} from './format.js';
+} from './format.js?v=20260521c';
 
 function hero(r, regionName) {
   const bg = r.hero
