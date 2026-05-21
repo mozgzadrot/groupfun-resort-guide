@@ -4,10 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project shape
 
-Static site, no framework, no bundler. Cloudflare Pages serves the repo root directly:
+Static site, no framework, no bundler. Cloudflare Workers Static Assets serves the repo root directly (deployed via `npx wrangler deploy`, configured in `wrangler.jsonc`):
 
 - **Build command**: empty
-- **Output directory**: `/`
+- **Assets directory**: `.` (repo root)
 - **No `npm install` required** for the site itself
 
 The only tooling is one Node script (`scripts/build-index.mjs`) that regenerates the resort manifest after editing a resort JSON.
@@ -79,18 +79,18 @@ Never recolor, stretch or crop the logo. If you need a wordmark on a light surfa
 - `h2`/`detail-name` cap at 1.55rem (1.4rem under 480px) so they fit narrow viewports.
 - Tap discipline: `-webkit-tap-highlight-color: transparent`, default focus outline removed, replaced with a 2px coral `:focus-visible` ring for keyboard users only.
 
-## Routing & Cloudflare Pages
+## Routing & Cloudflare Workers Static Assets
 
-`_redirects` rewrites every unknown path to `/index.html` with status `200` (rewrite, not redirect) so deep links like `/riviera-maya/desire-pearl/` load the shell with the URL bar intact, and the client router reads `location.pathname`. Static asset prefixes (`/data/*`, `/styles/*`, `/js/*`) are exempted so the rewrite catch-all doesn't intercept them.
+`wrangler.jsonc` sets `assets.not_found_handling: "single-page-application"`, which serves real static files (`/data/*`, `/styles/*`, `/js/*`, etc.) directly and falls back to `/index.html` with a `200` response for any unmatched path. Deep links like `/riviera-maya/desire-pearl/` load the shell with the URL bar intact, and the client router reads `location.pathname`. (We do not use `_redirects` — Workers Static Assets rejects a `/*  /index.html  200` rule as a self-loop; `not_found_handling` is the supported equivalent.)
 
-Locally, `python3 -m http.server 8080` works for the grid and detail pages, but **will 404 on a hard refresh of a deep link** because it doesn't honor `_redirects`. Use `npx wrangler pages dev .` to simulate Cloudflare Pages behavior including the rewrite.
+Locally, `python3 -m http.server 8080` works for the grid and detail pages, but **will 404 on a hard refresh of a deep link** because it doesn't do SPA fallback. Use `npx wrangler dev` to simulate production behavior including the fallback.
 
 ## Common tasks
 
 - **Add a resort**: create `data/resorts/<id>.json` (copy an existing file's shape), then run `node scripts/build-index.mjs`. The sidebar and the matching region grid pick it up automatically.
 - **Add a region**: append an entry to `data/regions.json` with `{slug, name, flag, description, filter_pills, hero_stats, hero_copy}`. If the slug needs a country flag in the sidebar, add it to the `FLAG_ISO` map in `js/sidebar.js`.
 - **Change the visual design**: edit the matching `styles/*.css` file. CSS variables live in `styles/tokens.css`. Re-read the **Visual design** section before touching colors or type — the palette is brand-locked, not a creative surface.
-- **Add a backend endpoint**: drop a file under `functions/api/<name>.js` — Cloudflare Pages auto-wires it. (Not used today.)
+- **Add a backend endpoint**: extend `wrangler.jsonc` with a `main` Worker script that handles `fetch` for API paths and falls through to assets for everything else. (Not used today.)
 
 ## Notes
 
