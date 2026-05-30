@@ -59,6 +59,58 @@
     "Ground-floor casitas: neighbour visibility is a concern for some",
     "Remote location — limited off-resort activity access"
   ],
+  "photos": [
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/2b/3b/0c/c2/caption.jpg",
+      "label": "El Dorado Casitas Royale",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/32/b3/d7/89/caption.jpg",
+      "label": "Casita Suite & Grounds",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-w/32/b3/d7/8a/caption.jpg",
+      "label": "Private Plunge Pool",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/32/b3/d7/8b/caption.jpg",
+      "label": "Resort Pool Area",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ac/7f/35/caption.jpg",
+      "label": "Tropical Gardens",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ac/7f/36/caption.jpg",
+      "label": "Beach & Ocean View",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ac/7f/37/caption.jpg",
+      "label": "Swim-Up Casita",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/9b/af/c3/caption.jpg",
+      "label": "Pool & Lounge Area",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/9b/af/c4/caption.jpg",
+      "label": "Dining Experience",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/92/fe/ff/caption.jpg",
+      "label": "Resort Amenities",
+      "user": true
+    }
+  ],
   "reviews": [
     {
       "name": "Scott S",
@@ -139,7 +191,7 @@
       "platform": "TripAdvisor",
       "stars": 5,
       "rating_text": "5/5",
-      "text": "We've been coming to EDCR for New Year's for the past 12 years, and this was one of our best visits yet. Casita butlers Hector and Miriam could not have been better — they went well beyond the norm to make our stay truly memorable. Section 32 bartender Alberto and beach butler Alberto were both fantastic keeping us hydrated wherever we were. Even Karen and Claudio — not our assigned butlers — helped us at every turn thanks to our ongoing relationship with them. Concierge Emi rounded it all out.",
+      "text": "We've been coming to EDCR for New Year's for the past 12 years, and this was one of our best visits yet. Casita butlers Hector and Miriam could not have been better — they went well beyond the norm to make our stay truly memorable. Section 32 bartender Alberto and beach butler Alberto were both fantastic keeping us hydrated wherever we were. Even Karen and Claudio — not our assigned butlers — helped us at every turn. Concierge Emi rounded it all out.",
       "sentiment": "pos",
       "response": {
         "by": "El Dorado Casitas Royale Management",
@@ -176,6 +228,108 @@
         "text": "Thank you for your incredible loyalty — 10 visits means the world to us! We are delighted you had another wonderful stay. Wilma, Luis, Rodrigo, and Manuel will be so pleased to hear of your recognition."
       },
       "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1052032691-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Lorraine V",
+      "initials": "LV",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "This was our 5th or 6th time at this resort and, again, it did not disappoint! We love this resort and the people who work here! The beach is not the best — you really can't go into the water due to the massive amount of seaweed — but there were plenty of pools to cool off in. All of the food we had was so good — Kampai was our favourite, followed by Santa Fe and D'Italia. We also did the sunset dinner cruise at Maroma and it was amazing! What really makes this resort stand out are the employees. Emiliano (our concierge in Bldg. 32) was AMAZING — he made our trip so special and remembered us immediately from our last trip. Benjamin at the pool bar got Baileys from Santa Fe just so he could make our mini-beers the way we liked them — now THAT is service! Tony was very knowledgeable about our membership. El Fredo recognised us after over a year! This is why we can't wait to return.",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you so much for taking the time to share such a detailed and heartfelt review. It truly means the world to us to welcome you back for your 5th or 6th visit. We are especially grateful for your kind recognition of Emiliano, Benjamin, Tony, and El Fredo. Creating memorable experiences through genuine service is what we strive for every day."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1060212961-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Kate E",
+      "initials": "KE",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Just got back from another amazing vacation at this resort. So relaxing with everything taken care of. The people and service are amazing here. Special shout out to our butlers Claudio and Paul who were amazing. Clean rooms, great food especially at Italian Casitas, and beautiful resort areas to enjoy. Thanks and see you next year!",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for your perfect rating. We're delighted you enjoyed your stay and hope to welcome you back soon."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1056926074-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "575dgc",
+      "initials": "5D",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "I would have given 5 stars because we had a great holiday. However, the casitas were in a poor state of repair — we wasted the first day re-packing and changing rooms due to very noisy repairs going on to the thatched roof and wooden stairs of the casitas next door. The suites were tired-looking with worn taps and mirrors. We paid a premium price but the quality didn't match. That said, the layout was great, very spacious, and the view from the balcony was lovely. The bed was enormous and so comfortable. Loved the outside shower and the hot tub. The food and restaurants and bars were absolutely excellent. Staff were friendly and helpful. The entertainment was of a high standard and the grounds and gardens were beautiful and very well maintained.",
+      "sentiment": "mixed",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for sharing your detailed feedback. We are pleased to know that you enjoyed many aspects of your stay including the spacious accommodations, comfortable bed, beautiful grounds, and the quality of our food and entertainment. We sincerely regret the inconveniences you experienced with the maintenance work. Your observations have been shared with our facilities and renovation teams."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1056211147-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "jt409",
+      "initials": "JT",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "We had a great time at the Casitas! The rooms were clean and quiet, and the staff did a great job every day keeping them that way with a fully stocked mini fridge. The food was good with many different options for a wide variety of tastes. The shows were fun and entertainment was really well done. The beach is where it starts to lose it for me though — if you are a beach lover this is not the place for you. Overall: staff were amazing, our pool bartender Juan was great all week, everyone was friendly from the groundskeepers to the bartenders. We had a few issues with our casita and they made sure to remedy them immediately. If you're looking for a nice place with good food and decent entertainment I would definitely recommend.",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for sharing your kind feedback about your recent stay. We are delighted to know that you had a great overall experience. It is especially rewarding to hear your recognition of our team, including Juan at the pool bar. We also appreciate your comments regarding the beach access and entertainment preferences. We truly look forward to welcoming you back."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1054889214-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "LindaB884",
+      "initials": "LB",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Another awesome vacation at El Dorado Casitas! We stayed 11 days and enjoyed every minute! Our butlers Pablo and Fernando were attentive and very helpful! The food was excellent as usual — our favourite was D'Italia Casitas with Jade a close 2nd. Our favourite waiter was Wilbert at La Isla. We enjoyed massages by Regina and Janeth which contributed to our relaxation! We went to the top of Generations to see the lunar eclipse (Blood Moon) — amazing! Members for 17 years and loving it!",
+      "sentiment": "pos",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "Thank you for sharing your wonderful feedback and for your continued loyalty. We are truly delighted to know that you had another amazing stay and that our team, including Pablo, Fernando, and Wilbert, provided attentive and helpful service throughout. We look forward to welcoming you back for many more memorable stays."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1052891063-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Dan C",
+      "initials": "DC",
+      "date": "December 2025",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "My wife and I just got back from what we thought would be a relaxing stay at El Dorado Casitas Royale, but it turned into such a letdown that we both agreed we would never go back. On our first night the check-in concierge told us the only place open was the pizza spot with literally just four kinds of pizza. We were starving after traveling. Room service was even worse — we ordered one night and waited two full hours for it to arrive cold. The room itself had plenty of problems. Very expensive for the value you get.",
+      "sentiment": "neg",
+      "response": {
+        "by": "El Dorado Casitas Royale Management",
+        "text": "We are very sorry to hear about your experience and that we fell short of your expectations. These concerns do not reflect our standards and we would like to investigate further. Please contact us directly so we can address these issues. We hope to have the opportunity to restore your confidence in us."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1051084604-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "SunseekersCA",
+      "initials": "SC",
+      "date": "December 2025",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We have stayed at many all-inclusives in the Riviera Maya and this is by far the most romantic and private. The individual casitas surrounded by tropical vegetation with a personal plunge pool is a concept that no other resort in the area matches. Butler service was extraordinary. Food quality rivals standalone restaurants. A truly special place for couples seeking a romantic, secluded feel within a larger resort.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g28660677-d1720341-r1050673747-El_Dorado_Casitas_Royale-Dorado_Royale_Solidaridad_Yucatan_Peninsula.html"
     }
   ],
   "card_gradient": "linear-gradient(135deg, #1a3d0a 0%, #2a6020 50%, #3a8030 100%)",

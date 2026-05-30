@@ -58,6 +58,53 @@
     "Less entertainment/nightlife focus than Desire properties",
     "One couple reported food poisoning (isolated incident — 2024)"
   ],
+  "photos": [
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/b5/1b/60/el-dorado-maroma-by-karisma.jpg",
+      "label": "El Dorado Maroma by Karisma",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/33/61/74/2b/caption.jpg",
+      "label": "Resort & Beach",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/33/5f/b6/49/caption.jpg",
+      "label": "Pool & Entertainment",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/33/5f/b6/4a/caption.jpg",
+      "label": "Beach Activities",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/33/5d/18/2f/caption.jpg",
+      "label": "Playa Maroma Beach",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/33/5d/18/30/caption.jpg",
+      "label": "Ocean View",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/33/5d/18/31/caption.jpg",
+      "label": "Pool Area",
+      "user": true
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b5/1b/60/el-dorado-maroma-by-karisma.jpg",
+      "label": "Resort Aerial View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/4f/95/8d/view-from-our-palafito.jpg",
+      "label": "Palafito Overwater Bungalow View",
+      "user": true
+    }
+  ],
   "reviews": [
     {
       "name": "Salaysia",
@@ -157,6 +204,93 @@
       "sentiment": "pos",
       "response": null,
       "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1055616196-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Kieren R",
+      "initials": "KR",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We both had an amazing time here. The staff are incredible and can't do enough for you. We were entertained daily with lots of fun activities from cooking classes with Mafer and Christian to the daily pool/beach volleyball with Omar and Tristian and their debatable calls of in/out. The location is really secluded and private with a very relaxed atmosphere around the place. Our room included a very large bed and offered good value for money. The rooms and resort are thoroughly cleaned throughout the day! Would definitely return to this hotel if we ever return to Mexico!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1062137596-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Chris P",
+      "initials": "CP",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Always a good time at Maroma. Entertainment staff work hard at getting people involved in tons of events throughout the day. Tristan does a great job of getting to know you and trying to make your stay exciting.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1062066736-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "bailey04",
+      "initials": "B",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Outstanding again! Armando and Mario are superb.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1062049245-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "mwinco",
+      "initials": "MW",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We just had a wonderful time at this resort. This boutique hotel had gorgeous grounds, good food and drinks, and spacious, clean rooms. The employees — including bartenders, servers, concierge and housekeeping — were all friendly and competent. The activities staff was awesome. Omar, Mafer, and the rest of the team (Alex, Tristan and Chris) were inclusive and made the experience fun. Thank you all for a special visit!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1062026887-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Maureen G",
+      "initials": "MG",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We have been coming to El Dorado Maroma for over 15 years. It is our favourite place to relax and enjoy the quiet beach, wonderful food and FANTASTIC staff. Many of the employees have been at Maroma for 5-15 years. Recently the food has become even better with a fantastic taco restaurant, pizza and ice cream available straight from the pool and beach. I would like to especially mention Armando, Manuel, Marco, Omar, Diego, Rene, Clemente, Philipe, Betsabe, Dorian, Karen and Eli.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1062022975-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Shaylene N",
+      "initials": "SN",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "The entertainment here has been so fun. We love the people here! They have the most fun activities and staff! Alex, DJ Chris, Mafer, Omar, and Tristian have been incredible. I hope they're here when we come back next!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Hotel El Dorado Maroma",
+        "text": "Thank you for your wonderful feedback. We are delighted to hear that you enjoyed the entertainment and had a fantastic experience with our dedicated team. It will be our pleasure to welcome you back in the future."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1061940304-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
+    },
+    {
+      "name": "Ben M",
+      "initials": "BM",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Tristan was the best — great overall. A short but sweet stay on one of the most beautiful beaches in Mexico. The resort is small and intimate which makes it feel very personal. Would highly recommend.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g4053317-d1010527-r1062204602-Hotel_El_Dorado_Maroma-Playa_Maroma_Playa_del_Carmen_Yucatan_Peninsula.html"
     }
   ],
   "card_gradient": "linear-gradient(135deg, #0a1a3d 0%, #10306b 50%, #2050a0 100%)",
