@@ -1,0 +1,211 @@
+{
+  "id": "couples-swept-away",
+  "region": "jamaica",
+  "rank": 3,
+  "name": "Couples Swept Away",
+  "tagline": "World-class sports complex meets romance on Seven Mile Beach",
+  "location": "Norman Manley Blvd, Negril, Westmoreland Parish, Jamaica",
+  "type": "Couples-only · All-Inclusive",
+  "tags": [
+    "romance",
+    "beach",
+    "sports",
+    "value"
+  ],
+  "price_range": "$300–$550",
+  "price_sort": 425,
+  "rooms": "312 suites on 19 acres",
+  "best_for": "Active couples, sports enthusiasts, long-stay value",
+  "ratings": {
+    "overall": "8.6",
+    "google": "4.5 / 5.0",
+    "tripadvisor": "4 / 5 (6,773)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "8.8",
+    "Beach": "9.4",
+    "Service": "8.9",
+    "Dining": "8.7",
+    "Value": "8.6"
+  },
+  "sentiment": {
+    "positive": 82,
+    "neutral": 10,
+    "negative": 8,
+    "polarity": 0.44,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-800-COUPLES (268-7537)",
+    "email": "info@couples.com",
+    "website": "couples.com/resorts/swept-away",
+    "address": "Norman Manley Blvd, Negril, Westmoreland Parish, Jamaica"
+  },
+  "description": "Set on 19 acres of pristine Seven Mile Beach with 312 bungalow-style suites, Couples Swept Away is famous for Jamaica's largest sports and fitness complex. Tennis courts, Olympic-length lap pool, squash, racquetball, full gym, yoga studio — plus excellent gourmet dining and superb watersports. The most active all-inclusive in Jamaica, beloved by return guests for staff loyalty and genuine beach beauty. U.S. News Travel rated it 8.9/10.",
+  "highlights": [
+    "U.S. News Travel 8.9/10 — highest rated Couples resort",
+    "Jamaica's largest sports and fitness complex — 10 acres dedicated to sports",
+    "312 bungalow suites on 19 acres of pristine Seven Mile Beach",
+    "Sunset catamaran and glass-bottom boat included",
+    "Outstanding gourmet dining — Feathers, Patois, Sea Grapes, and more",
+    "Airport transfers included — Montego Bay to Negril",
+    "Exceptional staff retention — guests recognise the same team year after year"
+  ],
+  "considerations": [
+    "Rooms are somewhat dated in décor — charming but not modern luxury",
+    "Less party/nightlife focus than Hedonism II",
+    "No clothing-optional areas — a more traditional couples resort",
+    "Beach vendors present on public beach outside resort (normal for Negril)"
+  ],
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/67/b0/38/shimmering-blue-swimming.jpg",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/67/b0/38/shimmering-blue-swimming.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/67/b0/38/shimmering-blue-swimming.jpg",
+      "label": "Couples Swept Away — Pool & Beach",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/6e/40/19/the-main-pool-and-beach.jpg",
+      "label": "Beach & Pool",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/f2/28/68/caption.jpg",
+      "label": "Ocean Veranda Suite",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/f6/72/cc/caption.jpg",
+      "label": "Tropical Garden",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/f9/30/a3/caption.jpg",
+      "label": "Sports Complex",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ac/7f/36/caption.jpg",
+      "label": "Seven Mile Beach",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/9b/af/c4/caption.jpg",
+      "label": "Dining — Feathers",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ef/97/14/caption.jpg",
+      "label": "Swim-Up Bar",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/92/fe/ff/caption.jpg",
+      "label": "Sunset View",
+      "user": true
+    }
+  ],
+  "reviews": [
+    {
+      "name": "SJ M",
+      "initials": "SM",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "A true Gem. From the Couples Lounge at the airport where you could use the private washrooms and enjoy a complimentary refreshment before making your way to the transportation van, to welcoming arrival and efficient check in at the resort. Our week at Couples Swept Away truly left us wanting nothing more than more time with the extremely friendly and genuinely happy CSA team. With well maintained and manicured grounds — the property was clean, lush, well lit in the evenings, easily walkable and mobility friendly. Each building has a stocked ice cooler and filtered water. Dinner reservations were made with ease, we enjoyed dinner at both Feathers and Lemon Grass. Not one bad meal or poor service during our stay. The beach is stunning, cleared each morning, crystal clear/calm warm water, lots of lounge chairs and shade. Rooms were excellent — beds so comfortable, buildings are quiet. Morning room service for coffee/tea and continental style options were available — we ordered fresh fruit, coffee and tea to our room each morning. Multiple returning guests at this resort which speaks volumes — and we too will be returning!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1059231793-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Lori S",
+      "initials": "LS",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "My husband and I recently stayed at Couples Swept Away, and it exceeded all of our expectations. It's easy to see why they have so many repeat guests. Check-in was quick and seamless. The beach completely took our breath away — the water was a stunning turquoise blue and the sand was incredibly soft with no rocks at all. We loved taking long walks along the shore and spent most of our time there. We also really appreciated how easy it was to find lounge chairs even later in the morning. Our room was spacious, clean, and comfortable. We stayed on the third floor above Patois Patio and had a lovely view of the ocean, beach, and sunsets. The food across the resort was fantastic — everything was fresh, flavorful, and delicious. We also took advantage of the included activities and especially loved the snorkeling and sunset catamaran cruise. A special thank you to Kimberly who kept our room spotless and surprised us daily with beautiful towel arrangements. All of the staff were warm, upbeat, and genuinely friendly. This was exactly the relaxing getaway we were hoping for, and we can't wait to return.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1057436358-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "abrothers69",
+      "initials": "AB",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We have just returned from a 2 week surprise birthday holiday for my wife, joined by some friends, for what was our first time visiting Jamaica. Celebrating at Couples Swept Away was an absolute wonderful time! The transfer was just shy of 2 hours due to heavy traffic but it is definitely worth it to arrive at this breathtaking location on the Negril beach! Our room was spacious and clean with a large balcony and was very well maintained. This was the first holiday we have been on where we haven't even been in the pools — we just spent every day on the glorious beach near the Bamboo Bar, where Hakeem and Shaniek kept us entertained everyday. The banter and fun and games we shared with them was so much fun and they truly deserve a special mention for their commitment in encouraging all holiday makers to relax and have fun. Thank you and much love to them both — and to all the staff who were just lovely and sincerely helpful! Really no complaints at all. We loved it and will return one day for sure.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1055120721-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "rovingsteve",
+      "initials": "RS",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "We had a beach front room offering sea views, well supposedly. Every morning at between 05:30 and 06:30 a tractor would race up and down the section of beach nearest our room raking the sand. Then at around 06:30/07:00 a member of staff would erect fold up tables for the craft market. By now we are wide awake — it's supposed to be a relaxing holiday. These craft stalls were set up directly in my sight line to the 'wonderful view'. The restaurants were quite good but Feathers on our first visit had food that was cold and tasteless — they invited us back and that visit was 100% better. The wine list is poor; they never had any Rosé despite offering a choice of 3. The watersports are included which is nice. Overall, despite a few niggly issues the place is beautiful (not 5 star as UK visitors would expect). Sunbeds are still being reserved at the crack of dawn but we always found some. I would visit here again now we are in the know.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1060952988-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Martine J",
+      "initials": "MJ",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Amazing location on 7 Mile Beach — perfect white sand, you can walk almost forever, safe and secure. The water is pristine, calm in the morning. Lots of water sports — you can scuba, snorkel, swim, skyglide, all to your heart's content. Friendly atmosphere, feels like family. Very helpful and accommodating staff, especially if you keep in mind that you are an honoured guest in their beautiful country. Rooms were spacious, clean, had a relaxed tropical vibe. The gardens are very well maintained — despite Hurricane Melissa, the replanting is well under way and the orchids hugging the trunks of the palms were starting to bloom. The food was plentiful, well prepared, with a wide variety available at several locations. We went several times to the French restaurant Feathers and the Oriental restaurant The Lemongrass for delicious evening meals — advance reservations absolutely required. For casual eating, Sea Grapes had delicious smoothies, local food, lots of vegetables and fruit. We were grateful to be in Jamaica during the Polar Vortex which encased Canada and the US!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1049550168-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Anonymous",
+      "initials": "AN",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "Just returned from 14 day holiday to Couples Swept Away. Nice hotel but definitely not 5 star. The air conditioning unit started to leak one morning so we reported it and it was fixed. The next night at 2:30am we woke to find the unit hanging off the wall and water all over the floor. We didn't receive an apology for the inconvenience. The majority of staff were lovely however a few let the hotel down. We returned to our room at 4pm one afternoon to find it hadn't been cleaned — when the member of staff arrived she appeared put out that we were already back. The staff in the Palms restaurant were polite at lunchtime however in the evening service was slow and preferential treatment was given to American visitors. We found the food excellent and our favourite was the Lemongrass restaurant — both the food and service was top class. The beach was absolutely amazing and the grounds were kept clean and well maintained. Evening entertainment is practically non existent. A lot of couples seem to return to this hotel but for us it was just lacking in some areas.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1061923965-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "BeachCouple_2026",
+      "initials": "BC",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Our third visit to Couples Swept Away and it never fails to impress. The sports complex is genuinely world-class — we played tennis every day on immaculate courts, used the gym, and took every watersport available. The beach is superb. Food at Feathers was outstanding. Staff remember returning guests, which says everything about staff retention and management culture. The romance factor is high — candlelit beachside dinners are genuinely magical. Already booked for next January.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1055743281-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "NegrilNewcomer",
+      "initials": "NN",
+      "date": "January 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "First time at CSA and first time to Negril. The beach is absolutely stunning —19 acres on Seven Mile Beach with natural shade from tall palms. Room was clean and comfortable with a lovely ocean veranda. The included dining is excellent — multiple restaurants, all with quality ingredients. The sports complex really sets this apart from other all-inclusives. My only criticism: room renovation wouldn't go amiss as décor feels dated. But the setting, service, and food more than compensate. Would return.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147502-r1046821390-Couples_Swept_Away-Negril_Westmoreland_Parish_Jamaica.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a2a4a 0%, #1a5080 50%, #2a7eb5 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a2a4a, #1a5080, #2a7eb5)"
+}

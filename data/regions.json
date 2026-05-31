@@ -246,5 +246,69 @@
       "subtitle": "Spain",
       "blurb": "From a boutique mountain villa near Alicante to the legendary Costa del Sol and the dramatic Canary Islands coast — Spain's finest clothing-optional resorts span a breathtaking range of landscapes and atmospheres."
     }
+  },
+  {
+    "slug": "jamaica",
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "description": "Jamaica's premier adults-only lifestyle and all-inclusive resorts — from the legendary nudist haven of Hedonism II on Negril's Seven Mile Beach to the romantic couples retreats of the Couples Resorts brand and Sandals' award-winning all-inclusive luxury.",
+    "filter_pills": [
+      {
+        "tag": "all",
+        "label": "All Resorts"
+      },
+      {
+        "tag": "lifestyle",
+        "label": "Lifestyle & Nudist"
+      },
+      {
+        "tag": "luxury",
+        "label": "Luxury ($400+)"
+      },
+      {
+        "tag": "value",
+        "label": "Best Value"
+      },
+      {
+        "tag": "romance",
+        "label": "Romance Focus"
+      },
+      {
+        "tag": "beach",
+        "label": "Best Beach"
+      },
+      {
+        "tag": "sports",
+        "label": "Sports & Active"
+      }
+    ],
+    "hero_stats": [
+      {
+        "value": "5",
+        "label": "Resorts"
+      },
+      {
+        "value": "34,000+",
+        "label": "Reviews"
+      },
+      {
+        "value": "4.2",
+        "label": "Avg Rating"
+      },
+      {
+        "value": "84%",
+        "label": "Positive Sentiment"
+      },
+      {
+        "value": "$150–$700",
+        "label": "Price Range/Night"
+      }
+    ],
+    "hero_copy": {
+      "badge": "🇯🇲 &nbsp; Jamaica",
+      "title": "Adults-Only Lifestyle Resorts",
+      "subtitle": "Jamaica",
+      "blurb": "Five iconic adults-only resorts spanning Negril's famous Seven Mile Beach and the lush north coast — from the world-famous lifestyle playground of Hedonism II to the romantic all-inclusives of Couples Resorts and Sandals."
+    }
   }
 ]

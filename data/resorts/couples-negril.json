@@ -1,0 +1,231 @@
+{
+  "id": "couples-negril",
+  "region": "jamaica",
+  "rank": 2,
+  "name": "Couples Negril",
+  "tagline": "Eco-certified romance on 18 acres of Seven Mile Beach",
+  "location": "Negril, Westmoreland Parish, Jamaica",
+  "type": "Couples-only · All-Inclusive",
+  "tags": [
+    "romance",
+    "beach",
+    "luxury"
+  ],
+  "price_range": "$350–$700",
+  "price_sort": 525,
+  "rooms": "234 rooms and suites",
+  "best_for": "Romantic escapes, anniversaries, first Jamaica all-inclusive",
+  "ratings": {
+    "overall": "8.4",
+    "google": "4.5 / 5.0",
+    "tripadvisor": "4 / 5 (5,765)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "9.0",
+    "Beach": "9.3",
+    "Service": "8.8",
+    "Dining": "8.5",
+    "Value": "8.2"
+  },
+  "sentiment": {
+    "positive": 80,
+    "neutral": 10,
+    "negative": 10,
+    "polarity": 0.42,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-800-COUPLES (268-7537)",
+    "email": "info@couples.com",
+    "website": "couples.com/resorts/negril",
+    "address": "Norman Manley Blvd, Negril, Westmoreland Parish, Jamaica"
+  },
+  "description": "Jamaica's first eco-certified all-inclusive resort, set on 18 acres of Seven Mile Beach. Couples Negril is strictly couples-only (no singles, no families) offering 234 rooms from garden-view to beachfront suites. The famous clothing-optional Au Naturel beach is a designated area for those who want it; the resort is fully relaxed and non-judgmental. Returning guests dinner every Monday is packed with repeaters — many return year after year.",
+  "highlights": [
+    "Jamaica's first eco-certified all-inclusive resort",
+    "Strictly couples-only — 234 rooms on 18 acres of Seven Mile Beach",
+    "Designated clothing-optional Au Naturel beach area",
+    "Treehouse Spa and wellness centre",
+    "Returning guests Monday dinner — testament to exceptional loyalty",
+    "All-inclusive: premium spirits, unlimited dining, watersports, airport transfer",
+    "Sunset sailing, glass-bottom boat, snorkeling — all included"
+  ],
+  "considerations": [
+    "Older property — some rooms show their age vs. newer resorts",
+    "Price per night can be steep ($350–$700) for the room quality",
+    "Clothing-optional area is small — not a fully nude resort like Hedonism II",
+    "No single guests — strictly couples only"
+  ],
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0a/98/fa/couples-negril.jpg",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0a/98/fa/couples-negril.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0a/98/fa/couples-negril.jpg",
+      "label": "Couples Negril — Seven Mile Beach",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0a/98/fa/couples-negril.jpg",
+      "label": "Beachfront",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ef/97/14/caption.jpg",
+      "label": "Pool Area",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/f9/30/a1/caption.jpg",
+      "label": "Tropical Gardens",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/6a/0d/d5/caption.jpg",
+      "label": "Beach Lounge",
+      "user": true
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/04/95/8c/azul-beach-negril-drone.jpg",
+      "label": "Aerial — Seven Mile Beach",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ac/7f/35/caption.jpg",
+      "label": "Dining Experience",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/b3/d7/89/caption.jpg",
+      "label": "Ocean View Suite",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/9b/af/c3/caption.jpg",
+      "label": "Sunset",
+      "user": true
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Wanderlist",
+      "initials": "W",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "From the airport lounge to the resort itself, we were treated really well. The airport lounge offers a bathroom and bar while you wait for the bags to be tagged and loaded to the van. The resort — super clean everywhere, spotless. Eco friendly resort. Staff are great, friendly & make everyone feel like it's their home. We met so many people who were return guests. Up to 22 times even WOW. We now understand why and we're already making plans to return. There's even a returning guests dinner each Monday night. It was packed!! Hotel room — clean, comfy bed, one chair so maybe they could add one more but not really an issue. We never turned on the TV. Plenty of closet space and hangers; each room has an umbrella in case of rainy evenings. Grounds — immaculate and every morning the staff are washing the pool deck and cleaning off the lounges. Dining rooms, bars — plenty of options for alcoholic and non alcoholic drinks. Amazing assortment of foods and never the same thing each day. Staff — you just can't beat them for the service. Other amenities — we didn't take part in activities this time but each day there were so many activities you could join if you wanted. Water activities were included and we've decided that the next time we go, we'll be taking better advantage of those included amenities.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you for choosing Couples Negril. We are delighted to hear that your entire experience, from arrival at our airport lounge to your time at the resort, exceeded your expectations. Creating a welcoming atmosphere where guests feel at home is at the heart of what we do, so it is especially rewarding to hear that you experienced the warmth and family spirit that keeps so many guests returning year after year. Please make plans to return for more watersports and fun. We can't wait to welcome you home again soon."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1060604490-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Jordan N",
+      "initials": "JN",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "My review of Couples Negril, Jamaica May 2026. Starting with the negatives: The drive to the resort is long, about 2 hours depending on time of day! Shower/vents allow mosquitoes to enter — pack bug spray! The cup size is very small on this resort. Wifi is spotty overall. Limited protein options in the restaurants. PROS: Roshay Whyte is an amazing staff member on this resort! Office of Nature — a SHORT walk from the sand to an AMAZING local bar where we selected our own lobsters to grill. Swimming on property is open 24/7. The resort was small but clean/peaceful, and staff was very nice! I felt like I was treated like royalty. The resort offered a bunch of free activities — DO NOT MISS the beach dinner/fireshow. The beaches were amazing, I saw so much wildlife. Seaweed was not an issue as this resort is in a cove. Jamaica I will be back!",
+      "sentiment": "mixed",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you very much for sharing such a detailed review of your recent stay with us. We are delighted to know that your overall experience at Couples Negril was memorable and that so many aspects of the resort helped make your vacation special. We also appreciate your constructive observations regarding the transfer time, Wi-Fi connectivity, and music variety. We are grateful for your balanced and thoughtful perspective, and we are thrilled to know Jamaica will welcome you back again in the future."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1059616819-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "mangoKW",
+      "initials": "MK",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We visited Couples Negril for the first time at the end of April 2026. The standout feature is the beach and bay — soft, powdery sand, crystal-clear warm water, and no stones or coral, making it perfect for swimming. The grounds are equally impressive, with beautifully maintained gardens and fish ponds. There's plenty to stay active with a well-equipped indoor gym, tennis courts, table tennis, and beach games. The range of included activities is exceptional: sunset catamaran cruises, glass-bottom boat trips, snorkelling, scuba diving, and unlimited use of water sports equipment. The water-sports team deserves special mention for their friendliness. The in-room minibar was beyond expectations — full-size bottles of spirits, wine, and a well-stocked fridge. One day during our stay, four of the five restaurants were closed due to local issues. Credit to management for handling this well. Despite a long flight, we enjoyed it enough to already book return trips for December and March. If you value a stunning beach, warm water, and a relaxed natural setting, this resort rivals Indian Ocean destinations at a fraction of the cost.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you for taking the time to share your first experience at Couples Negril. We are delighted to hear how much you enjoyed our beautiful beach and bay, well maintained grounds, and the wide range of included activities. We are truly pleased to hear you have already booked return visits, and we look forward to welcoming you back for an even more seamless stay."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1058625137-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "pammy047",
+      "initials": "P",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "We had previously been to CSA four years ago and enjoyed it. This year we decided to try Couples Negril instead. The best part of this hotel was the beach but not as good as CSA. Trying to find shade was a big problem as you had to get up around 7ish to get a decent spot. Some days there were no beach towels available. Housekeeping was dreadful. Our room was never done until the afternoon and on two occasions it was 4pm and 6pm. We had to use beach towels for showers. We were woken up at 2am for two hours for 3 days as the next room decided to listen to the news at full volume. The food was mediocre and hit and miss. There isn't any comfortable seating around the bars/restaurants, just hard plastic chairs. On Friday 24th April the Heliconia was closed for lunch and the grill too with no explanation. This hotel caters for Americans, some like to shout a lot, so it's certainly not a peaceful resort.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you for taking the time to share your detailed feedback following your return visit to Couples Negril. We are very sorry to learn that several aspects of your stay did not meet your expectations, particularly with regard to housekeeping, towel availability, noise disturbances, dining and the overall quality of your experience. Your comments have been shared with the relevant department heads for immediate review and corrective attention."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1058972278-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "hodgkima",
+      "initials": "H",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We had to rebook a late notice Spring holiday 2026 due to events in the Middle East and settled eventually on Couples Negril Jamaica. Wow I am so glad that we did — a 5 star experience from beginning to end. Very clean throughout, very friendly staff in all areas, fantastic beach and pools, quality spa and entertainment options, really really good food options. When you say all inclusive you expect no additional hidden costs and this is exactly what we experienced — diving lessons and trips, glass bottom boat trips, catamaran cruises, all food and drink, spa treatments, absolutely everything included. We had a deluxe ocean view room in block 4 and watched the sun set from our balcony every evening. Only improvements I would like to see: more powerful showers and more beach shade in the form of permanently fixed thatched parasols. Other than that it's perfect. But be prepared for a challenging journey from the airport — extremely bumpy ride over 90 white knuckle minutes.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1057424615-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Danielle G",
+      "initials": "DG",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "We chose Couples Negril based on numerous positive reviews; however, our recent stay did not meet our expectations. We appreciated the effective air conditioning and size of our Beachfront Suite, however the overall experience was not consistent with a premium resort. Service and Staffing: The resort appeared consistently understaffed. We frequently had to serve our own water and coffee after being overlooked by waitstaff. Food Quality: The dining experience was subpar. It reminded us of cafeteria food. We noticed significant cost-cutting measures, such as sushi made primarily of rice, iceberg lettuce salads and unripened fruit. Beach and Seating: Finding lounge chairs in the shade was impossible most days unless we arrived before 7:00 AM. Policy Enforcement: We observed several violations of resort rules — smoking on the main beach, and tipping to receive better service despite the no-tipping policy. Water Disruption: There was a significant water service disruption during our stay. We travel 5-6 times per year. Unfortunately, this was our least favorite trip to date.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you for choosing Couples Negril and for your feedback regarding your recent stay. We are happy to read that you were pleased with the comfort and size of your suite, but disappointed that your overall experience did not meet your expectations. We also again apologize for the water disruption that was in fact the result of a break which we were able to quickly resolve. Your additional comments are valuable and will be taken into consideration as we strive to enhance our services."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1055440241-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "ExcaliberMidlands",
+      "initials": "EM",
+      "date": "April 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "Having read the reviews for this hotel we thought we had found a winner but unfortunately the reviews did not reflect our experience. The location on Bloody Bay is beautiful as are the sunsets and the room was clean, spacious and had a great view. The majority of guests were from the USA and were repeaters. We found with the exception of the pool/water sports guys who were always happy and helpful that the majority of staff were friendly until they found out they were not getting a tip — the difference in service for those tipping was disappointing as the whole idea of paying a premium was to make it a cashless experience. Service in the restaurants was sketchy. Having the entertainment in the Casava restaurant did not work for us — trying to have a conversation when some woman was screeching out cover songs was definitely not romantic. Room cleaning was good but most days it would be gone 3pm before it was done and some days there were no clean towels despite reporting to front desk. Will never be a repeater at this hotel.",
+      "sentiment": "neg",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you for taking the time to share your feedback following your recent stay with us. While we appreciate your positive comments regarding our beautiful location, spacious accommodations, pool facilities, and the efforts of several members of our team, we recognize that this was not the holiday experience you had anticipated. Your observations have been shared with the relevant management teams for careful review."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1059544696-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "tim j",
+      "initials": "TJ",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "This was our second trip to Couples Negril, the previous one some 19 years ago. This time we took Timair from Montego airport to Negril — a 15 min trip. Highly recommended. The hotel and staff were just as we remembered, friendly and engaging. The room was well equipped with plenty of towels and storage. The food and service in the restaurants were great, we enjoyed them all. Our favourite was Otaheite — outstanding food, service and dining experience. We liked the fact that restaurant menus change on different days of the week. The entertainment team Kekee, Francesca and Akeisa were enthusiastic and always fun. The pool area is laid out well, but sun beds with an umbrella were at a premium. Took the 'Exchange program' mini bus to Couples Swept Away for the day — their beach is spectacular but the two pools are tiny. In summary, we will definitely return in the future because of the staff and general atmosphere of the hotel.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Negril",
+        "text": "Thank you for choosing Couples Negril once again for your recent holiday, and for taking the time to leave such a wonderful review. We are delighted to hear that your second visit met your expectations and that our team, especially Gordon, contributed to your memorable experience. We look forward to welcoming you back in the future for another enjoyable stay."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d148625-r1054216059-Couples_Negril-Negril_Westmoreland_Parish_Jamaica.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0d3b2e 0%, #1a6b4a 50%, #2d9e6b 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0d3b2e, #1a6b4a, #2d9e6b)"
+}

@@ -1,5 +1,177 @@
 [
   {
+    "id": "hedonism-ii",
+    "region": "jamaica",
+    "rank": 1,
+    "name": "Hedonism II",
+    "tagline": "The world's most famous lifestyle resort — Negril's legendary nudist haven",
+    "location": "Rutland Point, Negril, Westmoreland Parish, Jamaica",
+    "type": "Adults-only · Lifestyle · Nudist-Optional · All-Inclusive",
+    "tags": [
+      "lifestyle",
+      "beach",
+      "party",
+      "value"
+    ],
+    "price_range": "$300–$600",
+    "price_sort": 450,
+    "rooms": "280 rooms — nude/prude sections",
+    "best_for": "Lifestyle couples, nudists, first-timers to the lifestyle scene",
+    "ratings": {
+      "overall": "8.2",
+      "google": "4.3 / 5.0",
+      "tripadvisor": "4 / 5 (4,412)",
+      "booking": "—",
+      "expedia": "—"
+    },
+    "sentiment": {
+      "positive": 75,
+      "neutral": 12,
+      "negative": 13,
+      "polarity": 0.35,
+      "label": "Positive"
+    },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/04/94/39/hedonism-ii.jpg",
+    "card_gradient": "linear-gradient(135deg, #1a0a2e 0%, #3d1a6b 50%, #7b2d8b 100%)"
+  },
+  {
+    "id": "couples-negril",
+    "region": "jamaica",
+    "rank": 2,
+    "name": "Couples Negril",
+    "tagline": "Eco-certified romance on 18 acres of Seven Mile Beach",
+    "location": "Negril, Westmoreland Parish, Jamaica",
+    "type": "Couples-only · All-Inclusive",
+    "tags": [
+      "romance",
+      "beach",
+      "luxury"
+    ],
+    "price_range": "$350–$700",
+    "price_sort": 525,
+    "rooms": "234 rooms and suites",
+    "best_for": "Romantic escapes, anniversaries, first Jamaica all-inclusive",
+    "ratings": {
+      "overall": "8.4",
+      "google": "4.5 / 5.0",
+      "tripadvisor": "4 / 5 (5,765)",
+      "booking": "—",
+      "expedia": "—"
+    },
+    "sentiment": {
+      "positive": 80,
+      "neutral": 10,
+      "negative": 10,
+      "polarity": 0.42,
+      "label": "Very Positive"
+    },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/0a/98/fa/couples-negril.jpg",
+    "card_gradient": "linear-gradient(135deg, #0d3b2e 0%, #1a6b4a 50%, #2d9e6b 100%)"
+  },
+  {
+    "id": "couples-swept-away",
+    "region": "jamaica",
+    "rank": 3,
+    "name": "Couples Swept Away",
+    "tagline": "World-class sports complex meets romance on Seven Mile Beach",
+    "location": "Norman Manley Blvd, Negril, Westmoreland Parish, Jamaica",
+    "type": "Couples-only · All-Inclusive",
+    "tags": [
+      "romance",
+      "beach",
+      "sports",
+      "value"
+    ],
+    "price_range": "$300–$550",
+    "price_sort": 425,
+    "rooms": "312 suites on 19 acres",
+    "best_for": "Active couples, sports enthusiasts, long-stay value",
+    "ratings": {
+      "overall": "8.6",
+      "google": "4.5 / 5.0",
+      "tripadvisor": "4 / 5 (6,773)",
+      "booking": "—",
+      "expedia": "—"
+    },
+    "sentiment": {
+      "positive": 82,
+      "neutral": 10,
+      "negative": 8,
+      "polarity": 0.44,
+      "label": "Very Positive"
+    },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/67/b0/38/shimmering-blue-swimming.jpg",
+    "card_gradient": "linear-gradient(135deg, #0a2a4a 0%, #1a5080 50%, #2a7eb5 100%)"
+  },
+  {
+    "id": "sandals-negril",
+    "region": "jamaica",
+    "rank": 4,
+    "name": "Sandals Negril",
+    "tagline": "Luxury adults-only all-inclusive on Negril's best stretch of beach",
+    "location": "Negril, Westmoreland Parish, Jamaica",
+    "type": "Adults-only · Couples-Focused · Luxury All-Inclusive",
+    "tags": [
+      "luxury",
+      "romance",
+      "beach"
+    ],
+    "price_range": "$400–$700",
+    "price_sort": 550,
+    "rooms": "222 rooms and suites",
+    "best_for": "Luxury-seeking couples, honeymoons, Sandals loyalists",
+    "ratings": {
+      "overall": "8.5",
+      "google": "4.5 / 5.0",
+      "tripadvisor": "4 / 5 (11,816)",
+      "booking": "—",
+      "expedia": "—"
+    },
+    "sentiment": {
+      "positive": 80,
+      "neutral": 10,
+      "negative": 10,
+      "polarity": 0.4,
+      "label": "Very Positive"
+    },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4d/63/83/sandals-negril-beach.jpg",
+    "card_gradient": "linear-gradient(135deg, #2a1a08 0%, #6b4010 50%, #c08020 100%)"
+  },
+  {
+    "id": "couples-sans-souci",
+    "region": "jamaica",
+    "rank": 5,
+    "name": "Couples Sans Souci",
+    "tagline": "Intimate clifftop hideaway with Jamaica's legendary mineral pool",
+    "location": "Ocho Rios, Saint Ann Parish, Jamaica",
+    "type": "Couples-only · All-Inclusive",
+    "tags": [
+      "romance",
+      "luxury",
+      "privacy"
+    ],
+    "price_range": "$350–$550",
+    "price_sort": 450,
+    "rooms": "150 ocean-view suites",
+    "best_for": "Maximum privacy, special occasions, spa seekers",
+    "ratings": {
+      "overall": "8.5",
+      "google": "4.5 / 5.0",
+      "tripadvisor": "4 / 5 (5,373)",
+      "booking": "—",
+      "expedia": "—"
+    },
+    "sentiment": {
+      "positive": 83,
+      "neutral": 8,
+      "negative": 9,
+      "polarity": 0.43,
+      "label": "Very Positive"
+    },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7f/3f/92/beautiful-negril-beach.jpg",
+    "card_gradient": "linear-gradient(135deg, #0a1e3d 0%, #0e3d6b 50%, #1a6b8a 100%)"
+  },
+  {
     "id": "sandals-royal-bahamian",
     "region": "nassau-bahamas",
     "rank": 1,
@@ -439,6 +611,7 @@
       "polarity": 0.6,
       "label": "Very Positive"
     },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b5/1b/60/el-dorado-maroma-by-karisma.jpg",
     "card_gradient": "linear-gradient(135deg, #0a1a3d 0%, #10306b 50%, #2050a0 100%)"
   },
   {
@@ -472,6 +645,7 @@
       "polarity": 0.51,
       "label": "Very Positive"
     },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3b/0c/c2/caption.jpg",
     "card_gradient": "linear-gradient(135deg, #1a3d0a 0%, #2a6020 50%, #3a8030 100%)"
   },
   {
@@ -506,6 +680,7 @@
       "polarity": 0.45,
       "label": "Very Positive"
     },
+    "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3b/5b/ee/caption.jpg",
     "card_gradient": "linear-gradient(135deg, #3d2a0a 0%, #6b4810 50%, #a07020 100%)"
   },
   {

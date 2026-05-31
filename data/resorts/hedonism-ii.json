@@ -1,0 +1,230 @@
+{
+  "id": "hedonism-ii",
+  "region": "jamaica",
+  "rank": 1,
+  "name": "Hedonism II",
+  "tagline": "The world's most famous lifestyle resort — Negril's legendary nudist haven",
+  "location": "Rutland Point, Negril, Westmoreland Parish, Jamaica",
+  "type": "Adults-only · Lifestyle · Nudist-Optional · All-Inclusive",
+  "tags": [
+    "lifestyle",
+    "beach",
+    "party",
+    "value"
+  ],
+  "price_range": "$300–$600",
+  "price_sort": 450,
+  "rooms": "280 rooms — nude/prude sections",
+  "best_for": "Lifestyle couples, nudists, first-timers to the lifestyle scene",
+  "ratings": {
+    "overall": "8.2",
+    "google": "4.3 / 5.0",
+    "tripadvisor": "4 / 5 (4,412)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "8.5",
+    "Beach": "9.2",
+    "Service": "8.4",
+    "Dining": "8.0",
+    "Value": "8.3"
+  },
+  "sentiment": {
+    "positive": 75,
+    "neutral": 12,
+    "negative": 13,
+    "polarity": 0.35,
+    "label": "Positive"
+  },
+  "contact": {
+    "phone_us": "+1 876 957 5200",
+    "email": "reservations@hedonism.com",
+    "website": "hedonism.com",
+    "address": "Rutland Point, Negril, Westmoreland Parish, Jamaica"
+  },
+  "description": "The world's most famous lifestyle resort — 40+ years on Negril's legendary Seven Mile Beach. Separate nude and clothed ('prude') sides share one resort, with the Kama Sutra Palace offering free tantric workshops and couples massage. Travelers' Choice on TripAdvisor. Known for foam parties, Reggae nights, and a genuinely non-judgmental, anything-goes atmosphere. Rooms are functional rather than luxurious — the draw is the experience, not the décor.",
+  "highlights": [
+    "World's most iconic lifestyle/nudist resort — 40+ years of heritage",
+    "Separate nude and clothed ('prude') pool, beach, hot tub, and dining areas",
+    "Kama Sutra Palace — free daily tantric workshops + private couples massage",
+    "Travelers' Choice TripAdvisor award winner",
+    "Seven Mile Beach — one of the Caribbean's finest stretches of white sand",
+    "All-inclusive: premium spirits, meals, watersports, entertainment",
+    "Foam parties, Reggae nights, themed events nightly — legendary party scene"
+  ],
+  "considerations": [
+    "Rooms are dated and functional — not a luxury property",
+    "Older infrastructure — some guests note maintenance issues",
+    "Can be overwhelming for true first-timers — research beforehand",
+    "Not exclusively swinger/lifestyle — wide mix of open-minded guests",
+    "Beach security stickers required to cover cameras — enforced"
+  ],
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/04/94/39/hedonism-ii.jpg",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/04/94/39/hedonism-ii.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/04/94/39/hedonism-ii.jpg",
+      "label": "Hedonism II — Seven Mile Beach",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/6a/0d/d8/caption.jpg",
+      "label": "Nude Beach & Pool",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/6a/0d/d6/caption.jpg",
+      "label": "Resort Grounds",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/6a/0d/d5/caption.jpg",
+      "label": "Beach Scene",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/6a/0d/d4/caption.jpg",
+      "label": "Pool Area",
+      "user": true
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/04/94/39/hedonism-ii.jpg",
+      "label": "Hedonism II Resort View",
+      "user": false
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+      "label": "Entertainment & Activities",
+      "user": true
+    },
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/45/2c/bb/coco-lapalm-sea-side.jpg",
+      "label": "Negril Beach",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-w/32/6a/0d/d8/caption.jpg",
+      "label": "Beachfront",
+      "user": true
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Danielle S",
+      "initials": "DS",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Absolutely incredible 7 mile beach — nude and prude sides with hired security to promote privacy. The restaurants were some of the best food I've had: HUGE recommendation for Flames on the beach. The staff: we've made friends for life. Bar staff special mention to Ricardo Barnes and Miss Paulette. The entertainment team — Winston is a badman and Miss Julissa and AnnaKay kill it with the beach games! We had 1 issue with a fellow guest and the situation was sorted immediately by security and David the manager. Unfortunately I stepped on a sea urchin (BRING BEACH SHOES!) but the medical staff were so quick to get me in a wheelchair and immediately get to work. All in all a fantastic holiday — I loved snorkeling (all inclusive) and can't wait to return.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Diane Lange, Owner at Hedonism II",
+        "text": "Hedo Greetings! It sounds like you had a fabulous time! We are so sorry to hear about the sea urchins — we do offer water shoes at Watersports in case you forget yours. Winston, a bad man? We are thinking of the same Winston for sure. He doesn't miss a beat. So many wonderful staff, and we are proud of them all. Cheers!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1049140561-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Climber10675301226",
+      "initials": "CL",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Just got home from a wonderful return trip to Hedo. Fabulous time as always. Beautiful beach, amazing watersports, terrific spa and gym, and super friendly staff and guests. For us, the team at the Kama Sutra Palace made the special difference with daily yoga on the beach, fun classes and wonderful massage. Thank you so much to Rebecca, Carmen and Mattea and newbies Lilly and Laura for making our holiday so special.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Diane Lange, Owner at Hedonism II",
+        "text": "Hedo Greetings! We are so pleased you took the time to engage with the Kama Sutra Team. The KS team is very passionate about their teachings, classes and massages. They are really happy when our guests are really happy! Thank you for your complementary comments, and for fueling their motivation. Kama Sutra. Only at H2. One Love."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1049064802-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Jan R",
+      "initials": "JR",
+      "date": "January 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Kama Sutra Palace was beautiful. The morning sessions were a delight, but the couples Tantra massage was just INCREDIBLE! Sensual (not sexual) — the experience was like nothing we'd ever had. Carmen and Rebecca just made the world disappear for an hour, transporting us into a fantasy of calmness and peace. A must do for anyone that has never experienced anything like that.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Diane Lange, Owner at Hedonism II",
+        "text": "Hedo Greetings. Being transported to a fantasy world — this is what it is all about! Rebecca and Carmen and the KS team are very passionate about what they teach. We are so glad you enjoyed. Only at Hedonism II! One love!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1047721138-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "natalliask",
+      "initials": "NA",
+      "date": "January 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "The whole place is magical, especially the Kama Sutra Palace. Having a tantric massage is like being touched by spring sunshine — you become more alive, sensual and vibrant! Visited Hedo 2 many times, but were there for the first time at Christmas and it was wonderful. Playing games with others, reconnecting with your other half at KS Christmas event, watching the parade and having fun at the foam pool party, meals and entertainment were spectacular! The best Christmas! Special thanks to KS staff: Rebecca, Carmen, Mattia, Laura and Lily.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Diane Lange, Owner at Hedonism II",
+        "text": "Hedo Greetings. A magical time! We are so pleased you had a great experience over Christmas. The KS team is very passionate about what they do, and the most caring and sharing teachers you will encounter anywhere. Thank you for coming home for Christmas! One Love."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1047441774-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Wayne B",
+      "initials": "WB",
+      "date": "January 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Awesome hotel, always a thrill — the ambiance, the liberty, the other-world experience, the home for your colourful expression. This place is fun in heaven. Shout out to my peeps: Entertainment team Tianna, Usain, Chrissy, Ricardo — always energetic, always crazy fun, legendary. At the Bar: Marlene, Diandra, Stacy, Kemeisha, Nicole — my ladies forever. At the Spa: there is only one Kafara. LOVE THIS PLACE FOREVER AND EVER!",
+      "sentiment": "pos",
+      "response": {
+        "by": "Diane Lange, Owner at Hedonism II",
+        "text": "Hedo Greetings. We are smiling really big smiles! Hedo is what you want to make of it, and so much more. Our guests are non-judgmental, diverse, compassionate and they have much respect for everyone. The perfect mix for a perfect vacation. One Love!"
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1045553872-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "Maps41220024544",
+      "initials": "MA",
+      "date": "December 2025",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "This is a review of a special learning experience for couples at Hedonism II. The resort is not solely a destination for swingers — it's for any couple seeking a resort centered on intimacy. The Kama Sutra Palace is staffed by 5 European instructors offering free daily workshops on intimacy and the deeper layers of relationships. Beyond the free group sessions, private tantric couples massage is available — unlike any traditional massage, partners are massaged simultaneously with the goal of elevating the intimate experience between partners. Don't expect actual sex at the Kama Sutra Palace; expect sensory experiences and techniques to broaden your horizon. IMHO anyone coming to Hedonism should investigate their offerings. Highly recommended.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Diane Lange, Owner at Hedonism II",
+        "text": "Hedo Greetings! And thank you for your thorough and in-depth synopsis of our Kama Sutra Palace, ONLY at Hedo! We appreciate your posting on TA, so others who are curious can get an idea what to expect. Thanks for your endorsement! One Love."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1044312581-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "NegrilRookie2025",
+      "initials": "NR",
+      "date": "November 2025",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "First time at Hedo and I had mixed feelings. The beach is absolutely stunning — probably the best stretch of Seven Mile Beach. Staff are genuinely friendly and welcoming. However, the rooms are showing their age and could use serious renovation. The all-inclusive food is decent but not exceptional. The atmosphere is exactly what you'd expect — inclusive, non-judgmental, and fun. If you come for the experience rather than the luxury, you'll have a great time. If you're expecting five-star accommodation, look elsewhere.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1042780134-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    },
+    {
+      "name": "KamasutraFan",
+      "initials": "KF",
+      "date": "October 2025",
+      "platform": "TripAdvisor",
+      "stars": 4,
+      "rating_text": "4/5",
+      "text": "Our fourth time back and Hedo never disappoints. The mix of people is always interesting — couples, singles, first-timers, old-timers. Everyone respects boundaries and the security team enforces the no-camera rules strictly. The foam party is still legendary. Rooms are basic but clean. The Kama Sutra classes are what keep us coming back — Rebecca and Carmen are extraordinary. Book your couples massage early as slots fill fast. Entertainment team works incredibly hard every single night.",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147313-d147782-r1041226093-Hedonism_II-Negril_Westmoreland_Parish_Jamaica.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #1a0a2e 0%, #3d1a6b 50%, #7b2d8b 100%)",
+  "detail_gradient": "linear-gradient(135deg, #1a0a2e, #3d1a6b, #7b2d8b)"
+}

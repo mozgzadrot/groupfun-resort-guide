@@ -6,6 +6,7 @@ const FLAG_ISO = {
   'punta-cana': 'do',
   'nassau-bahamas': 'bs',
   'spain': 'es',
+  'jamaica': 'jm',
 };
 
 export async function renderHome(main) {
@@ -79,6 +80,4 @@ export async function renderHome(main) {
           <strong>Disclaimer.</strong> Resort ratings, reviews, descriptions, photos, pricing, and contact details on this site are aggregated from third-party review platforms and resort websites. This content is not produced or independently verified by GroupFun, and GroupFun makes no representation or warranty as to its accuracy, completeness, or currency. GroupFun accepts no responsibility or liability for travel decisions made on the basis of information presented here. Always confirm rooms, rates, policies, availability, and travel requirements directly with each resort before booking.
         </p>
       </section>
-    </div>
-  `;
-}
+ 

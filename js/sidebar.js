@@ -7,6 +7,7 @@ const FLAG_ISO = {
   'punta-cana': 'do',
   'nassau-bahamas': 'bs',
   'spain': 'es',
+  'jamaica': 'jm',
 };
 
 // Short country labels for the sidebar (legacy used "Dominican Rep.").
@@ -15,6 +16,7 @@ const COUNTRY_SHORT = {
   'punta-cana': 'Dominican Rep.',
   'nassau-bahamas': 'Bahamas',
   'spain': 'Spain',
+  'jamaica': 'Jamaica',
 };
 
 const REGION_SHORT = {
@@ -22,6 +24,7 @@ const REGION_SHORT = {
   'punta-cana': 'Punta Cana',
   'nassau-bahamas': 'Nassau & Paradise Island',
   'spain': 'Naturist Resorts',
+  'jamaica': 'Jamaica',
 };
 
 export async function renderSidebar(root) {
@@ -87,7 +90,4 @@ export function highlightActive(path) {
   const list = root.querySelector(`[data-region-resorts="${region}"]`);
   if (list) list.style.display = 'block';
   if (resort) {
-    const link = root.querySelector(`.resort-link[data-resort="${resort}"]`);
-    if (link) link.classList.add('active');
-  }
-}
+    const link = root.querySelector(`.resort-link[data-resort=

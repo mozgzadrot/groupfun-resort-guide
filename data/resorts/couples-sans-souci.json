@@ -1,0 +1,225 @@
+{
+  "id": "couples-sans-souci",
+  "region": "jamaica",
+  "rank": 5,
+  "name": "Couples Sans Souci",
+  "tagline": "Intimate clifftop hideaway with Jamaica's legendary mineral pool",
+  "location": "Ocho Rios, Saint Ann Parish, Jamaica",
+  "type": "Couples-only · All-Inclusive",
+  "tags": [
+    "romance",
+    "luxury",
+    "privacy"
+  ],
+  "price_range": "$350–$550",
+  "price_sort": 450,
+  "rooms": "150 ocean-view suites",
+  "best_for": "Maximum privacy, special occasions, spa seekers",
+  "ratings": {
+    "overall": "8.5",
+    "google": "4.5 / 5.0",
+    "tripadvisor": "4 / 5 (5,373)",
+    "booking": "—",
+    "expedia": "—"
+  },
+  "category_ratings": {
+    "Romance": "9.3",
+    "Beach": "8.6",
+    "Service": "9.0",
+    "Dining": "8.8",
+    "Value": "8.2"
+  },
+  "sentiment": {
+    "positive": 83,
+    "neutral": 8,
+    "negative": 9,
+    "polarity": 0.43,
+    "label": "Very Positive"
+  },
+  "contact": {
+    "phone_us": "1-800-COUPLES (268-7537)",
+    "email": "info@couples.com",
+    "website": "couples.com/resorts/sans-souci",
+    "address": "White River Road, Ocho Rios, Saint Ann Parish, Jamaica"
+  },
+  "description": "Jamaica's most intimate Couples resort — 150 ocean-view suites set on a dramatic clifftop above the Caribbean with a legendary natural mineral pool. Sans Souci means 'without worries' in French, and this resort earns that name with the highest romance and service scores of any Couples property. The Ocho Rios north-coast location offers a quieter, more secluded alternative to the Negril party scene. A genuine haven for honeymooners and anniversary couples.",
+  "highlights": [
+    "Natural mineral freshwater pool — unique to this resort in Jamaica",
+    "Highest romance and service scores of any Couples resort",
+    "150 ocean-view suites on a dramatic clifftop setting",
+    "Charles Spa — award-winning spa with mineral-infused treatments",
+    "Quieter north-coast location — Ocho Rios is more secluded than Negril",
+    "Clothing-optional Au Naturel section included",
+    "Airport transfers included from both Montego Bay and Kingston"
+  ],
+  "considerations": [
+    "Ocho Rios is a 2-hour transfer from Montego Bay airport",
+    "Beach is smaller and less dramatic than Negril properties",
+    "Fewer restaurants than larger resorts",
+    "North coast location suits those seeking seclusion over nightlife"
+  ],
+  "hero": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7f/3f/92/beautiful-negril-beach.jpg",
+  "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7f/3f/92/beautiful-negril-beach.jpg",
+  "photos": [
+    {
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/7f/3f/92/beautiful-negril-beach.jpg",
+      "label": "Couples Sans Souci — North Coast",
+      "user": false
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/f6/72/cd/caption.jpg",
+      "label": "Clifftop Ocean View",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/f9/30/a3/caption.jpg",
+      "label": "Mineral Pool",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/9b/af/c4/caption.jpg",
+      "label": "Ocean Suite",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ac/7f/36/caption.jpg",
+      "label": "Spa Terrace",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/6a/0d/d8/caption.jpg",
+      "label": "North Coast Beach",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/ef/97/14/caption.jpg",
+      "label": "Dining — Palazzina",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/b3/d7/8b/caption.jpg",
+      "label": "Sunset View",
+      "user": true
+    },
+    {
+      "url": "https://media-cdn.tripadvisor.com/media/photo-l/32/92/fe/ff/caption.jpg",
+      "label": "Pool Terrace",
+      "user": true
+    }
+  ],
+  "reviews": [
+    {
+      "name": "aliciabooth6",
+      "initials": "AB",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "We just came back from a 10 day stay at Couples and only have good things to say! The hotel itself is gorgeous — lots of trees, right on a beach, lots of little pathways to explore. There are 3 pools but we spent all our time at the main pool right on the beach by the best bar. There are comfy sunbeds and umbrellas, and we never had an issue finding a spot. The beach itself is lovely too, with lots of free water sports options including jet skis and snorkelling. The food is also great with 3 main restaurants. The Casanova more fine dining restaurant was probably my fave, but the beach restaurant did great easy lunches. Drinks were great and plentiful. The staff were mostly all fantastic — particularly the entertainment staff and a few standout bar staff who really made the time special. The reception and guest services were always happy to help with any excursions. Overall it was an amazing holiday and the hotel is a great choice for a chilled out, friendly all-inclusive in a lovely country!",
+      "sentiment": "pos",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1061137835-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "Debbie D",
+      "initials": "DD",
+      "date": "February 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Since arriving here I cannot fault the hotel. We have a large airy well furnished room with a large balcony and great views. The grounds are beautiful with views to die for round every corner. Staff are genuinely helpful, kind and unfailingly cheerful. Carole at breakfast singing while flipping eggs and pancakes is a special treat, as is the gentleman playing contemporary tunes on the violin. The Martini bar has a jazz trumpeter for atmosphere and the sunset colours are very lovely. The main beach and pool are immaculate and quiet. So much is included and the food and drink are excellent. We will be back!",
+      "sentiment": "pos",
+      "response": {
+        "by": "CouplesSocialMgr, Couples Sans Souci",
+        "text": "Thank you so much for sharing this wonderful review. We truly appreciate you giving us the opportunity to address your initial concerns, and we're so pleased everything was resolved quickly. It's fantastic to hear how much you enjoyed your stay and especially happy that our team made such a positive impression. We will be sure to share your kind words with Carole and our talented violinist. We're delighted you had a memorable experience and look forward to welcoming you back again."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1051892147-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "Rhonda L",
+      "initials": "RL",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "Stayed at Couples Sans Souci for 10 days starting March 16th 2026. Place was awesome. Pools, grounds, all was very clean and well kept up. New general manager has everything well organized and everybody doing their job. The place is great — too bad some of the people that go there are inconsiderate, saving 2 chairs at the pool AND 2 chairs on the beach and never sitting in any of them. The resort should put up no cell phone allowed signs by pools and all restaurants. Rooms were very clean with good water pressure and AC. Couples just has to do a little work on their pricing — getting a little high, as we could tell by not being sold out in March. All in all, another great trip. Chuck and Rhonda.",
+      "sentiment": "pos",
+      "response": {
+        "by": "Gestor de Experiencia, Couples Sans Souci",
+        "text": "Dear Rhonda L, thank you for sharing your wonderful experience. We are delighted to hear that you enjoyed our facilities. Your feedback is invaluable, and we look forward to welcoming you back for another relaxing stay. Regards, Couples Customer Care Team."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1055815444-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "Jessica R",
+      "initials": "JR",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "I expected so much better. I have to agree with other reviews that say this doesn't align with my experience and expectations for a 5-star resort. Pros: Getting there was easy and smooth. The grounds are gorgeous, but there are a lot of steps. Room is a good size and very comfortable. Most of the staff are super friendly. Suppers are good and quite enjoyable. Generally quiet and relaxing. Cons: Brochure said things were included but they were actually only available at significant cost. Many activities are only scheduled for 1 day/week. They say there are 6 restaurants but there are only 3 for supper. We booked an ocean view suite and can only see the ocean if we stand at the edge of the balcony. They asked if this was for an occasion at every turn — we shared it was our 25th anniversary — but didn't do anything about it. Major updates and renovations needed — the pools are chipped, the windows are warped, everything could use a fresh coat of paint. I didn't expect perfect but I expected a 5-star resort worth what I paid for it.",
+      "sentiment": "mixed",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1061003669-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "66rafidh",
+      "initials": "66",
+      "date": "July 2025",
+      "platform": "TripAdvisor",
+      "stars": 5,
+      "rating_text": "5/5",
+      "text": "This was our 3rd stay at a Couples resort. Our room was in block F, located next door to the lobby — very convenient. The room was super newly renovated and we had a partial ocean view. The resort is small and very intimate; plenty of palapas and daybeds at the beach and in the mineral pool. The walks at the resort are breathtaking — you feel as if you were in a tropical forest. The food is great, the main buffet is small but had everything, food is always very fresh and staff constantly replenishes the chafing dishes. Casanova was our favorite restaurant — we had the best food at any all-inclusive in the Caribbean. Please visit the Java Cafe near the lobby, the barista will make you the best hot or cold coffee you could ask for. Big thank you to Kevonne and Chedine for making our stay a fantastic one — you are very special! Sans Souci now has a special place in our hearts. We'll definitely be back again.",
+      "sentiment": "pos",
+      "response": {
+        "by": "CouplesSocialMgr, Couples Sans Souci",
+        "text": "Thank you for sharing your experience and for your continued loyalty to Couples Resorts. Your recognition of our culinary team and other team members are truly appreciated and will be shared. We're honoured that Sans Souci has earned a special place with you and look forward to welcoming you back. Regards, Couples Customer Care Team."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1047191710-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "Jeremy H",
+      "initials": "JH",
+      "date": "March 2026",
+      "platform": "TripAdvisor",
+      "stars": 2,
+      "rating_text": "2/5",
+      "text": "Our 4th visit to Couples and we were shocked just how far it has gone downhill since our last visit 2.5 years ago. This was our 3rd trip to the Caribbean in 6 months — more expensive for 12 nights than the 14 nights we had at Sandals in Barbados and at Coyaba Beach in Grenada. No welcoming, no sign of a senior manager at any time and we weren't asked once how our holiday was going. It's a beautiful location but the whole place was looking tired with rotting timbers, tripping hazards with poorly maintained surfaces and mouldy split sun bed cushions. Penny pinching was apparent in the catering — no orange, grapefruit or papaya or mango at any point. And the fish of the day was snapper, every day. The scuba diving dive leaders are experienced and friendly. But the small dive boat makes diving prone to cancellation if there's more than a metre swell — 4 days in a row the diving was cancelled. With such underwhelming resort senior management just letting the place spiral downhill, we won't be back.",
+      "sentiment": "neg",
+      "response": {
+        "by": "CouplesSocialMgr, Couples Sans Souci",
+        "text": "Thank you for taking the time to share your feedback following your fourth visit with us. We truly value your loyalty and are glad to know you found our team warm and helpful, though we are very sorry this stay did not reflect the positive experiences you've had in the past. We regret that your return was not acknowledged as it should have been. Please rest assured that your comments have been shared with our management team. We genuinely hope you might consider visiting again."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1055382335-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "gkirltd",
+      "initials": "GK",
+      "date": "January 2026",
+      "platform": "TripAdvisor",
+      "stars": 3,
+      "rating_text": "3/5",
+      "text": "We have stayed here a couple of years ago and also another Couples property. The resort is in a beautiful spot and very private, perfect for a relaxing break. We were checked in very easily, housekeeping was perfect, and most staff are very friendly. For the negatives: The Bella Vista lunch menu has not changed in two years and at virtually every visit we were told they don't have 3+ items. Service was very mediocre. The Palazzina was good if you got there early for fresh food. We booked Casanova twice — food and service were very good both times but couldn't get a 3rd booking. Room service says 24 hours but it finishes at 22:00. Sunbeds not always available so towel-droppers were out in force. Golf used to be free and the website still states it's included, which is misleading. Overall I enjoyed the holiday and the setting but felt it was definitely nowhere near as polished as our first visit. Would I return again? I would need to think about that.",
+      "sentiment": "mixed",
+      "response": {
+        "by": "CouplesSocialMgr, Couples Sans Souci",
+        "text": "Thank you for choosing to return and for taking the time to share your feedback. We're pleased to hear you enjoyed the beautiful setting, your accommodations, and the service from many of our team members. We sincerely apologize that certain aspects of your dining and overall experience did not meet expectations. Your concerns regarding consistency, availability, and communication have been shared with the relevant teams for review and improvement. We truly value your loyalty to our brand."
+      },
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1047673417-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    },
+    {
+      "name": "Anonymous Guest",
+      "initials": "AG",
+      "date": "May 2026",
+      "platform": "TripAdvisor",
+      "stars": 1,
+      "rating_text": "1/5",
+      "text": "Currently staying here and would not recommend at all. Checked in with lots of insects running around our feet. Staff are superficially pleasant but when you ask for help you essentially get a 'computer says no' response. Could not change rooms despite being given the wrong room with a broken door, blocked toilet and insects. Could not provide insect repellent for the room. Could not provide basic toiletries — advised to buy from the overpriced gift shop. Constant attempts at upselling to various tours. Buffet restaurant at dinner has horrendously slow service. Go anywhere else or allow 2 hours for substandard food.",
+      "sentiment": "neg",
+      "response": null,
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g147312-d251578-r1061664061-Couples_Sans_Souci-Ocho_Rios_Saint_Ann_Parish_Jamaica.html"
+    }
+  ],
+  "card_gradient": "linear-gradient(135deg, #0a1e3d 0%, #0e3d6b 50%, #1a6b8a 100%)",
+  "detail_gradient": "linear-gradient(135deg, #0a1e3d, #0e3d6b, #1a6b8a)"
+}
